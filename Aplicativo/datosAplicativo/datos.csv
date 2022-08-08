@@ -1,0 +1,1730 @@
+﻿ESTU_GENERO,ESTU_VALORMATRICULAUNIVERSIDAD,ESTU_PAGOMATRICULACREDITO,ESTU_SEMESTRECURSA,FAMI_ESTRATOVIVIENDA,FAMI_TIENEINTERNET,FAMI_TIENECOMPUTADOR,FAMI_TIENESERVICIOTV,FAMI_TIENEAUTOMOVIL,FAMI_TIENEMOTOCICLETA,FAMI_NUMPERSONASACARGO,ESTU_HORASSEMANATRABAJA,PUNT_GLOBAL,FELICIDAD
+F,Menos de 500 mil,No,10,Estrato 4,Si,Si,No,Si,No,0,Entre 21 y 30 horas,236,muy feliz 
+M,Más de 7 millones,Si,09,Estrato 4,Si,Si,Si,Si,No,0,0,230,completamente feliz
+F,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 6,Si,Si,Si,Si,No,1,0,227,completamente feliz
+M,Más de 7 millones,Si,10,Estrato 4,Si,Si,Si,Si,No,1,Menos de 10 horas,224,completamente feliz
+F,Más de 7 millones,No,12 o más,Estrato 3,Si,Si,No,No,No,0,0,216,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 5,Si,Si,Si,Si,No,0,Entre 21 y 30 horas,215,muy feliz 
+M,Entre 4 millones y menos de 5.5 millones,Si,09,Estrato 6,Si,Si,Si,Si,No,0,0,213,completamente feliz
+F,Menos de 500 mil,No,10,Estrato 4,Si,Si,Si,Si,No,1,Menos de 10 horas,212,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 2,Si,Si,Si,Si,Si,2,Entre 21 y 30 horas,212,completamente feliz
+M,Menos de 500 mil,No,10,Estrato 3,Si,Si,Si,Si,No,2,0,211,completamente feliz
+F,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 3,Si,Si,No,No,No,3 o 4,Más de 30 horas,209,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,Si,No,No,Si,5 o 6,Entre 11 y 20 horas,207,feliz
+M,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,205,feliz
+M,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 3,Si,Si,No,No,Si,1,Más de 30 horas,205,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,204,feliz
+M,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 5,Si,Si,Si,Si,No,0,0,204,completamente feliz
+F,No pagó matrícula,No,09,Estrato 3,Si,Si,Si,Si,No,0,Entre 21 y 30 horas,203,completamente feliz
+M,Entre 1 millón y menos de 2.5 millones,Si,05,Estrato 5,Si,Si,Si,Si,No,0,0,201,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,12 o más,Estrato 4,Si,Si,Si,Si,No,2,Entre 11 y 20 horas,201,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 4,Si,Si,No,Si,Si,1,Más de 30 horas,201,completamente feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 1,No,Si,No,No,No,3 o 4,0,200,feliz
+M,Entre 4 millones y menos de 5.5 millones,No,08,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,200,feliz
+M,Menos de 500 mil,No,10,Estrato 3,Si,Si,Si,Si,No,0,Más de 30 horas,200,muy feliz 
+F,Entre 500 mil y menos de 1 millón,No,10,Estrato 4,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,199,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 5,Si,Si,Si,Si,No,0,Entre 11 y 20 horas,199,muy feliz 
+M,Entre 5.5 millones y menos de 7 millones,Si,07,Estrato 4,Si,Si,Si,Si,No,3 o 4,0,199,completamente feliz
+F,Menos de 500 mil,No,09,Estrato 2,Si,Si,Si,No,No,5 o 6,Entre 11 y 20 horas,198,feliz
+M,Entre 500 mil y menos de 1 millón,No,08,Estrato 5,Si,Si,Si,Si,No,1,0,197,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 3,Si,Si,Si,Si,No,2,0,197,feliz
+M,Entre 4 millones y menos de 5.5 millones,No,10,Estrato 1,No,Si,No,No,Si,3 o 4,Menos de 10 horas,197,completamente feliz
+F,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 2,Si,Si,No,No,Si,3 o 4,Más de 30 horas,197,completamente feliz
+F,Menos de 500 mil,No,10,Estrato 3,Si,Si,Si,No,No,1,0,196,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,07,Estrato 4,Si,Si,Si,No,No,3 o 4,Más de 30 horas,196,feliz
+F,Entre 4 millones y menos de 5.5 millones,No,10,Estrato 2,Si,Si,No,No,Si,2,Entre 11 y 20 horas,196,completamente feliz
+F,Menos de 500 mil,Si,09,Estrato 2,Si,Si,Si,No,No,2,Menos de 10 horas,195,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 3,Si,Si,Si,Si,No,2,0,194,completamente feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 3,Si,No,No,No,No,2,Entre 11 y 20 horas,193,feliz
+M,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 1,Si,Si,Si,No,No,3 o 4,0,193,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 6,Si,Si,Si,Si,No,0,0,193,completamente feliz
+F,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 4,Si,Si,Si,Si,No,1,0,193,completamente feliz
+F,No pagó matrícula,No,08,Estrato 2,No,No,Si,No,No,3 o 4,0,192,feliz
+M,Más de 7 millones,No,09,Estrato 4,Si,Si,Si,Si,No,0,Menos de 10 horas,191,muy feliz 
+F,Entre 500 mil y menos de 1 millón,Si,09,Estrato 6,Si,Si,Si,Si,No,2,Más de 30 horas,191,completamente feliz
+M,Más de 7 millones,No,09,Estrato 3,Si,Si,Si,No,No,3 o 4,0,190,feliz
+F,Entre 4 millones y menos de 5.5 millones,No,10,Estrato 4,Si,Si,Si,Si,No,0,Menos de 10 horas,190,completamente feliz
+M,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,189,feliz
+F,Entre 4 millones y menos de 5.5 millones,Si,10,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,189,muy feliz 
+F,Más de 7 millones,No,09,Estrato 2,Si,Si,Si,No,No,1,0,188,poco feliz 
+F,Entre 500 mil y menos de 1 millón,Si,09,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,188,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,Si,No,No,No,2,Más de 30 horas,188,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 3,Si,Si,Si,No,No,2,Entre 21 y 30 horas,188,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,Si,No,Si,No,3 o 4,Más de 30 horas,188,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,188,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 4,Si,Si,Si,Si,No,0,Más de 30 horas,187,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 5,Si,Si,Si,Si,No,1,Más de 30 horas,187,muy feliz 
+F,Entre 500 mil y menos de 1 millón,Si,08,Estrato 6,Si,Si,Si,Si,No,1,Más de 30 horas,187,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 2,Si,No,No,No,Si,2,Menos de 10 horas,187,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 2,Si,Si,Si,No,Si,3 o 4,Menos de 10 horas,187,completamente feliz
+F,Entre 1 millón y menos de 2.5 millones,No,07,Estrato 2,Si,Si,Si,No,No,2,0,186,poco feliz 
+F,Más de 7 millones,Si,10,Estrato 2,Si,Si,Si,No,No,2,0,186,feliz
+M,Más de 7 millones,Si,09,Estrato 4,Si,Si,No,No,No,3 o 4,Más de 30 horas,186,muy feliz 
+M,Entre 2.5 millones y menos de 4 millones,Si,10,Estrato 3,Si,Si,No,No,No,5 o 6,Más de 30 horas,186,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,185,feliz
+F,Entre 500 mil y menos de 1 millón,No,08,Estrato 4,Si,Si,Si,Si,No,0,Más de 30 horas,185,muy feliz 
+M,Entre 500 mil y menos de 1 millón,No,12 o más,Estrato 5,Si,Si,Si,Si,No,0,Entre 11 y 20 horas,185,muy feliz 
+M,Menos de 500 mil,No,11,Estrato 3,Si,Si,Si,No,Si,2,Más de 30 horas,185,muy feliz 
+F,Menos de 500 mil,No,09,Estrato 3,Si,Si,Si,Si,Si,5 o 6,Entre 21 y 30 horas,185,completamente feliz
+F,Más de 7 millones,No,12 o más,Estrato 2,Si,Si,Si,No,No,0,0,184,muy feliz 
+F,Entre 500 mil y menos de 1 millón,No,08,Estrato 2,Si,Si,Si,No,No,2,0,184,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 4,Si,Si,No,Si,No,1,0,184,muy feliz 
+M,Menos de 500 mil,No,09,Estrato 1,Si,Si,Si,No,No,2,Más de 30 horas,183,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,183,feliz
+F,Menos de 500 mil,No,08,Estrato 1,Si,Si,No,No,No,3 o 4,Menos de 10 horas,183,feliz
+F,Más de 7 millones,No,10,Estrato 3,Si,Si,Si,No,No,3 o 4,0,183,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 4,Si,Si,Si,Si,No,2,Menos de 10 horas,183,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 3,Si,Si,Si,No,Si,3 o 4,Entre 11 y 20 horas,183,muy feliz 
+F,Más de 7 millones,No,09,Estrato 4,Si,Si,No,Si,Si,0,Entre 11 y 20 horas,183,muy feliz 
+F,Más de 7 millones,Si,09,Estrato 1,Si,Si,No,No,No,0,0,182,feliz
+M,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 6,Si,Si,Si,Si,No,0,Entre 11 y 20 horas,182,feliz
+F,Entre 4 millones y menos de 5.5 millones,Si,10,Estrato 1,Si,Si,No,Si,No,3 o 4,Menos de 10 horas,182,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,182,muy feliz 
+M,Más de 7 millones,No,09,Estrato 3,Si,Si,Si,No,Si,5 o 6,Menos de 10 horas,182,completamente feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,181,poco feliz 
+M,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 3,Si,Si,No,No,No,2,Más de 30 horas,181,feliz
+M,Entre 4 millones y menos de 5.5 millones,Si,09,Estrato 2,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,181,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,Si,Si,Si,No,No,5 o 6,Más de 30 horas,181,feliz
+M,Entre 5.5 millones y menos de 7 millones,Si,08,Estrato 2,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,181,feliz
+F,Entre 500 mil y menos de 1 millón,Si,10,Estrato 3,Si,Si,Si,Si,Si,2,Menos de 10 horas,181,muy feliz 
+F,Entre 4 millones y menos de 5.5 millones,No,08,Estrato 4,Si,Si,No,Si,Si,2,Menos de 10 horas,181,completamente feliz
+M,Entre 4 millones y menos de 5.5 millones,No,10,Estrato 3,Si,No,No,No,No,3 o 4,Entre 11 y 20 horas,180,poco feliz 
+F,Más de 7 millones,No,09,Estrato 4,Si,Si,Si,Si,No,0,0,180,muy feliz 
+F,No pagó matrícula,No,09,Estrato 3,Si,Si,Si,Si,No,2,Menos de 10 horas,180,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,07,Estrato 3,Si,Si,Si,Si,No,2,Menos de 10 horas,180,muy feliz 
+F,No pagó matrícula,No,09,Estrato 2,Si,Si,Si,No,Si,3 o 4,Menos de 10 horas,180,completamente feliz
+F,Más de 7 millones,No,10,Estrato 2,Si,Si,Si,No,No,3 o 4,0,179,poco feliz 
+M,Entre 4 millones y menos de 5.5 millones,No,10,Estrato 2,Si,Si,Si,No,No,5 o 6,Menos de 10 horas,179,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 5,Si,Si,Si,Si,No,0,Entre 21 y 30 horas,179,poco feliz 
+F,Entre 4 millones y menos de 5.5 millones,No,09,Estrato 6,Si,Si,Si,Si,No,0,0,179,feliz
+M,Entre 500 mil y menos de 1 millón,Si,07,Estrato 1,No,No,No,No,Si,1,Más de 30 horas,179,feliz
+F,Menos de 500 mil,No,09,Estrato 2,No,No,No,No,Si,2,Más de 30 horas,179,feliz
+M,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 1,Si,No,No,No,Si,5 o 6,Entre 11 y 20 horas,179,completamente feliz
+F,Entre 4 millones y menos de 5.5 millones,Si,09,Estrato 2,Si,Si,No,No,Si,5 o 6,Más de 30 horas,179,completamente feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 1,Si,Si,Si,Si,Si,1,Más de 30 horas,179,completamente feliz
+M,Menos de 500 mil,No,09,Estrato 2,Si,Si,No,No,No,1,Más de 30 horas,178,poco feliz 
+F,Entre 5.5 millones y menos de 7 millones,Si,10,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,178,feliz
+M,Entre 500 mil y menos de 1 millón,No,08,Estrato 1,Si,Si,Si,No,No,5 o 6,Más de 30 horas,178,feliz
+M,Menos de 500 mil,No,12 o más,Estrato 2,Si,Si,Si,No,No,5 o 6,Más de 30 horas,178,feliz
+M,Más de 7 millones,No,11,Estrato 6,Si,Si,Si,Si,No,1,0,178,muy feliz 
+F,No pagó matrícula,No,08,Estrato 5,Si,Si,Si,Si,No,1,0,178,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,07,Estrato 3,Si,Si,Si,Si,No,2,Entre 21 y 30 horas,178,completamente feliz
+M,Más de 7 millones,Si,11,Estrato 2,Si,No,Si,Si,No,3 o 4,0,178,completamente feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,Si,Si,No,No,0,Entre 11 y 20 horas,177,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,08,Estrato 2,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,177,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,177,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 3,Si,Si,Si,Si,No,5 o 6,Entre 11 y 20 horas,177,muy feliz 
+M,Más de 7 millones,Si,12 o más,Estrato 5,Si,Si,Si,No,No,1,Entre 11 y 20 horas,176,poco feliz 
+M,No pagó matrícula,No,09,Estrato 1,Si,No,No,No,No,3 o 4,Más de 30 horas,176,poco feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,12 o más,Estrato 2,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,176,poco feliz 
+F,Entre 4 millones y menos de 5.5 millones,No,10,Estrato 1,No,Si,No,No,No,5 o 6,0,176,feliz
+F,Entre 4 millones y menos de 5.5 millones,No,10,Estrato 2,No,Si,No,Si,No,3 o 4,Más de 30 horas,176,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 2,Si,Si,Si,Si,No,3 o 4,Menos de 10 horas,176,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 3,No,Si,Si,No,Si,2,Entre 21 y 30 horas,176,muy feliz 
+F,Entre 4 millones y menos de 5.5 millones,Si,07,Estrato 1,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,176,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,Si,Si,No,No,1,Más de 30 horas,175,poco feliz 
+M,Entre 4 millones y menos de 5.5 millones,No,09,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,175,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 3,Si,Si,Si,No,No,3 o 4,0,175,feliz
+M,Menos de 500 mil,No,09,Estrato 4,Si,Si,Si,No,No,3 o 4,Más de 30 horas,175,muy feliz 
+F,No pagó matrícula,No,09,Estrato 2,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,175,muy feliz 
+F,No pagó matrícula,Si,08,Estrato 1,Si,Si,No,No,Si,1,Más de 30 horas,175,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 5,Si,Si,Si,Si,Si,0,0,175,completamente feliz
+F,Entre 5.5 millones y menos de 7 millones,Si,09,Estrato 3,Si,Si,Si,No,No,1,Más de 30 horas,174,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,07,Estrato 2,Si,No,Si,No,No,2,0,174,poco feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,07,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,174,feliz
+F,No pagó matrícula,No,09,Estrato 4,Si,Si,Si,Si,No,1,Más de 30 horas,174,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 3,Si,Si,Si,Si,No,2,Más de 30 horas,174,muy feliz 
+F,Más de 7 millones,Si,09,Estrato 3,Si,Si,Si,Si,No,3 o 4,0,174,muy feliz 
+M,Entre 5.5 millones y menos de 7 millones,No,10,Estrato 2,Si,No,Si,No,Si,3 o 4,Más de 30 horas,174,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 4,Si,Si,No,Si,Si,1,Más de 30 horas,174,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 6,Si,Si,Si,No,No,0,Más de 30 horas,173,poco feliz 
+M,No pagó matrícula,No,09,Estrato 3,Si,Si,Si,No,No,1,Menos de 10 horas,173,feliz
+M,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 4,Si,Si,Si,No,No,1,Entre 21 y 30 horas,173,feliz
+M,Entre 4 millones y menos de 5.5 millones,No,09,Estrato 2,Si,Si,Si,No,No,2,Entre 21 y 30 horas,173,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 3,Si,Si,Si,No,No,5 o 6,Más de 30 horas,173,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 6,Si,Si,Si,Si,No,0,0,173,muy feliz 
+M,Menos de 500 mil,No,09,Estrato 4,Si,Si,Si,Si,No,1,0,173,muy feliz 
+M,Entre 500 mil y menos de 1 millón,No,10,Estrato 2,Si,Si,Si,Si,No,1,Más de 30 horas,173,muy feliz 
+M,Más de 7 millones,Si,10,Estrato 2,Si,Si,Si,Si,No,3 o 4,0,173,muy feliz 
+M,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 3,Si,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,173,muy feliz 
+M,Más de 7 millones,No,12 o más,Estrato 3,Si,Si,Si,Si,No,3 o 4,Menos de 10 horas,173,muy feliz 
+F,Menos de 500 mil,No,09,Estrato 2,Si,Si,Si,No,Si,3 o 4,Entre 21 y 30 horas,173,completamente feliz
+M,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 2,No,Si,No,No,Si,5 o 6,Entre 11 y 20 horas,173,completamente feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 6,Si,Si,Si,Si,Si,0,Más de 30 horas,173,completamente feliz
+F,Entre 500 mil y menos de 1 millón,Si,07,Estrato 3,Si,Si,Si,No,No,2,Más de 30 horas,172,poco feliz 
+M,Menos de 500 mil,No,09,Estrato 3,Si,Si,Si,No,No,2,Más de 30 horas,172,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,172,feliz
+M,Entre 5.5 millones y menos de 7 millones,No,10,Estrato 2,Si,Si,Si,No,No,5 o 6,Entre 21 y 30 horas,172,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,06,Estrato 5,Si,Si,Si,Si,No,0,0,172,feliz
+M,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 4,Si,Si,Si,Si,No,1,Más de 30 horas,172,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,03,Estrato 2,Si,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,172,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 3,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,172,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 3,Si,Si,Si,No,Si,2,Más de 30 horas,172,feliz
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 1,Si,Si,No,No,Si,3 o 4,Menos de 10 horas,172,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,Si,No,No,Si,3 o 4,Más de 30 horas,172,muy feliz 
+F,Menos de 500 mil,No,09,Estrato 1,No,No,No,No,Si,5 o 6,Entre 11 y 20 horas,172,muy feliz 
+F,No pagó matrícula,No,10,Estrato 3,Si,Si,Si,Si,Si,1,Más de 30 horas,172,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 5,Si,Si,Si,Si,Si,2,Más de 30 horas,172,completamente feliz
+F,No pagó matrícula,No,08,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,172,completamente feliz
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 2,Si,Si,Si,No,No,2,Menos de 10 horas,171,poco feliz 
+F,Menos de 500 mil,No,07,Estrato 2,No,No,No,No,No,3 o 4,Entre 11 y 20 horas,171,poco feliz 
+F,Entre 4 millones y menos de 5.5 millones,Si,10,Estrato 2,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,171,poco feliz 
+F,Entre 4 millones y menos de 5.5 millones,Si,10,Estrato 1,Si,No,No,No,No,5 o 6,Entre 21 y 30 horas,171,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 1,Si,Si,No,No,No,5 o 6,Entre 11 y 20 horas,171,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,Si,No,No,5 o 6,Entre 11 y 20 horas,171,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 3,Si,Si,Si,Si,No,2,Entre 11 y 20 horas,171,muy feliz 
+M,Más de 7 millones,Si,11,Estrato 4,Si,Si,Si,Si,No,3 o 4,0,171,muy feliz 
+F,Entre 500 mil y menos de 1 millón,Si,10,Estrato 2,Si,Si,No,No,Si,3 o 4,Entre 21 y 30 horas,171,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,Si,08,Estrato 1,Si,Si,Si,No,Si,5 o 6,Más de 30 horas,171,muy feliz 
+M,Más de 7 millones,No,09,Estrato 3,Si,Si,No,No,No,2,0,170,poco feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,07,Estrato 1,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,170,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,Si,No,No,3 o 4,0,170,feliz
+M,No pagó matrícula,No,08,Estrato 3,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,170,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 2,Si,No,Si,No,No,5 o 6,0,170,feliz
+F,Más de 7 millones,No,08,Estrato 4,Si,Si,Si,Si,No,0,0,170,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,07,Estrato 4,Si,Si,Si,Si,No,1,Más de 30 horas,170,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 4,Si,Si,Si,Si,No,3 o 4,0,170,muy feliz 
+F,Menos de 500 mil,No,09,Estrato 3,No,No,Si,No,Si,3 o 4,Más de 30 horas,170,muy feliz 
+F,Menos de 500 mil,No,08,Estrato 1,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,170,completamente feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 4,Si,Si,Si,Si,Si,1,Más de 30 horas,170,completamente feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 1,No,Si,No,No,No,1,Más de 30 horas,169,poco feliz 
+M,Entre 500 mil y menos de 1 millón,No,08,Estrato 3,Si,Si,Si,No,No,1,Menos de 10 horas,169,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 2,Si,Si,Si,No,No,5 o 6,Más de 30 horas,169,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,11,Estrato 2,Si,Si,Si,Si,No,3 o 4,0,169,muy feliz 
+M,Entre 4 millones y menos de 5.5 millones,No,09,Estrato 4,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,169,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 3,Si,Si,No,No,No,2,0,168,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,Si,Si,No,No,No,3 o 4,0,168,feliz
+M,Menos de 500 mil,No,09,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,168,feliz
+M,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 3,Si,Si,No,No,No,5 o 6,0,168,feliz
+M,Entre 2.5 millones y menos de 4 millones,Si,08,Estrato 3,Si,Si,No,No,No,5 o 6,Más de 30 horas,168,feliz
+F,Entre 500 mil y menos de 1 millón,No,11,Estrato 6,Si,Si,Si,Si,No,0,Más de 30 horas,168,feliz
+F,Entre 500 mil y menos de 1 millón,No,10,Estrato 3,Si,Si,Si,Si,No,1,0,168,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,Si,Si,No,2,Más de 30 horas,168,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,Si,Si,No,3 o 4,0,168,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,Si,Si,No,Si,2,Más de 30 horas,168,muy feliz 
+F,Entre 4 millones y menos de 5.5 millones,Si,08,Estrato 1,Si,Si,No,No,Si,3 o 4,Más de 30 horas,168,muy feliz 
+F,Entre 5.5 millones y menos de 7 millones,No,09,Estrato 3,Si,Si,Si,Si,Si,3 o 4,0,168,completamente feliz
+M,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 1,Si,Si,No,No,No,1,Más de 30 horas,167,poco feliz 
+F,No pagó matrícula,No,09,Estrato 2,Si,Si,Si,No,No,2,Entre 21 y 30 horas,167,feliz
+F,Entre 4 millones y menos de 5.5 millones,No,10,Estrato 2,No,Si,Si,No,No,3 o 4,0,167,feliz
+F,Entre 500 mil y menos de 1 millón,No,10,Estrato 3,Si,Si,Si,Si,No,0,Más de 30 horas,167,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,10,Estrato 5,Si,Si,Si,Si,No,0,Menos de 10 horas,167,feliz
+F,Entre 4 millones y menos de 5.5 millones,No,07,Estrato 3,Si,Si,Si,Si,No,2,Entre 21 y 30 horas,167,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,Si,07,Estrato 3,Si,Si,Si,Si,No,2,Más de 30 horas,167,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,07,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,167,muy feliz 
+M,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 3,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,167,muy feliz 
+M,Más de 7 millones,No,07,Estrato 1,Si,Si,No,No,Si,5 o 6,Más de 30 horas,167,completamente feliz
+F,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 2,Si,Si,No,No,No,1,Menos de 10 horas,166,poco feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 2,Si,Si,Si,No,No,1,Más de 30 horas,166,poco feliz 
+F,No pagó matrícula,No,08,Estrato 2,Si,Si,Si,No,No,3 o 4,0,166,feliz
+F,Entre 4 millones y menos de 5.5 millones,Si,07,Estrato 3,Si,Si,No,No,No,3 o 4,0,166,feliz
+F,Entre 4 millones y menos de 5.5 millones,Si,08,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,166,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,10,Estrato 3,Si,No,No,Si,No,3 o 4,Entre 21 y 30 horas,166,feliz
+F,Más de 7 millones,No,08,Estrato 1,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,166,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 2,Si,Si,No,No,Si,3 o 4,Más de 30 horas,166,feliz
+M,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,166,feliz
+M,Entre 500 mil y menos de 1 millón,No,10,Estrato 2,Si,Si,No,No,Si,3 o 4,Entre 21 y 30 horas,166,feliz
+M,Entre 1 millón y menos de 2.5 millones,No,07,Estrato 1,Si,Si,Si,No,Si,5 o 6,Entre 11 y 20 horas,166,muy feliz 
+F,Entre 4 millones y menos de 5.5 millones,No,09,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Menos de 10 horas,166,muy feliz 
+M,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 2,No,Si,Si,No,No,1,0,165,poco feliz 
+M,Menos de 500 mil,No,09,Estrato 1,Si,Si,Si,No,No,1,Más de 30 horas,165,feliz
+F,Más de 7 millones,No,12 o más,Estrato 2,Si,Si,Si,No,No,1,Entre 11 y 20 horas,165,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 6,Si,Si,Si,No,No,1,Entre 21 y 30 horas,165,feliz
+F,Menos de 500 mil,No,10,Estrato 1,Si,Si,No,No,No,3 o 4,Menos de 10 horas,165,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,165,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,07,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,165,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 3,No,Si,No,No,No,5 o 6,Entre 11 y 20 horas,165,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 6,Si,Si,Si,Si,No,0,Más de 30 horas,165,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,08,Estrato 4,Si,Si,Si,Si,No,0,Más de 30 horas,165,muy feliz 
+M,Entre 500 mil y menos de 1 millón,No,10,Estrato 1,Si,Si,No,No,Si,0,Más de 30 horas,165,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 3,Si,Si,Si,No,Si,1,Menos de 10 horas,165,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 3,Si,Si,No,No,Si,1,Más de 30 horas,165,completamente feliz
+M,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,Si,Si,Si,2,0,165,completamente feliz
+F,No pagó matrícula,No,09,Estrato 2,Si,Si,No,No,No,1,Más de 30 horas,164,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 4,Si,Si,Si,No,No,2,Entre 21 y 30 horas,164,feliz
+F,No pagó matrícula,No,09,Estrato 3,Si,Si,Si,No,No,2,Entre 11 y 20 horas,164,feliz
+F,Entre 5.5 millones y menos de 7 millones,No,10,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,164,feliz
+F,Más de 7 millones,No,11,Estrato 2,Si,Si,Si,Si,No,1,0,164,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 4,Si,Si,No,Si,No,1,Más de 30 horas,164,feliz
+M,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 4,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,164,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 2,Si,Si,Si,No,Si,2,Entre 21 y 30 horas,164,muy feliz 
+F,Entre 500 mil y menos de 1 millón,No,08,Estrato 1,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,164,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 1,Si,No,Si,No,Si,5 o 6,Entre 21 y 30 horas,164,muy feliz 
+M,No pagó matrícula,No,08,Estrato 3,Si,Si,Si,No,Si,5 o 6,Más de 30 horas,164,muy feliz 
+F,Menos de 500 mil,No,08,Estrato 2,Si,Si,Si,Si,Si,5 o 6,Entre 21 y 30 horas,164,muy feliz 
+F,Menos de 500 mil,No,09,Estrato 3,Si,Si,Si,No,No,1,Entre 21 y 30 horas,163,poco feliz 
+F,No pagó matrícula,No,09,Estrato 3,Si,Si,Si,No,No,1,Más de 30 horas,163,poco feliz 
+M,Menos de 500 mil,No,07,Estrato 4,Si,Si,Si,No,No,1,Entre 21 y 30 horas,163,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 2,Si,Si,Si,No,No,2,Entre 11 y 20 horas,163,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 1,No,Si,No,No,No,3 o 4,Entre 21 y 30 horas,163,feliz
+F,Menos de 500 mil,No,09,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,163,muy feliz 
+F,No pagó matrícula,No,09,Estrato 3,Si,Si,Si,No,No,3 o 4,0,163,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 2,Si,Si,Si,No,No,5 o 6,Más de 30 horas,163,muy feliz 
+F,Entre 5.5 millones y menos de 7 millones,No,10,Estrato 3,Si,Si,Si,No,No,5 o 6,Entre 21 y 30 horas,163,muy feliz 
+F,No pagó matrícula,No,08,Estrato 3,Si,Si,Si,Si,No,2,0,163,muy feliz 
+M,Más de 7 millones,Si,09,Estrato 3,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,163,muy feliz 
+M,Entre 4 millones y menos de 5.5 millones,Si,07,Estrato 3,Si,Si,Si,No,Si,1,Más de 30 horas,163,completamente feliz
+F,Más de 7 millones,No,10,Estrato 3,Si,Si,Si,No,No,1,0,162,feliz
+M,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 1,No,No,Si,No,No,2,Entre 21 y 30 horas,162,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,10,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,162,feliz
+F,Menos de 500 mil,No,12 o más,Estrato 3,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,162,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,Si,Si,Si,No,1,Menos de 10 horas,162,muy feliz 
+F,No pagó matrícula,No,09,Estrato 4,Si,Si,Si,Si,No,1,Más de 30 horas,162,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 4,Si,Si,Si,Si,No,2,0,162,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 3,Si,Si,No,Si,No,2,Más de 30 horas,162,muy feliz 
+M,Menos de 500 mil,No,09,Estrato 2,Si,Si,Si,No,Si,0,Entre 21 y 30 horas,162,muy feliz 
+F,Entre 4 millones y menos de 5.5 millones,No,09,Estrato 3,Si,Si,No,No,Si,1,Entre 21 y 30 horas,162,muy feliz 
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 1,Si,Si,No,No,Si,5 o 6,Entre 21 y 30 horas,162,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 2,Si,Si,Si,No,Si,5 o 6,Menos de 10 horas,162,completamente feliz
+M,Entre 2.5 millones y menos de 4 millones,Si,10,Estrato 1,No,No,No,No,No,3 o 4,0,161,poco feliz 
+F,Entre 2.5 millones y menos de 4 millones,Si,07,Estrato 1,Si,Si,Si,No,No,3 o 4,Más de 30 horas,161,poco feliz 
+F,Entre 2.5 millones y menos de 4 millones,Si,10,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,161,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,07,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,161,feliz
+F,No pagó matrícula,Si,09,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,161,feliz
+F,Entre 4 millones y menos de 5.5 millones,No,09,Estrato 1,Si,Si,No,No,No,5 o 6,Entre 11 y 20 horas,161,feliz
+F,No pagó matrícula,No,09,Estrato 4,Si,Si,Si,Si,No,3 o 4,Entre 21 y 30 horas,161,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 1,Si,Si,No,No,Si,3 o 4,Entre 11 y 20 horas,161,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 1,Si,Si,No,Si,Si,3 o 4,Menos de 10 horas,161,muy feliz 
+F,Menos de 500 mil,No,09,Estrato 2,Si,Si,Si,No,No,0,Más de 30 horas,160,poco feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 3,Si,Si,Si,No,No,1,Más de 30 horas,160,poco feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,12 o más,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,160,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,160,feliz
+F,Entre 5.5 millones y menos de 7 millones,No,10,Estrato 3,Si,Si,No,No,No,3 o 4,Menos de 10 horas,160,feliz
+M,Entre 2.5 millones y menos de 4 millones,No,11,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,160,feliz
+M,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 2,Si,Si,Si,No,No,5 o 6,Más de 30 horas,160,feliz
+F,No pagó matrícula,No,08,Estrato 3,Si,Si,No,No,No,5 o 6,0,160,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,06,Estrato 5,Si,Si,Si,Si,No,0,0,160,feliz
+M,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 3,Si,Si,Si,Si,No,1,Entre 21 y 30 horas,160,feliz
+F,No pagó matrícula,No,09,Estrato 2,Si,Si,Si,Si,No,2,Más de 30 horas,160,feliz
+F,Menos de 500 mil,No,09,Estrato 2,No,No,Si,Si,No,3 o 4,Más de 30 horas,160,feliz
+M,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 3,Si,Si,Si,Si,No,3 o 4,Entre 21 y 30 horas,160,muy feliz 
+M,Entre 5.5 millones y menos de 7 millones,No,10,Estrato 4,Si,Si,Si,Si,No,3 o 4,Menos de 10 horas,160,muy feliz 
+F,Entre 4 millones y menos de 5.5 millones,No,09,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,160,muy feliz 
+F,Entre 5.5 millones y menos de 7 millones,Si,10,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,160,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 2,Si,Si,No,No,Si,3 o 4,Entre 21 y 30 horas,160,muy feliz 
+M,Entre 2.5 millones y menos de 4 millones,Si,10,Estrato 3,Si,Si,Si,Si,Si,0,Más de 30 horas,160,completamente feliz
+M,Entre 5.5 millones y menos de 7 millones,No,09,Estrato 3,Si,Si,Si,Si,Si,2,Entre 21 y 30 horas,160,completamente feliz
+F,Más de 7 millones,Si,12 o más,Estrato 3,Si,Si,Si,No,No,1,Entre 11 y 20 horas,159,poco feliz 
+F,Menos de 500 mil,No,09,Estrato 1,Si,Si,No,No,No,2,Entre 11 y 20 horas,159,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,07,Estrato 3,Si,Si,No,No,No,2,Más de 30 horas,159,poco feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 1,Si,Si,Si,No,No,3 o 4,0,159,feliz
+F,No pagó matrícula,No,10,Estrato 2,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,159,feliz
+M,Entre 1 millón y menos de 2.5 millones,Si,06,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,159,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 3,Si,Si,No,No,No,3 o 4,0,159,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,159,feliz
+M,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 4,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,159,muy feliz 
+F,Entre 4 millones y menos de 5.5 millones,Si,08,Estrato 2,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,159,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 2,Si,No,No,No,No,5 o 6,Entre 21 y 30 horas,159,muy feliz 
+F,Menos de 500 mil,No,10,Estrato 1,No,Si,Si,No,No,5 o 6,Entre 21 y 30 horas,159,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 3,Si,Si,Si,No,No,5 o 6,0,159,muy feliz 
+F,Entre 4 millones y menos de 5.5 millones,Si,07,Estrato 3,Si,Si,Si,Si,No,0,Más de 30 horas,159,muy feliz 
+M,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 2,Si,Si,No,Si,No,1,0,159,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 3,Si,Si,Si,Si,No,2,Más de 30 horas,159,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,Si,Si,No,Si,2,Más de 30 horas,159,muy feliz 
+M,Entre 4 millones y menos de 5.5 millones,Si,09,Estrato 1,Si,Si,Si,No,Si,5 o 6,Entre 11 y 20 horas,159,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 3,Si,Si,Si,No,No,1,Más de 30 horas,158,poco feliz 
+F,Menos de 500 mil,No,09,Estrato 3,Si,Si,Si,No,No,2,Más de 30 horas,158,poco feliz 
+F,Entre 500 mil y menos de 1 millón,No,10,Estrato 3,Si,Si,Si,No,No,2,Más de 30 horas,158,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 2,No,Si,No,No,No,3 o 4,Entre 11 y 20 horas,158,feliz
+M,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 2,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,158,feliz
+F,Más de 7 millones,Si,11,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,158,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,Si,Si,No,Si,No,1,Menos de 10 horas,158,feliz
+F,No pagó matrícula,No,09,Estrato 3,Si,Si,Si,Si,No,1,Más de 30 horas,158,feliz
+F,Más de 7 millones,Si,09,Estrato 3,Si,Si,No,Si,No,3 o 4,Más de 30 horas,158,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 2,Si,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,158,muy feliz 
+F,Entre 4 millones y menos de 5.5 millones,Si,10,Estrato 2,Si,Si,No,No,Si,0,Entre 11 y 20 horas,158,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,Si,06,Estrato 4,Si,No,Si,No,Si,1,Más de 30 horas,158,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 3,Si,Si,Si,No,Si,2,Más de 30 horas,158,muy feliz 
+M,Menos de 500 mil,No,09,Estrato 1,Si,Si,No,No,Si,3 o 4,Más de 30 horas,158,muy feliz 
+F,Menos de 500 mil,No,09,Estrato 1,Si,Si,Si,No,Si,3 o 4,Menos de 10 horas,158,muy feliz 
+F,Menos de 500 mil,Si,09,Estrato 3,Si,Si,Si,No,Si,5 o 6,Más de 30 horas,158,muy feliz 
+F,Entre 5.5 millones y menos de 7 millones,Si,08,Estrato 1,Si,Si,Si,Si,Si,0,Más de 30 horas,158,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,No,No,Si,No,No,3 o 4,0,157,feliz
+F,Menos de 500 mil,Si,08,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,157,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,157,feliz
+M,No pagó matrícula,No,08,Estrato 1,No,No,Si,No,No,5 o 6,0,157,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 1,Si,Si,Si,No,No,5 o 6,Más de 30 horas,157,feliz
+F,No pagó matrícula,No,09,Estrato 2,Si,Si,No,No,No,5 o 6,Entre 21 y 30 horas,157,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 2,Si,Si,Si,Si,No,5 o 6,Entre 11 y 20 horas,157,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,Si,Si,Si,No,Si,3 o 4,Entre 11 y 20 horas,157,muy feliz 
+F,Entre 4 millones y menos de 5.5 millones,Si,10,Estrato 1,Si,Si,No,No,Si,3 o 4,Entre 11 y 20 horas,157,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 2,Si,Si,Si,No,Si,3 o 4,Menos de 10 horas,157,muy feliz 
+F,Entre 4 millones y menos de 5.5 millones,No,08,Estrato 1,Si,Si,Si,Si,Si,3 o 4,Entre 11 y 20 horas,157,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Entre 11 y 20 horas,157,completamente feliz
+M,Más de 7 millones,No,07,Estrato 3,Si,Si,Si,No,No,0,Menos de 10 horas,156,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,No,No,No,No,1,Más de 30 horas,156,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 1,Si,Si,No,No,No,2,Más de 30 horas,156,poco feliz 
+F,Entre 500 mil y menos de 1 millón,No,07,Estrato 4,Si,Si,Si,No,No,2,Más de 30 horas,156,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,156,poco feliz 
+F,Más de 7 millones,No,08,Estrato 2,Si,Si,Si,No,No,3 o 4,0,156,poco feliz 
+F,Entre 5.5 millones y menos de 7 millones,Si,06,Estrato 3,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,156,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,No,No,Si,No,No,5 o 6,Entre 21 y 30 horas,156,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 1,Si,Si,No,No,No,5 o 6,Más de 30 horas,156,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 1,Si,Si,Si,No,No,5 o 6,Más de 30 horas,156,feliz
+F,Entre 5.5 millones y menos de 7 millones,No,09,Estrato 5,Si,Si,Si,Si,No,0,Entre 11 y 20 horas,156,feliz
+M,Menos de 500 mil,No,09,Estrato 4,Si,Si,Si,Si,No,1,Menos de 10 horas,156,feliz
+M,Entre 5.5 millones y menos de 7 millones,No,10,Estrato 3,Si,Si,Si,Si,No,2,Menos de 10 horas,156,feliz
+M,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 1,Si,Si,No,No,Si,1,Más de 30 horas,156,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,Si,Si,Si,No,Si,3 o 4,Entre 11 y 20 horas,156,muy feliz 
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 1,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,156,muy feliz 
+F,Menos de 500 mil,No,09,Estrato 2,Si,Si,Si,No,Si,5 o 6,Más de 30 horas,156,muy feliz 
+F,No pagó matrícula,No,08,Estrato 3,Si,Si,Si,Si,Si,2,Más de 30 horas,156,completamente feliz
+F,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 3,Si,Si,Si,No,No,1,Más de 30 horas,155,poco feliz 
+F,Menos de 500 mil,Si,09,Estrato 1,Si,No,Si,No,No,3 o 4,Más de 30 horas,155,poco feliz 
+F,Entre 5.5 millones y menos de 7 millones,No,10,Estrato 2,Si,Si,No,No,No,3 o 4,Entre 11 y 20 horas,155,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 1,Si,Si,Si,No,No,5 o 6,Entre 11 y 20 horas,155,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,11,Estrato 1,Si,Si,No,No,No,5 o 6,Entre 11 y 20 horas,155,feliz
+F,Entre 500 mil y menos de 1 millón,No,08,Estrato 3,Si,Si,Si,Si,No,0,Entre 21 y 30 horas,155,feliz
+M,Entre 500 mil y menos de 1 millón,Si,11,Estrato 3,Si,Si,Si,Si,No,1,0,155,feliz
+M,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 2,Si,Si,Si,Si,No,2,Más de 30 horas,155,feliz
+F,Menos de 500 mil,No,09,Estrato 2,Si,Si,No,Si,No,3 o 4,Entre 21 y 30 horas,155,feliz
+M,Entre 500 mil y menos de 1 millón,No,09,Estrato 3,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,155,feliz
+F,Entre 4 millones y menos de 5.5 millones,No,10,Estrato 1,No,No,Si,No,Si,3 o 4,Entre 21 y 30 horas,155,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 1,Si,Si,No,No,Si,3 o 4,Más de 30 horas,155,feliz
+F,Entre 4 millones y menos de 5.5 millones,No,09,Estrato 2,Si,Si,Si,No,Si,3 o 4,Entre 21 y 30 horas,155,feliz
+F,Entre 500 mil y menos de 1 millón,No,11,Estrato 2,Si,Si,No,No,Si,3 o 4,Más de 30 horas,155,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 2,No,Si,No,No,Si,5 o 6,0,155,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 1,Si,Si,No,No,Si,5 o 6,Más de 30 horas,155,muy feliz 
+M,Menos de 500 mil,No,08,Estrato 2,Si,Si,Si,Si,Si,2,Más de 30 horas,155,completamente feliz
+F,Menos de 500 mil,No,08,Estrato 3,Si,Si,Si,Si,Si,2,Entre 11 y 20 horas,155,completamente feliz
+F,Menos de 500 mil,No,08,Estrato 3,Si,Si,Si,No,No,2,Más de 30 horas,154,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 3,Si,Si,No,No,No,2,Más de 30 horas,154,poco feliz 
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 2,Si,Si,No,No,No,3 o 4,Entre 11 y 20 horas,154,feliz
+F,Más de 7 millones,No,09,Estrato 2,Si,Si,Si,No,No,3 o 4,0,154,feliz
+F,Menos de 500 mil,No,08,Estrato 1,No,No,No,No,No,5 o 6,0,154,feliz
+F,Entre 500 mil y menos de 1 millón,Si,09,Estrato 2,Si,Si,Si,No,No,5 o 6,Entre 21 y 30 horas,154,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 2,Si,Si,No,No,No,5 o 6,Más de 30 horas,154,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 6,Si,Si,Si,Si,No,1,Entre 11 y 20 horas,154,feliz
+F,Más de 7 millones,No,10,Estrato 2,Si,No,Si,Si,No,3 o 4,Entre 11 y 20 horas,154,feliz
+F,No pagó matrícula,No,09,Estrato 3,No,Si,Si,Si,No,3 o 4,Más de 30 horas,154,feliz
+F,Entre 5.5 millones y menos de 7 millones,Si,10,Estrato 3,Si,Si,Si,Si,No,5 o 6,0,154,muy feliz 
+M,Entre 500 mil y menos de 1 millón,No,08,Estrato 3,Si,No,No,No,Si,1,Más de 30 horas,154,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 3,Si,Si,Si,No,Si,2,Más de 30 horas,154,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,Si,Si,No,Si,3 o 4,0,154,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 3,Si,Si,Si,Si,Si,1,Entre 21 y 30 horas,154,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,Si,Si,Si,Si,2,Entre 21 y 30 horas,154,completamente feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 5,Si,Si,Si,Si,Si,2,Entre 11 y 20 horas,154,completamente feliz
+M,Entre 2.5 millones y menos de 4 millones,Si,08,Estrato 3,Si,Si,Si,Si,Si,2,Más de 30 horas,154,completamente feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 1,Si,Si,Si,Si,Si,3 o 4,Entre 11 y 20 horas,154,completamente feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 2,Si,Si,No,No,No,1,Más de 30 horas,153,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 3,Si,Si,Si,No,No,1,Entre 21 y 30 horas,153,poco feliz 
+M,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 2,No,No,No,No,No,2,Más de 30 horas,153,poco feliz 
+F,Menos de 500 mil,No,09,Estrato 2,Si,No,No,No,No,3 o 4,0,153,feliz
+F,Entre 500 mil y menos de 1 millón,No,08,Estrato 1,Si,Si,No,No,No,3 o 4,Más de 30 horas,153,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,153,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,153,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,12 o más,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,153,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,153,feliz
+F,Menos de 500 mil,No,10,Estrato 3,Si,Si,No,No,No,3 o 4,Más de 30 horas,153,feliz
+F,No pagó matrícula,No,08,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,153,feliz
+F,Entre 500 mil y menos de 1 millón,Si,09,Estrato 3,Si,Si,Si,Si,No,1,0,153,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,No,No,Si,1,Más de 30 horas,153,feliz
+F,Entre 4 millones y menos de 5.5 millones,Si,08,Estrato 2,Si,Si,No,No,Si,3 o 4,0,153,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 2,Si,Si,Si,No,Si,3 o 4,Menos de 10 horas,153,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 2,Si,Si,No,No,Si,3 o 4,Menos de 10 horas,153,muy feliz 
+F,Menos de 500 mil,Si,10,Estrato 2,Si,Si,Si,No,Si,3 o 4,Entre 11 y 20 horas,153,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 2,Si,No,No,No,Si,5 o 6,Más de 30 horas,153,muy feliz 
+M,Menos de 500 mil,No,09,Estrato 2,Si,Si,Si,Si,Si,1,Más de 30 horas,153,completamente feliz
+M,Menos de 500 mil,No,08,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Entre 21 y 30 horas,153,completamente feliz
+F,Entre 4 millones y menos de 5.5 millones,No,10,Estrato 3,Si,Si,No,No,No,0,0,152,poco feliz 
+F,Menos de 500 mil,Si,10,Estrato 3,Si,No,Si,No,No,1,Más de 30 horas,152,poco feliz 
+F,No pagó matrícula,No,09,Estrato 3,Si,Si,Si,No,No,2,Más de 30 horas,152,feliz
+M,Entre 1 millón y menos de 2.5 millones,No,07,Estrato 1,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,152,feliz
+M,Entre 500 mil y menos de 1 millón,No,09,Estrato 1,Si,Si,No,No,No,3 o 4,Más de 30 horas,152,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 2,Si,Si,No,No,No,3 o 4,0,152,feliz
+F,No pagó matrícula,No,09,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,152,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,10,Estrato 2,Si,Si,Si,Si,No,2,Menos de 10 horas,152,feliz
+F,No pagó matrícula,No,08,Estrato 2,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,152,feliz
+F,Entre 4 millones y menos de 5.5 millones,No,09,Estrato 2,Si,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,152,muy feliz 
+F,Menos de 500 mil,No,09,Estrato 2,Si,Si,Si,Si,No,5 o 6,Entre 21 y 30 horas,152,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,03,Estrato 3,Si,Si,Si,No,Si,1,Entre 21 y 30 horas,152,muy feliz 
+F,Menos de 500 mil,No,08,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,152,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 2,Si,Si,Si,Si,Si,2,Entre 21 y 30 horas,152,muy feliz 
+F,No pagó matrícula,No,07,Estrato 3,Si,Si,Si,Si,Si,2,Entre 11 y 20 horas,152,completamente feliz
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Entre 11 y 20 horas,152,completamente feliz
+F,Más de 7 millones,Si,08,Estrato 3,Si,Si,Si,No,No,0,Entre 11 y 20 horas,151,poco feliz 
+M,Menos de 500 mil,No,10,Estrato 2,Si,Si,Si,No,No,1,Entre 11 y 20 horas,151,poco feliz 
+M,Entre 5.5 millones y menos de 7 millones,No,09,Estrato 3,Si,Si,Si,No,No,1,Entre 21 y 30 horas,151,poco feliz 
+F,No pagó matrícula,No,08,Estrato 3,Si,Si,Si,No,No,1,Entre 11 y 20 horas,151,poco feliz 
+M,Más de 7 millones,Si,12 o más,Estrato 1,Si,Si,Si,No,No,2,Más de 30 horas,151,feliz
+F,Más de 7 millones,Si,12 o más,Estrato 4,Si,Si,Si,No,No,2,Más de 30 horas,151,feliz
+F,No pagó matrícula,No,10,Estrato 1,No,Si,No,No,No,3 o 4,Entre 11 y 20 horas,151,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 1,Si,Si,Si,No,No,3 o 4,Más de 30 horas,151,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,151,feliz
+M,Más de 7 millones,No,10,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,151,feliz
+F,Entre 500 mil y menos de 1 millón,No,08,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,151,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,151,feliz
+F,Menos de 500 mil,No,09,Estrato 1,No,No,No,No,No,5 o 6,Entre 11 y 20 horas,151,feliz
+M,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 6,Si,Si,Si,Si,No,0,0,151,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,07,Estrato 6,Si,Si,Si,Si,No,1,Entre 11 y 20 horas,151,feliz
+M,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 1,Si,Si,Si,Si,No,2,Más de 30 horas,151,feliz
+F,Menos de 500 mil,No,07,Estrato 2,Si,Si,Si,Si,No,2,Menos de 10 horas,151,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 3,Si,Si,Si,Si,No,2,Más de 30 horas,151,muy feliz 
+F,Entre 500 mil y menos de 1 millón,Si,09,Estrato 3,Si,Si,Si,Si,No,2,Más de 30 horas,151,muy feliz 
+F,Menos de 500 mil,No,10,Estrato 3,Si,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,151,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 3,Si,Si,Si,No,Si,2,Entre 11 y 20 horas,151,muy feliz 
+F,Entre 500 mil y menos de 1 millón,No,10,Estrato 1,No,No,No,No,Si,3 o 4,Más de 30 horas,151,muy feliz 
+F,Entre 4 millones y menos de 5.5 millones,No,08,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,151,muy feliz 
+F,Entre 4 millones y menos de 5.5 millones,No,10,Estrato 2,Si,Si,Si,No,Si,3 o 4,Entre 21 y 30 horas,151,completamente feliz
+F,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 2,Si,Si,Si,No,Si,5 o 6,Entre 11 y 20 horas,151,completamente feliz
+F,Más de 7 millones,No,09,Estrato 3,Si,Si,No,No,No,1,Entre 21 y 30 horas,150,nada feliz
+F,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 1,No,No,No,No,No,3 o 4,Más de 30 horas,150,nada feliz
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 2,No,No,No,No,No,3 o 4,Más de 30 horas,150,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 2,Si,No,Si,No,No,3 o 4,Más de 30 horas,150,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 2,Si,No,No,No,No,3 o 4,Más de 30 horas,150,poco feliz 
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 2,Si,Si,Si,No,No,3 o 4,0,150,poco feliz 
+M,Entre 5.5 millones y menos de 7 millones,No,09,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,150,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 4,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,150,feliz
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,150,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 2,No,No,No,No,No,5 o 6,0,150,feliz
+M,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 2,Si,Si,No,No,No,5 o 6,Menos de 10 horas,150,feliz
+M,Menos de 500 mil,No,12 o más,Estrato 3,Si,Si,Si,No,No,5 o 6,Entre 21 y 30 horas,150,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 4,Si,Si,Si,Si,No,1,Entre 21 y 30 horas,150,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 2,No,No,No,Si,No,2,Entre 21 y 30 horas,150,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 3,Si,Si,Si,Si,No,2,Más de 30 horas,150,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 1,Si,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,150,muy feliz 
+F,No pagó matrícula,No,10,Estrato 1,Si,Si,No,Si,No,5 o 6,Entre 21 y 30 horas,150,muy feliz 
+M,Más de 7 millones,Si,11,Estrato 2,Si,Si,Si,Si,No,5 o 6,Entre 11 y 20 horas,150,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,Si,No,Si,2,Menos de 10 horas,150,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,150,muy feliz 
+M,No pagó matrícula,No,10,Estrato 2,Si,Si,Si,Si,Si,0,Más de 30 horas,150,muy feliz 
+M,Menos de 500 mil,No,08,Estrato 3,Si,Si,Si,Si,Si,1,Más de 30 horas,150,muy feliz 
+F,Menos de 500 mil,No,10,Estrato 1,Si,Si,No,Si,Si,2,Entre 11 y 20 horas,150,muy feliz 
+F,Entre 500 mil y menos de 1 millón,No,08,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Menos de 10 horas,150,completamente feliz
+F,Entre 500 mil y menos de 1 millón,No,08,Estrato 3,Si,Si,Si,No,No,0,Más de 30 horas,149,nada feliz
+M,No pagó matrícula,No,07,Estrato 3,Si,Si,Si,No,No,1,Más de 30 horas,149,nada feliz
+F,Entre 500 mil y menos de 1 millón,No,07,Estrato 1,Si,Si,Si,No,No,2,Entre 11 y 20 horas,149,nada feliz
+M,No pagó matrícula,No,07,Estrato 1,Si,No,Si,No,No,3 o 4,Más de 30 horas,149,poco feliz 
+M,Entre 2.5 millones y menos de 4 millones,Si,10,Estrato 2,No,Si,No,No,No,3 o 4,Más de 30 horas,149,poco feliz 
+F,No pagó matrícula,No,11,Estrato 2,No,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,149,poco feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,07,Estrato 1,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,149,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,No,No,No,No,No,5 o 6,Entre 11 y 20 horas,149,feliz
+F,Más de 7 millones,No,10,Estrato 1,No,No,No,No,No,5 o 6,Menos de 10 horas,149,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 2,No,No,No,No,No,5 o 6,Más de 30 horas,149,feliz
+F,Entre 500 mil y menos de 1 millón,No,07,Estrato 4,Si,Si,Si,Si,No,0,Más de 30 horas,149,feliz
+F,Entre 500 mil y menos de 1 millón,No,10,Estrato 1,Si,Si,Si,Si,No,1,Más de 30 horas,149,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 2,Si,Si,Si,Si,No,2,0,149,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,07,Estrato 2,Si,Si,Si,Si,No,2,Más de 30 horas,149,muy feliz 
+M,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 2,Si,Si,Si,Si,No,2,Más de 30 horas,149,muy feliz 
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 3,Si,Si,Si,Si,No,2,0,149,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 3,Si,No,Si,Si,No,3 o 4,Más de 30 horas,149,completamente feliz
+F,Menos de 500 mil,No,07,Estrato 2,Si,No,No,No,Si,2,Más de 30 horas,149,completamente feliz
+F,Menos de 500 mil,No,10,Estrato 3,Si,Si,Si,No,No,1,Entre 21 y 30 horas,148,nada feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,07,Estrato 1,Si,Si,Si,No,No,2,0,148,poco feliz 
+F,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 1,Si,Si,Si,No,No,2,Entre 11 y 20 horas,148,poco feliz 
+F,Entre 5.5 millones y menos de 7 millones,No,08,Estrato 3,Si,No,Si,No,No,3 o 4,Más de 30 horas,148,poco feliz 
+M,Entre 5.5 millones y menos de 7 millones,No,09,Estrato 1,No,Si,No,No,No,3 o 4,Más de 30 horas,148,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,148,feliz
+M,Entre 2.5 millones y menos de 4 millones,No,11,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,148,feliz
+F,Menos de 500 mil,No,09,Estrato 5,Si,Si,Si,Si,No,0,Más de 30 horas,148,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 4,Si,Si,Si,Si,No,2,Menos de 10 horas,148,feliz
+M,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 2,Si,Si,No,Si,No,3 o 4,Entre 21 y 30 horas,148,feliz
+F,Entre 4 millones y menos de 5.5 millones,Si,09,Estrato 2,Si,Si,No,Si,No,3 o 4,Más de 30 horas,148,feliz
+M,Entre 4 millones y menos de 5.5 millones,Si,09,Estrato 1,Si,Si,Si,No,Si,1,Entre 21 y 30 horas,148,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,No,No,Si,1,Entre 21 y 30 horas,148,muy feliz 
+M,Más de 7 millones,Si,11,Estrato 2,Si,Si,Si,No,Si,1,0,148,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 2,Si,No,No,No,Si,2,Entre 21 y 30 horas,148,muy feliz 
+M,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 2,Si,No,No,No,Si,3 o 4,Más de 30 horas,148,muy feliz 
+F,Más de 7 millones,No,09,Estrato 2,Si,Si,Si,No,Si,3 o 4,Entre 11 y 20 horas,148,muy feliz 
+M,Menos de 500 mil,Si,10,Estrato 2,Si,Si,Si,No,Si,5 o 6,Más de 30 horas,148,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 1,Si,Si,Si,Si,Si,2,Entre 11 y 20 horas,148,muy feliz 
+M,Entre 500 mil y menos de 1 millón,No,09,Estrato 1,Si,Si,Si,Si,Si,2,0,148,completamente feliz
+F,Entre 500 mil y menos de 1 millón,No,08,Estrato 2,Si,Si,No,Si,Si,3 o 4,Más de 30 horas,148,completamente feliz
+F,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 1,No,No,No,No,No,1,Entre 11 y 20 horas,147,poco feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 3,Si,Si,Si,No,No,1,Menos de 10 horas,147,poco feliz 
+M,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 1,Si,Si,No,No,No,2,Más de 30 horas,147,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 3,Si,Si,No,No,No,2,Más de 30 horas,147,poco feliz 
+F,Entre 4 millones y menos de 5.5 millones,No,08,Estrato 2,No,No,Si,No,No,3 o 4,Entre 11 y 20 horas,147,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 2,Si,No,Si,No,No,3 o 4,Entre 11 y 20 horas,147,poco feliz 
+F,Entre 500 mil y menos de 1 millón,No,10,Estrato 1,Si,Si,No,No,No,3 o 4,Entre 11 y 20 horas,147,feliz
+F,Entre 4 millones y menos de 5.5 millones,Si,09,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,147,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,147,feliz
+M,Entre 5.5 millones y menos de 7 millones,Si,10,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,147,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 3,Si,Si,Si,Si,No,1,0,147,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 3,Si,Si,No,Si,No,3 o 4,Más de 30 horas,147,feliz
+F,No pagó matrícula,No,09,Estrato 2,Si,Si,Si,No,Si,1,Más de 30 horas,147,feliz
+F,Entre 4 millones y menos de 5.5 millones,No,07,Estrato 1,No,Si,No,No,Si,3 o 4,Entre 11 y 20 horas,147,muy feliz 
+F,Menos de 500 mil,No,09,Estrato 1,Si,No,Si,No,Si,3 o 4,Más de 30 horas,147,muy feliz 
+F,Entre 5.5 millones y menos de 7 millones,Si,07,Estrato 3,Si,Si,Si,No,Si,3 o 4,0,147,muy feliz 
+M,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 2,Si,Si,No,No,Si,5 o 6,Entre 21 y 30 horas,147,muy feliz 
+F,Entre 4 millones y menos de 5.5 millones,No,06,Estrato 2,Si,Si,Si,Si,Si,3 o 4,0,147,muy feliz 
+F,Entre 5.5 millones y menos de 7 millones,No,09,Estrato 2,Si,Si,Si,Si,Si,3 o 4,0,147,muy feliz 
+M,Entre 500 mil y menos de 1 millón,Si,08,Estrato 3,No,Si,No,No,No,0,Más de 30 horas,146,nada feliz
+F,Menos de 500 mil,No,09,Estrato 1,Si,Si,No,No,No,0,Más de 30 horas,146,poco feliz 
+M,Menos de 500 mil,No,08,Estrato 3,Si,Si,Si,No,No,0,Más de 30 horas,146,poco feliz 
+F,Entre 500 mil y menos de 1 millón,No,08,Estrato 2,Si,Si,Si,No,No,2,Menos de 10 horas,146,poco feliz 
+F,Entre 4 millones y menos de 5.5 millones,Si,10,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,146,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 1,No,No,No,No,No,3 o 4,Más de 30 horas,146,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 1,Si,No,No,No,No,3 o 4,Entre 11 y 20 horas,146,feliz
+M,Entre 4 millones y menos de 5.5 millones,No,08,Estrato 1,No,Si,No,No,No,3 o 4,Entre 11 y 20 horas,146,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,Si,Si,Si,No,No,3 o 4,Más de 30 horas,146,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,146,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 3,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,146,feliz
+M,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,146,feliz
+F,Entre 5.5 millones y menos de 7 millones,No,10,Estrato 1,Si,No,No,No,No,5 o 6,Menos de 10 horas,146,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,Si,Si,Si,No,0,Entre 21 y 30 horas,146,feliz
+M,Menos de 500 mil,No,08,Estrato 4,Si,Si,Si,Si,No,1,0,146,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 6,Si,Si,Si,Si,No,1,0,146,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,07,Estrato 2,Si,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,146,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,Si,07,Estrato 4,Si,Si,Si,No,Si,2,Entre 11 y 20 horas,146,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,No,Si,No,Si,3 o 4,Menos de 10 horas,146,muy feliz 
+M,Entre 5.5 millones y menos de 7 millones,Si,09,Estrato 1,No,Si,No,No,Si,5 o 6,0,146,muy feliz 
+F,Menos de 500 mil,No,10,Estrato 3,Si,Si,Si,Si,Si,0,Más de 30 horas,146,completamente feliz
+M,Menos de 500 mil,No,09,Estrato 3,Si,Si,Si,Si,Si,2,Más de 30 horas,146,completamente feliz
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 3,Si,Si,Si,Si,Si,2,Más de 30 horas,146,completamente feliz
+F,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 3,Si,No,No,No,No,1,Más de 30 horas,145,nada feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 3,No,Si,Si,No,No,1,Entre 21 y 30 horas,145,poco feliz 
+F,Entre 4 millones y menos de 5.5 millones,Si,10,Estrato 1,Si,Si,No,No,No,2,Más de 30 horas,145,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,Si,Si,No,No,2,Entre 11 y 20 horas,145,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 4,Si,Si,Si,No,No,2,0,145,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 2,No,No,No,No,No,3 o 4,0,145,poco feliz 
+M,No pagó matrícula,No,08,Estrato 1,No,Si,No,No,No,3 o 4,Entre 11 y 20 horas,145,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 3,No,Si,No,No,No,3 o 4,Menos de 10 horas,145,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 2,Si,Si,Si,No,No,3 o 4,0,145,feliz
+M,Entre 500 mil y menos de 1 millón,No,10,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,145,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 3,Si,Si,No,No,No,3 o 4,Más de 30 horas,145,feliz
+F,Entre 5.5 millones y menos de 7 millones,Si,09,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,145,feliz
+F,Más de 7 millones,Si,07,Estrato 2,No,No,No,No,No,5 o 6,Más de 30 horas,145,feliz
+M,Entre 1 millón y menos de 2.5 millones,No,12 o más,Estrato 2,Si,Si,No,No,No,5 o 6,Entre 11 y 20 horas,145,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 6,Si,Si,Si,Si,No,0,Más de 30 horas,145,feliz
+F,Entre 4 millones y menos de 5.5 millones,Si,09,Estrato 3,Si,Si,Si,Si,No,1,Más de 30 horas,145,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 2,Si,Si,Si,Si,No,2,Entre 21 y 30 horas,145,muy feliz 
+F,Más de 7 millones,No,09,Estrato 4,Si,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,145,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 2,Si,Si,Si,No,Si,2,0,145,muy feliz 
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 3,Si,Si,Si,No,Si,2,Más de 30 horas,145,muy feliz 
+M,Menos de 500 mil,No,08,Estrato 1,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,145,muy feliz 
+F,Menos de 500 mil,No,08,Estrato 3,Si,Si,Si,No,No,2,Entre 11 y 20 horas,144,nada feliz
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 1,No,No,No,No,No,3 o 4,Entre 11 y 20 horas,144,poco feliz 
+F,Más de 7 millones,No,11,Estrato 1,No,No,No,No,No,3 o 4,0,144,poco feliz 
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 1,Si,No,No,No,No,3 o 4,Más de 30 horas,144,poco feliz 
+M,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 3,Si,Si,Si,No,No,3 o 4,0,144,poco feliz 
+M,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 3,Si,Si,Si,No,No,3 o 4,0,144,feliz
+M,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 5,Si,Si,Si,Si,No,0,Entre 21 y 30 horas,144,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,07,Estrato 2,Si,No,No,Si,No,1,Más de 30 horas,144,feliz
+M,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 2,Si,Si,Si,Si,No,1,Más de 30 horas,144,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 4,Si,Si,Si,Si,No,1,Entre 11 y 20 horas,144,feliz
+M,No pagó matrícula,Si,11,Estrato 2,Si,Si,Si,Si,No,3 o 4,Entre 21 y 30 horas,144,feliz
+M,Entre 1 millón y menos de 2.5 millones,Si,07,Estrato 3,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,144,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 3,Si,Si,Si,No,Si,0,Más de 30 horas,144,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,07,Estrato 2,Si,Si,No,No,Si,1,Más de 30 horas,144,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 1,Si,No,Si,No,Si,2,Más de 30 horas,144,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,No,No,Si,No,Si,3 o 4,Entre 21 y 30 horas,144,muy feliz 
+F,Entre 5.5 millones y menos de 7 millones,Si,10,Estrato 2,Si,No,No,No,Si,3 o 4,Más de 30 horas,144,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 1,Si,Si,Si,No,Si,3 o 4,Entre 11 y 20 horas,144,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,07,Estrato 3,Si,Si,Si,No,Si,3 o 4,Entre 21 y 30 horas,144,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 2,Si,Si,Si,No,Si,5 o 6,0,144,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 2,Si,Si,Si,Si,Si,1,Más de 30 horas,144,muy feliz 
+M,Menos de 500 mil,No,10,Estrato 2,Si,No,Si,No,No,0,Más de 30 horas,143,poco feliz 
+M,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 2,No,Si,Si,No,No,1,Entre 11 y 20 horas,143,poco feliz 
+M,Entre 4 millones y menos de 5.5 millones,No,09,Estrato 1,No,No,No,No,No,2,Menos de 10 horas,143,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 3,Si,No,Si,No,No,3 o 4,Menos de 10 horas,143,feliz
+M,Más de 7 millones,Si,10,Estrato 1,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,143,feliz
+F,Menos de 500 mil,No,08,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,143,feliz
+M,Entre 500 mil y menos de 1 millón,No,10,Estrato 3,Si,Si,No,No,No,3 o 4,Entre 11 y 20 horas,143,feliz
+F,Más de 7 millones,No,08,Estrato 4,Si,Si,Si,Si,No,0,Menos de 10 horas,143,feliz
+F,Entre 4 millones y menos de 5.5 millones,Si,10,Estrato 6,Si,Si,Si,Si,No,0,Más de 30 horas,143,feliz
+M,Entre 2.5 millones y menos de 4 millones,Si,08,Estrato 2,Si,Si,Si,Si,No,2,Entre 21 y 30 horas,143,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,07,Estrato 4,Si,Si,Si,Si,No,3 o 4,0,143,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 1,No,No,No,No,Si,2,Entre 11 y 20 horas,143,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 1,Si,Si,Si,No,Si,2,Entre 11 y 20 horas,143,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 1,Si,No,No,No,Si,3 o 4,Más de 30 horas,143,muy feliz 
+F,Entre 4 millones y menos de 5.5 millones,No,07,Estrato 2,Si,Si,Si,No,Si,3 o 4,Entre 21 y 30 horas,143,muy feliz 
+F,Entre 4 millones y menos de 5.5 millones,No,10,Estrato 2,Si,Si,Si,No,Si,3 o 4,Entre 11 y 20 horas,143,muy feliz 
+M,Entre 5.5 millones y menos de 7 millones,Si,10,Estrato 2,Si,Si,Si,No,Si,3 o 4,0,143,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 1,Si,Si,Si,No,Si,5 o 6,Más de 30 horas,143,muy feliz 
+M,Menos de 500 mil,No,08,Estrato 2,Si,Si,Si,No,Si,5 o 6,Más de 30 horas,143,muy feliz 
+F,Menos de 500 mil,No,12 o más,Estrato 3,Si,Si,Si,Si,Si,3 o 4,0,143,completamente feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 1,Si,Si,Si,No,No,1,Menos de 10 horas,142,poco feliz 
+M,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 1,Si,Si,Si,No,No,2,Más de 30 horas,142,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 2,Si,Si,Si,No,No,2,Entre 11 y 20 horas,142,feliz
+M,Entre 4 millones y menos de 5.5 millones,Si,08,Estrato 2,Si,Si,No,No,No,2,Entre 21 y 30 horas,142,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 2,Si,Si,Si,No,No,2,Entre 21 y 30 horas,142,feliz
+M,Entre 5.5 millones y menos de 7 millones,No,08,Estrato 3,Si,Si,Si,No,No,2,Más de 30 horas,142,feliz
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 1,Si,Si,Si,No,No,3 o 4,Más de 30 horas,142,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,No,No,No,3 o 4,0,142,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 2,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,142,feliz
+F,No pagó matrícula,No,09,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,142,feliz
+M,No pagó matrícula,No,08,Estrato 4,Si,Si,Si,Si,No,0,Entre 21 y 30 horas,142,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 3,Si,Si,Si,Si,No,1,0,142,muy feliz 
+F,Entre 5.5 millones y menos de 7 millones,Si,09,Estrato 2,Si,Si,Si,Si,No,2,Menos de 10 horas,142,muy feliz 
+F,No pagó matrícula,No,08,Estrato 1,Si,Si,Si,Si,No,2,Más de 30 horas,142,muy feliz 
+F,No pagó matrícula,No,09,Estrato 2,Si,Si,No,No,Si,0,Más de 30 horas,142,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,12 o más,Estrato 1,No,Si,No,No,Si,3 o 4,Entre 21 y 30 horas,142,muy feliz 
+F,No pagó matrícula,No,08,Estrato 1,Si,Si,No,No,Si,3 o 4,Entre 21 y 30 horas,142,muy feliz 
+F,No pagó matrícula,No,08,Estrato 2,Si,Si,Si,No,Si,3 o 4,0,142,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 3,Si,Si,Si,Si,Si,0,Más de 30 horas,142,muy feliz 
+M,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 4,Si,Si,Si,Si,Si,2,Más de 30 horas,142,muy feliz 
+M,No pagó matrícula,No,08,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,142,muy feliz 
+F,Entre 500 mil y menos de 1 millón,Si,10,Estrato 2,Si,Si,No,Si,Si,3 o 4,Más de 30 horas,142,completamente feliz
+F,Más de 7 millones,Si,11,Estrato 5,Si,Si,No,No,No,0,Entre 11 y 20 horas,141,poco feliz 
+M,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 2,Si,No,Si,No,No,2,Menos de 10 horas,141,poco feliz 
+F,Menos de 500 mil,No,07,Estrato 1,Si,Si,No,No,No,2,Más de 30 horas,141,poco feliz 
+F,No pagó matrícula,No,10,Estrato 1,Si,Si,Si,No,No,2,Menos de 10 horas,141,poco feliz 
+F,Menos de 500 mil,Si,09,Estrato 1,Si,No,Si,No,No,3 o 4,Entre 11 y 20 horas,141,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,07,Estrato 2,Si,No,Si,No,No,3 o 4,Menos de 10 horas,141,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 2,No,Si,No,No,No,3 o 4,Más de 30 horas,141,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,141,feliz
+M,Entre 500 mil y menos de 1 millón,No,10,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,141,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 1,Si,Si,No,No,No,5 o 6,Entre 11 y 20 horas,141,feliz
+F,Entre 4 millones y menos de 5.5 millones,Si,07,Estrato 3,Si,Si,Si,Si,No,3 o 4,Entre 21 y 30 horas,141,feliz
+M,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,141,feliz
+M,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 5,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,141,feliz
+F,Entre 500 mil y menos de 1 millón,Si,08,Estrato 3,Si,Si,Si,No,Si,1,Más de 30 horas,141,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,07,Estrato 1,Si,No,Si,No,Si,2,Más de 30 horas,141,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 2,Si,Si,Si,No,Si,2,Más de 30 horas,141,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 2,Si,Si,Si,No,Si,2,Más de 30 horas,141,muy feliz 
+M,No pagó matrícula,Si,08,Estrato 1,Si,Si,No,No,No,0,Entre 21 y 30 horas,140,nada feliz
+F,Entre 500 mil y menos de 1 millón,No,11,Estrato 2,Si,Si,No,No,No,1,Menos de 10 horas,140,poco feliz 
+F,No pagó matrícula,No,09,Estrato 3,Si,Si,Si,No,No,1,Menos de 10 horas,140,poco feliz 
+F,No pagó matrícula,No,09,Estrato 3,Si,Si,Si,No,No,2,Entre 11 y 20 horas,140,poco feliz 
+F,Entre 500 mil y menos de 1 millón,No,11,Estrato 2,No,No,No,No,No,3 o 4,Más de 30 horas,140,feliz
+M,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 1,Si,Si,No,No,No,3 o 4,Más de 30 horas,140,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,140,feliz
+M,No pagó matrícula,Si,10,Estrato 2,Si,Si,Si,No,No,3 o 4,0,140,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,06,Estrato 2,Si,No,Si,No,No,5 o 6,Menos de 10 horas,140,feliz
+M,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 2,No,Si,Si,No,No,5 o 6,0,140,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 2,Si,Si,Si,No,No,5 o 6,Menos de 10 horas,140,muy feliz 
+F,Más de 7 millones,No,10,Estrato 2,Si,Si,Si,No,No,5 o 6,Menos de 10 horas,140,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 3,Si,Si,Si,Si,No,1,Entre 11 y 20 horas,140,muy feliz 
+F,Menos de 500 mil,No,09,Estrato 3,Si,Si,Si,Si,No,2,Más de 30 horas,140,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,Si,No,Si,3 o 4,0,140,muy feliz 
+F,Más de 7 millones,Si,11,Estrato 3,Si,Si,Si,No,Si,5 o 6,Menos de 10 horas,140,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,Si,Si,Si,Si,Si,1,Más de 30 horas,140,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 4,Si,Si,Si,Si,Si,3 o 4,Entre 21 y 30 horas,140,completamente feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 1,Si,Si,Si,No,No,0,Más de 30 horas,139,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 2,Si,Si,Si,No,No,2,Menos de 10 horas,139,poco feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,11,Estrato 3,Si,Si,Si,No,No,2,Más de 30 horas,139,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 2,No,No,Si,No,No,3 o 4,Menos de 10 horas,139,feliz
+F,Entre 4 millones y menos de 5.5 millones,No,09,Estrato 1,Si,Si,Si,No,No,3 o 4,0,139,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,139,feliz
+M,No pagó matrícula,No,12 o más,Estrato 2,Si,Si,No,No,No,3 o 4,Menos de 10 horas,139,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 1,Si,Si,Si,No,No,5 o 6,Menos de 10 horas,139,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 1,Si,Si,Si,No,No,5 o 6,Más de 30 horas,139,feliz
+M,Más de 7 millones,Si,08,Estrato 3,Si,Si,Si,Si,No,0,Menos de 10 horas,139,feliz
+M,Entre 2.5 millones y menos de 4 millones,Si,10,Estrato 4,Si,Si,Si,Si,No,0,0,139,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,Si,Si,No,2,Más de 30 horas,139,feliz
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 4,Si,Si,Si,Si,No,2,Entre 11 y 20 horas,139,feliz
+M,No pagó matrícula,Si,08,Estrato 2,No,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,139,muy feliz 
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 2,Si,Si,Si,Si,No,3 o 4,Entre 21 y 30 horas,139,muy feliz 
+M,Entre 4 millones y menos de 5.5 millones,Si,07,Estrato 2,Si,Si,Si,No,Si,1,Más de 30 horas,139,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,Si,Si,No,No,Si,3 o 4,Más de 30 horas,139,muy feliz 
+F,Entre 500 mil y menos de 1 millón,Si,10,Estrato 1,Si,Si,Si,No,Si,3 o 4,Menos de 10 horas,139,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 1,No,No,Si,No,Si,5 o 6,0,139,muy feliz 
+M,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 1,Si,Si,Si,Si,Si,2,Entre 21 y 30 horas,139,completamente feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,06,Estrato 3,Si,Si,Si,No,No,1,Más de 30 horas,138,poco feliz 
+M,Entre 500 mil y menos de 1 millón,No,08,Estrato 3,Si,Si,No,No,No,1,Más de 30 horas,138,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 2,Si,No,No,No,No,2,Entre 11 y 20 horas,138,poco feliz 
+M,Más de 7 millones,No,08,Estrato 1,Si,Si,No,No,No,2,Menos de 10 horas,138,poco feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 2,Si,Si,No,No,No,2,Más de 30 horas,138,poco feliz 
+F,Entre 500 mil y menos de 1 millón,No,10,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,138,poco feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,07,Estrato 3,Si,Si,Si,No,No,2,0,138,feliz
+F,Más de 7 millones,Si,09,Estrato 2,No,No,Si,No,No,3 o 4,Más de 30 horas,138,feliz
+F,Entre 4 millones y menos de 5.5 millones,Si,09,Estrato 2,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,138,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,138,feliz
+M,Entre 4 millones y menos de 5.5 millones,No,10,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,138,feliz
+M,Entre 4 millones y menos de 5.5 millones,No,07,Estrato 2,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,138,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,07,Estrato 1,Si,Si,Si,No,Si,2,Más de 30 horas,138,feliz
+F,Menos de 500 mil,No,10,Estrato 1,Si,No,No,No,Si,3 o 4,0,138,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 2,Si,No,Si,No,Si,3 o 4,Entre 11 y 20 horas,138,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,07,Estrato 1,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,138,feliz
+F,Entre 4 millones y menos de 5.5 millones,Si,10,Estrato 1,Si,Si,No,No,Si,3 o 4,Entre 21 y 30 horas,138,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,138,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 1,No,No,No,No,Si,5 o 6,Entre 11 y 20 horas,138,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 2,Si,No,Si,No,Si,5 o 6,Más de 30 horas,138,muy feliz 
+M,Menos de 500 mil,Si,08,Estrato 3,Si,Si,Si,Si,Si,1,Menos de 10 horas,138,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,Si,Si,Si,Si,2,Más de 30 horas,138,muy feliz 
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,138,completamente feliz
+F,Menos de 500 mil,Si,08,Estrato 1,No,Si,No,No,No,0,Más de 30 horas,137,nada feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,10,Estrato 3,Si,No,Si,No,No,2,Más de 30 horas,137,poco feliz 
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,137,poco feliz 
+F,Entre 5.5 millones y menos de 7 millones,Si,10,Estrato 1,Si,No,No,No,No,3 o 4,0,137,poco feliz 
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 1,No,Si,Si,No,No,3 o 4,Menos de 10 horas,137,feliz
+F,Entre 5.5 millones y menos de 7 millones,Si,08,Estrato 1,Si,No,No,No,No,5 o 6,Entre 21 y 30 horas,137,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,12 o más,Estrato 2,Si,Si,Si,Si,No,1,0,137,feliz
+F,Más de 7 millones,Si,12 o más,Estrato 2,Si,Si,Si,Si,No,1,Menos de 10 horas,137,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 3,Si,Si,Si,Si,No,2,Entre 21 y 30 horas,137,feliz
+F,No pagó matrícula,No,09,Estrato 3,Si,Si,Si,Si,No,2,Entre 11 y 20 horas,137,feliz
+F,Entre 4 millones y menos de 5.5 millones,No,11,Estrato 2,Si,Si,No,Si,No,3 o 4,Más de 30 horas,137,feliz
+M,Más de 7 millones,No,10,Estrato 2,Si,Si,Si,Si,No,3 o 4,Menos de 10 horas,137,feliz
+F,Entre 500 mil y menos de 1 millón,Si,09,Estrato 2,Si,Si,Si,No,Si,2,Entre 21 y 30 horas,137,feliz
+M,Entre 4 millones y menos de 5.5 millones,Si,11,Estrato 2,Si,Si,Si,No,Si,2,Entre 11 y 20 horas,137,feliz
+F,Entre 4 millones y menos de 5.5 millones,No,08,Estrato 2,Si,No,Si,No,Si,3 o 4,Entre 21 y 30 horas,137,muy feliz 
+M,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 2,No,Si,Si,No,Si,3 o 4,Menos de 10 horas,137,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 1,Si,Si,Si,No,Si,3 o 4,Menos de 10 horas,137,muy feliz 
+F,Más de 7 millones,Si,12 o más,Estrato 1,Si,Si,No,No,Si,3 o 4,Menos de 10 horas,137,muy feliz 
+F,Menos de 500 mil,No,08,Estrato 2,Si,Si,No,No,Si,3 o 4,Entre 21 y 30 horas,137,muy feliz 
+F,No pagó matrícula,No,09,Estrato 2,Si,Si,No,No,Si,3 o 4,Entre 11 y 20 horas,137,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 1,Si,Si,No,No,Si,5 o 6,Más de 30 horas,137,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,137,muy feliz 
+F,Menos de 500 mil,No,10,Estrato 1,Si,Si,No,No,No,1,Más de 30 horas,136,poco feliz 
+F,Entre 4 millones y menos de 5.5 millones,No,10,Estrato 2,Si,Si,Si,No,No,1,Entre 11 y 20 horas,136,poco feliz 
+F,Entre 4 millones y menos de 5.5 millones,No,10,Estrato 2,Si,Si,Si,No,No,1,Entre 11 y 20 horas,136,poco feliz 
+M,Entre 500 mil y menos de 1 millón,No,10,Estrato 3,Si,Si,Si,No,No,1,Más de 30 horas,136,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 2,Si,Si,Si,No,No,2,Entre 21 y 30 horas,136,feliz
+M,Entre 2.5 millones y menos de 4 millones,Si,07,Estrato 1,Si,No,Si,No,No,3 o 4,Más de 30 horas,136,feliz
+M,Entre 500 mil y menos de 1 millón,No,09,Estrato 1,Si,No,No,No,No,3 o 4,Entre 11 y 20 horas,136,feliz
+M,Más de 7 millones,Si,10,Estrato 1,No,Si,No,No,No,3 o 4,Más de 30 horas,136,feliz
+M,Entre 5.5 millones y menos de 7 millones,Si,10,Estrato 1,Si,Si,No,No,No,3 o 4,Entre 11 y 20 horas,136,feliz
+F,Entre 500 mil y menos de 1 millón,No,11,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,136,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,08,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,136,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 5,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,136,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 2,Si,Si,Si,Si,No,1,Más de 30 horas,136,feliz
+M,Entre 500 mil y menos de 1 millón,No,10,Estrato 3,Si,Si,Si,Si,No,2,Entre 21 y 30 horas,136,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 2,Si,Si,Si,Si,No,5 o 6,Más de 30 horas,136,feliz
+M,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 2,No,Si,No,No,Si,2,Entre 21 y 30 horas,136,feliz
+F,Más de 7 millones,Si,11,Estrato 2,Si,Si,Si,No,Si,2,Entre 21 y 30 horas,136,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 1,Si,Si,Si,No,Si,3 o 4,0,136,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 3,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,136,muy feliz 
+M,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 1,Si,Si,Si,No,Si,5 o 6,Entre 11 y 20 horas,136,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,136,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,Si,Si,Si,Si,5 o 6,Entre 11 y 20 horas,136,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,No,Si,No,No,No,2,Más de 30 horas,135,nada feliz
+M,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,No,No,No,2,Entre 11 y 20 horas,135,poco feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 3,Si,Si,Si,No,No,2,Entre 21 y 30 horas,135,poco feliz 
+M,Entre 4 millones y menos de 5.5 millones,Si,10,Estrato 1,No,No,No,No,No,3 o 4,Más de 30 horas,135,poco feliz 
+F,Menos de 500 mil,No,09,Estrato 1,Si,No,No,No,No,3 o 4,Menos de 10 horas,135,poco feliz 
+M,Más de 7 millones,No,10,Estrato 1,No,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,135,poco feliz 
+F,Más de 7 millones,No,10,Estrato 1,Si,Si,Si,No,No,3 o 4,0,135,poco feliz 
+F,Más de 7 millones,No,10,Estrato 1,Si,Si,Si,No,No,3 o 4,0,135,feliz
+M,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,135,feliz
+F,Entre 4 millones y menos de 5.5 millones,No,09,Estrato 1,No,Si,No,No,No,5 o 6,Menos de 10 horas,135,feliz
+M,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,Si,No,No,5 o 6,Menos de 10 horas,135,feliz
+F,No pagó matrícula,No,10,Estrato 4,Si,Si,Si,Si,No,1,Entre 11 y 20 horas,135,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 4,Si,Si,Si,Si,No,2,Entre 21 y 30 horas,135,feliz
+M,Entre 500 mil y menos de 1 millón,No,07,Estrato 2,Si,Si,Si,Si,No,2,Entre 11 y 20 horas,135,feliz
+M,Entre 500 mil y menos de 1 millón,Si,08,Estrato 2,No,Si,Si,Si,No,3 o 4,Menos de 10 horas,135,feliz
+M,Entre 1 millón y menos de 2.5 millones,Si,07,Estrato 2,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,135,feliz
+M,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 3,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,135,feliz
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 3,Si,Si,Si,Si,No,3 o 4,Entre 21 y 30 horas,135,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 1,Si,Si,Si,No,Si,3 o 4,Entre 21 y 30 horas,135,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,135,feliz
+M,No pagó matrícula,No,09,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,135,feliz
+F,No pagó matrícula,No,07,Estrato 3,Si,Si,No,No,Si,3 o 4,Más de 30 horas,135,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,07,Estrato 3,Si,Si,Si,No,Si,3 o 4,Entre 21 y 30 horas,135,muy feliz 
+M,Entre 500 mil y menos de 1 millón,No,09,Estrato 3,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,135,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 2,Si,Si,Si,No,Si,5 o 6,Más de 30 horas,135,muy feliz 
+F,Entre 500 mil y menos de 1 millón,Si,08,Estrato 3,Si,Si,Si,No,Si,5 o 6,Más de 30 horas,135,muy feliz 
+F,Entre 500 mil y menos de 1 millón,Si,10,Estrato 2,No,Si,No,Si,Si,1,Menos de 10 horas,135,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,Si,Si,Si,Si,1,Entre 21 y 30 horas,135,muy feliz 
+F,No pagó matrícula,No,08,Estrato 3,Si,Si,Si,Si,Si,1,Más de 30 horas,135,muy feliz 
+F,Más de 7 millones,No,09,Estrato 1,Si,Si,No,Si,Si,3 o 4,Más de 30 horas,135,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,07,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Menos de 10 horas,135,completamente feliz
+F,Menos de 500 mil,No,09,Estrato 3,Si,No,No,No,No,0,Más de 30 horas,134,poco feliz 
+F,Entre 4 millones y menos de 5.5 millones,Si,07,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,134,poco feliz 
+M,Entre 4 millones y menos de 5.5 millones,Si,10,Estrato 2,Si,Si,No,No,No,2,Más de 30 horas,134,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 3,Si,Si,Si,No,No,2,Entre 21 y 30 horas,134,poco feliz 
+M,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 1,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,134,feliz
+F,Más de 7 millones,No,07,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,134,feliz
+M,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 2,Si,Si,Si,No,No,3 o 4,0,134,feliz
+M,Entre 5.5 millones y menos de 7 millones,No,10,Estrato 3,Si,Si,Si,No,No,3 o 4,0,134,feliz
+M,Entre 1 millón y menos de 2.5 millones,No,12 o más,Estrato 3,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,134,feliz
+F,No pagó matrícula,No,10,Estrato 2,Si,No,Si,No,No,5 o 6,Más de 30 horas,134,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 1,No,Si,Si,No,No,5 o 6,0,134,feliz
+M,Entre 500 mil y menos de 1 millón,No,10,Estrato 1,Si,Si,No,No,No,5 o 6,0,134,feliz
+F,Menos de 500 mil,No,12 o más,Estrato 2,Si,Si,No,No,No,5 o 6,Más de 30 horas,134,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,08,Estrato 3,Si,Si,Si,No,No,5 o 6,Más de 30 horas,134,feliz
+M,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 3,Si,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,134,feliz
+F,Entre 5.5 millones y menos de 7 millones,Si,07,Estrato 2,Si,Si,No,No,Si,1,Entre 11 y 20 horas,134,feliz
+M,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 2,No,Si,Si,No,Si,2,Más de 30 horas,134,muy feliz 
+F,Más de 7 millones,No,10,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,134,muy feliz 
+F,Menos de 500 mil,No,10,Estrato 2,Si,Si,No,No,Si,5 o 6,Entre 21 y 30 horas,134,muy feliz 
+F,Menos de 500 mil,No,11,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,134,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 3,Si,Si,Si,Si,Si,5 o 6,Entre 11 y 20 horas,134,muy feliz 
+M,Entre 4 millones y menos de 5.5 millones,Si,09,Estrato 1,Si,Si,Si,No,No,0,Más de 30 horas,133,poco feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,07,Estrato 3,Si,Si,Si,No,No,0,Entre 11 y 20 horas,133,poco feliz 
+M,Entre 4 millones y menos de 5.5 millones,No,10,Estrato 1,Si,Si,Si,No,No,1,Más de 30 horas,133,poco feliz 
+F,Entre 5.5 millones y menos de 7 millones,Si,10,Estrato 2,Si,Si,Si,No,No,1,Entre 11 y 20 horas,133,feliz
+F,No pagó matrícula,No,08,Estrato 3,Si,Si,Si,No,No,1,0,133,feliz
+F,Más de 7 millones,Si,12 o más,Estrato 2,No,Si,No,No,No,2,0,133,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,133,feliz
+F,Entre 5.5 millones y menos de 7 millones,Si,08,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,133,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,133,feliz
+M,No pagó matrícula,No,10,Estrato 2,Si,Si,Si,No,No,5 o 6,Más de 30 horas,133,feliz
+M,Entre 500 mil y menos de 1 millón,No,10,Estrato 3,Si,Si,Si,Si,No,1,Más de 30 horas,133,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 5,Si,Si,Si,Si,No,1,Más de 30 horas,133,muy feliz 
+F,Menos de 500 mil,No,08,Estrato 2,Si,Si,Si,Si,No,2,Menos de 10 horas,133,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 3,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,133,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 3,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,133,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,Si,07,Estrato 5,Si,Si,Si,Si,No,3 o 4,Entre 21 y 30 horas,133,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 3,Si,Si,No,No,Si,2,Más de 30 horas,133,muy feliz 
+F,Menos de 500 mil,Si,08,Estrato 2,No,Si,Si,No,Si,3 o 4,Más de 30 horas,133,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,06,Estrato 1,Si,Si,No,No,Si,5 o 6,Entre 21 y 30 horas,133,muy feliz 
+F,No pagó matrícula,No,10,Estrato 2,Si,Si,Si,No,Si,5 o 6,Entre 11 y 20 horas,133,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,Si,08,Estrato 2,No,No,Si,Si,Si,2,Entre 11 y 20 horas,133,muy feliz 
+F,Menos de 500 mil,No,08,Estrato 1,No,No,No,No,No,3 o 4,Más de 30 horas,132,nada feliz
+M,Entre 1 millón y menos de 2.5 millones,No,11,Estrato 1,Si,No,Si,No,No,3 o 4,0,132,nada feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,10,Estrato 1,No,Si,No,No,No,3 o 4,Más de 30 horas,132,poco feliz 
+F,Entre 5.5 millones y menos de 7 millones,Si,08,Estrato 2,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,132,poco feliz 
+F,Entre 500 mil y menos de 1 millón,Si,09,Estrato 2,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,132,poco feliz 
+M,Entre 4 millones y menos de 5.5 millones,No,10,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,132,poco feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 1,No,No,No,No,No,5 o 6,Entre 11 y 20 horas,132,poco feliz 
+M,Menos de 500 mil,No,09,Estrato 2,Si,No,No,No,No,5 o 6,Entre 21 y 30 horas,132,feliz
+M,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 1,Si,Si,No,No,No,5 o 6,Más de 30 horas,132,feliz
+M,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 4,Si,Si,Si,Si,No,2,Más de 30 horas,132,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 2,Si,Si,No,Si,No,3 o 4,0,132,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 3,Si,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,132,muy feliz 
+F,Menos de 500 mil,No,10,Estrato 3,Si,Si,Si,No,Si,1,Más de 30 horas,132,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 2,Si,Si,Si,No,Si,2,Entre 11 y 20 horas,132,muy feliz 
+F,Menos de 500 mil,Si,09,Estrato 3,Si,Si,No,No,Si,2,Menos de 10 horas,132,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 1,No,No,No,No,Si,3 o 4,Entre 21 y 30 horas,132,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,Si,Si,No,Si,3 o 4,Entre 11 y 20 horas,132,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,07,Estrato 2,Si,Si,Si,No,Si,3 o 4,0,132,muy feliz 
+M,No pagó matrícula,No,09,Estrato 2,Si,Si,Si,No,Si,5 o 6,Menos de 10 horas,132,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 2,Si,Si,Si,No,Si,5 o 6,Entre 11 y 20 horas,132,muy feliz 
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 4,Si,Si,Si,Si,Si,1,Más de 30 horas,132,muy feliz 
+F,Menos de 500 mil,No,09,Estrato 1,Si,Si,,Si,Si,3 o 4,Menos de 10 horas,132,muy feliz 
+F,Menos de 500 mil,No,10,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,131,nada feliz
+M,No pagó matrícula,No,11,Estrato 2,Si,Si,No,No,No,2,Más de 30 horas,131,poco feliz 
+M,No pagó matrícula,No,08,Estrato 3,Si,Si,Si,No,No,2,Menos de 10 horas,131,poco feliz 
+F,No pagó matrícula,No,07,Estrato 3,Si,Si,Si,No,No,2,Más de 30 horas,131,poco feliz 
+F,Entre 4 millones y menos de 5.5 millones,No,08,Estrato 2,No,No,Si,No,No,3 o 4,Entre 21 y 30 horas,131,poco feliz 
+F,Entre 4 millones y menos de 5.5 millones,Si,09,Estrato 1,No,Si,No,No,No,3 o 4,Entre 21 y 30 horas,131,feliz
+M,No pagó matrícula,No,03,Estrato 1,Si,Si,Si,No,No,3 o 4,Más de 30 horas,131,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,06,Estrato 2,Si,Si,No,No,No,3 o 4,Menos de 10 horas,131,feliz
+M,Entre 500 mil y menos de 1 millón,No,09,Estrato 2,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,131,feliz
+F,Menos de 500 mil,No,08,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,131,feliz
+F,Entre 5.5 millones y menos de 7 millones,Si,08,Estrato 2,Si,Si,No,No,No,5 o 6,Entre 11 y 20 horas,131,feliz
+M,Entre 4 millones y menos de 5.5 millones,Si,10,Estrato 2,Si,Si,Si,No,No,5 o 6,0,131,feliz
+F,Menos de 500 mil,No,09,Estrato 4,Si,Si,Si,Si,No,2,Entre 11 y 20 horas,131,feliz
+F,Menos de 500 mil,No,09,Estrato 2,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,131,feliz
+F,Menos de 500 mil,No,08,Estrato 1,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,131,feliz
+M,No pagó matrícula,Si,08,Estrato 1,Si,Si,Si,No,Si,3 o 4,Menos de 10 horas,131,feliz
+M,Entre 1 millón y menos de 2.5 millones,No,06,Estrato 2,Si,Si,No,No,Si,3 o 4,Menos de 10 horas,131,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,07,Estrato 3,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,131,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 3,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,131,muy feliz 
+M,Menos de 500 mil,No,09,Estrato 3,Si,Si,No,No,Si,3 o 4,Entre 11 y 20 horas,131,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 3,Si,Si,Si,No,Si,3 o 4,Entre 11 y 20 horas,131,muy feliz 
+M,Entre 500 mil y menos de 1 millón,No,08,Estrato 2,Si,Si,Si,Si,Si,0,Menos de 10 horas,131,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 4,Si,Si,Si,Si,Si,1,Más de 30 horas,131,muy feliz 
+F,Más de 7 millones,No,08,Estrato 4,Si,Si,Si,Si,Si,1,Más de 30 horas,131,muy feliz 
+F,Más de 7 millones,No,07,Estrato 3,Si,Si,Si,Si,Si,3 o 4,0,131,muy feliz 
+M,Entre 4 millones y menos de 5.5 millones,No,10,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,131,completamente feliz
+F,Entre 1 millón y menos de 2.5 millones,No,07,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,131,completamente feliz
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 6,Si,Si,Si,No,No,0,0,130,nada feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 3,Si,Si,Si,No,No,1,Entre 11 y 20 horas,130,nada feliz
+F,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 1,Si,Si,Si,No,No,2,Entre 21 y 30 horas,130,poco feliz 
+M,Entre 2.5 millones y menos de 4 millones,Si,10,Estrato 1,Si,Si,Si,No,No,2,0,130,poco feliz 
+F,Menos de 500 mil,Si,09,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,130,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,11,Estrato 1,Si,No,Si,No,No,3 o 4,0,130,poco feliz 
+F,Entre 2.5 millones y menos de 4 millones,Si,07,Estrato 1,No,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,130,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 2,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,130,feliz
+F,Entre 5.5 millones y menos de 7 millones,Si,11,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,130,feliz
+F,Más de 7 millones,Si,11,Estrato 2,Si,Si,Si,No,No,3 o 4,0,130,feliz
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 1,No,No,No,No,No,5 o 6,Entre 21 y 30 horas,130,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 1,No,Si,No,No,No,5 o 6,Más de 30 horas,130,feliz
+F,Menos de 500 mil,No,09,Estrato 2,Si,Si,Si,Si,No,2,Más de 30 horas,130,muy feliz 
+F,Entre 4 millones y menos de 5.5 millones,Si,10,Estrato 2,Si,Si,Si,Si,No,2,Entre 21 y 30 horas,130,muy feliz 
+F,Más de 7 millones,No,10,Estrato 3,Si,Si,Si,Si,No,2,Más de 30 horas,130,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 2,Si,Si,Si,No,Si,1,Más de 30 horas,130,muy feliz 
+M,Más de 7 millones,Si,10,Estrato 2,Si,Si,Si,No,Si,1,Entre 21 y 30 horas,130,muy feliz 
+F,Menos de 500 mil,No,08,Estrato 1,Si,No,No,No,Si,2,Más de 30 horas,130,muy feliz 
+F,Menos de 500 mil,No,09,Estrato 2,Si,No,No,No,Si,2,Más de 30 horas,130,muy feliz 
+F,Menos de 500 mil,No,08,Estrato 1,Si,Si,Si,No,Si,2,Menos de 10 horas,130,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 3,Si,Si,No,No,Si,2,Entre 11 y 20 horas,130,muy feliz 
+F,No pagó matrícula,No,09,Estrato 1,Si,Si,No,No,Si,3 o 4,Más de 30 horas,130,muy feliz 
+M,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 1,Si,Si,No,No,Si,5 o 6,Más de 30 horas,130,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,05,Estrato 3,Si,Si,No,Si,Si,1,Menos de 10 horas,130,completamente feliz
+F,Entre 500 mil y menos de 1 millón,No,08,Estrato 3,Si,Si,Si,Si,Si,2,Menos de 10 horas,130,completamente feliz
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 3,Si,Si,Si,No,No,2,0,129,poco feliz 
+M,Entre 4 millones y menos de 5.5 millones,No,08,Estrato 2,Si,Si,Si,No,No,5 o 6,Más de 30 horas,129,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 2,Si,Si,Si,No,No,5 o 6,Más de 30 horas,129,poco feliz 
+F,Menos de 500 mil,No,08,Estrato 2,Si,Si,Si,Si,No,1,Más de 30 horas,129,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 2,Si,Si,Si,Si,No,1,Más de 30 horas,129,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 4,Si,Si,Si,Si,No,1,Más de 30 horas,129,feliz
+F,Entre 500 mil y menos de 1 millón,No,08,Estrato 3,Si,Si,Si,No,Si,1,Más de 30 horas,129,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,No,Si,Si,No,Si,3 o 4,Menos de 10 horas,129,feliz
+F,Entre 4 millones y menos de 5.5 millones,No,05,Estrato 1,Si,Si,Si,No,Si,3 o 4,Menos de 10 horas,129,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,Si,Si,Si,No,Si,3 o 4,Entre 21 y 30 horas,129,muy feliz 
+M,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 1,Si,Si,No,No,Si,3 o 4,Menos de 10 horas,129,muy feliz 
+F,Más de 7 millones,No,07,Estrato 1,Si,Si,No,No,Si,5 o 6,Menos de 10 horas,129,muy feliz 
+M,Menos de 500 mil,Si,09,Estrato 1,Si,Si,Si,Si,Si,0,Más de 30 horas,129,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,129,muy feliz 
+F,Más de 7 millones,No,10,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Menos de 10 horas,129,completamente feliz
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 1,No,No,Si,No,No,3 o 4,0,128,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 1,Si,No,No,No,No,3 o 4,Entre 21 y 30 horas,128,poco feliz 
+M,Entre 500 mil y menos de 1 millón,Si,10,Estrato 3,Si,No,Si,No,No,3 o 4,Más de 30 horas,128,poco feliz 
+F,No pagó matrícula,No,09,Estrato 1,Si,Si,No,No,No,3 o 4,Más de 30 horas,128,poco feliz 
+F,Entre 4 millones y menos de 5.5 millones,Si,09,Estrato 1,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,128,poco feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 3,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,128,feliz
+M,Entre 500 mil y menos de 1 millón,No,10,Estrato 4,Si,Si,Si,No,No,3 o 4,Más de 30 horas,128,feliz
+M,Entre 1 millón y menos de 2.5 millones,Si,07,Estrato 2,Si,Si,Si,No,No,5 o 6,Más de 30 horas,128,feliz
+M,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 2,Si,Si,Si,No,No,5 o 6,Más de 30 horas,128,feliz
+M,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 3,Si,Si,Si,Si,No,1,Más de 30 horas,128,feliz
+F,Menos de 500 mil,No,09,Estrato 4,Si,No,Si,Si,No,2,Más de 30 horas,128,feliz
+M,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 2,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,128,feliz
+F,Entre 4 millones y menos de 5.5 millones,Si,10,Estrato 4,Si,Si,Si,Si,No,3 o 4,Entre 21 y 30 horas,128,feliz
+F,Más de 7 millones,No,09,Estrato 3,Si,Si,Si,No,Si,0,Menos de 10 horas,128,muy feliz 
+M,Menos de 500 mil,No,10,Estrato 3,Si,Si,Si,No,Si,2,Más de 30 horas,128,muy feliz 
+F,Menos de 500 mil,No,08,Estrato 1,No,Si,No,No,Si,3 o 4,Entre 21 y 30 horas,128,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,07,Estrato 1,Si,Si,No,No,Si,3 o 4,Más de 30 horas,128,muy feliz 
+M,Entre 500 mil y menos de 1 millón,Si,08,Estrato 2,Si,Si,Si,Si,Si,2,0,128,completamente feliz
+F,No pagó matrícula,No,09,Estrato 2,Si,Si,No,No,No,0,Más de 30 horas,127,nada feliz
+M,Menos de 500 mil,No,10,Estrato 1,Si,No,No,No,No,1,Más de 30 horas,127,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,Si,Si,No,No,No,2,Entre 21 y 30 horas,127,poco feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,11,Estrato 1,No,No,Si,No,No,3 o 4,Menos de 10 horas,127,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,07,Estrato 1,Si,Si,No,No,No,3 o 4,Más de 30 horas,127,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,07,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,127,poco feliz 
+M,Entre 4 millones y menos de 5.5 millones,Si,08,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,127,poco feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,127,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 2,Si,Si,Si,No,No,3 o 4,0,127,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,127,feliz
+F,Entre 4 millones y menos de 5.5 millones,Si,10,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,127,feliz
+F,Más de 7 millones,No,11,Estrato 1,No,No,No,No,No,5 o 6,0,127,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,Si,Si,No,No,No,5 o 6,Entre 21 y 30 horas,127,feliz
+M,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 3,No,No,No,Si,No,1,Entre 21 y 30 horas,127,feliz
+F,No pagó matrícula,No,09,Estrato 4,Si,Si,Si,Si,No,2,Más de 30 horas,127,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,No,No,Si,1,Más de 30 horas,127,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,Si,No,No,No,Si,2,Más de 30 horas,127,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,10,Estrato 2,Si,Si,No,No,Si,3 o 4,Entre 11 y 20 horas,127,muy feliz 
+F,Más de 7 millones,Si,10,Estrato 2,Si,Si,No,No,Si,3 o 4,Menos de 10 horas,127,muy feliz 
+F,Menos de 500 mil,No,09,Estrato 3,Si,Si,Si,Si,Si,0,Entre 21 y 30 horas,127,muy feliz 
+M,Más de 7 millones,Si,12 o más,Estrato 1,Si,Si,No,Si,Si,3 o 4,Entre 21 y 30 horas,127,completamente feliz
+F,Entre 500 mil y menos de 1 millón,No,12 o más,Estrato 4,No,Si,Si,No,No,1,Menos de 10 horas,126,nada feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,06,Estrato 2,Si,Si,Si,No,No,2,Entre 11 y 20 horas,126,poco feliz 
+F,Entre 500 mil y menos de 1 millón,Si,09,Estrato 1,No,No,No,No,No,3 o 4,Entre 11 y 20 horas,126,poco feliz 
+M,Entre 500 mil y menos de 1 millón,No,10,Estrato 3,Si,No,Si,No,No,3 o 4,0,126,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 3,No,Si,Si,No,No,3 o 4,Más de 30 horas,126,feliz
+F,Menos de 500 mil,No,09,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,126,feliz
+F,Menos de 500 mil,No,09,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,126,feliz
+F,Más de 7 millones,No,08,Estrato 2,Si,Si,Si,No,No,5 o 6,Más de 30 horas,126,feliz
+M,Entre 500 mil y menos de 1 millón,No,12 o más,Estrato 4,Si,Si,Si,Si,No,0,Entre 11 y 20 horas,126,feliz
+F,Entre 500 mil y menos de 1 millón,Si,10,Estrato 2,Si,Si,No,No,Si,1,Entre 21 y 30 horas,126,feliz
+M,Entre 4 millones y menos de 5.5 millones,Si,08,Estrato 3,Si,Si,Si,No,Si,1,Más de 30 horas,126,feliz
+F,Menos de 500 mil,No,10,Estrato 1,No,No,Si,No,Si,3 o 4,Entre 11 y 20 horas,126,muy feliz 
+M,Menos de 500 mil,No,09,Estrato 1,Si,Si,No,No,Si,3 o 4,0,126,muy feliz 
+M,Entre 500 mil y menos de 1 millón,Si,09,Estrato 1,Si,Si,No,No,Si,3 o 4,Más de 30 horas,126,muy feliz 
+M,Más de 7 millones,No,09,Estrato 1,No,No,No,No,Si,5 o 6,Menos de 10 horas,126,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 5,Si,Si,Si,Si,Si,0,Más de 30 horas,126,muy feliz 
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 3,Si,Si,Si,Si,Si,2,Entre 21 y 30 horas,126,muy feliz 
+M,Menos de 500 mil,Si,08,Estrato 2,No,No,Si,No,No,2,Menos de 10 horas,125,poco feliz 
+F,Entre 2.5 millones y menos de 4 millones,Si,08,Estrato 2,Si,Si,No,No,No,2,Entre 21 y 30 horas,125,poco feliz 
+F,Más de 7 millones,No,09,Estrato 2,Si,Si,Si,No,No,2,Entre 21 y 30 horas,125,feliz
+F,Entre 4 millones y menos de 5.5 millones,No,10,Estrato 2,Si,Si,No,No,No,2,Entre 11 y 20 horas,125,feliz
+M,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 1,No,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,125,feliz
+F,Menos de 500 mil,No,08,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,125,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 2,Si,Si,No,No,No,3 o 4,Menos de 10 horas,125,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,125,feliz
+M,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 4,Si,Si,Si,No,No,3 o 4,Más de 30 horas,125,feliz
+F,Menos de 500 mil,Si,09,Estrato 2,Si,Si,Si,No,No,5 o 6,Entre 11 y 20 horas,125,feliz
+M,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 3,Si,Si,Si,Si,No,1,Menos de 10 horas,125,feliz
+F,Entre 4 millones y menos de 5.5 millones,Si,10,Estrato 2,Si,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,125,muy feliz 
+F,Menos de 500 mil,No,09,Estrato 5,Si,Si,Si,Si,No,3 o 4,Entre 21 y 30 horas,125,muy feliz 
+M,No pagó matrícula,Si,09,Estrato 2,Si,Si,Si,No,Si,0,Entre 21 y 30 horas,125,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 2,No,No,Si,No,Si,2,Entre 11 y 20 horas,125,muy feliz 
+M,Entre 4 millones y menos de 5.5 millones,No,09,Estrato 1,Si,Si,No,No,Si,5 o 6,Más de 30 horas,125,muy feliz 
+M,No pagó matrícula,No,09,Estrato 2,Si,Si,No,No,Si,5 o 6,Más de 30 horas,125,muy feliz 
+M,Entre 4 millones y menos de 5.5 millones,No,10,Estrato 2,Si,Si,Si,Si,Si,0,Entre 11 y 20 horas,125,muy feliz 
+M,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 4,Si,Si,Si,Si,Si,3 o 4,Entre 11 y 20 horas,125,completamente feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,07,Estrato 3,No,Si,No,No,No,1,Más de 30 horas,124,poco feliz 
+F,Menos de 500 mil,No,09,Estrato 1,Si,Si,No,No,No,2,0,124,poco feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 2,Si,Si,Si,No,No,2,Menos de 10 horas,124,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 2,Si,Si,No,No,No,2,Menos de 10 horas,124,feliz
+F,Entre 4 millones y menos de 5.5 millones,No,09,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,124,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,07,Estrato 2,No,No,No,No,No,3 o 4,Entre 11 y 20 horas,124,feliz
+F,Entre 500 mil y menos de 1 millón,No,08,Estrato 2,Si,No,Si,No,No,3 o 4,Entre 11 y 20 horas,124,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 1,Si,Si,Si,No,No,3 o 4,0,124,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 3,Si,Si,Si,No,No,5 o 6,Entre 11 y 20 horas,124,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 3,Si,Si,Si,No,No,5 o 6,Más de 30 horas,124,feliz
+F,Menos de 500 mil,Si,08,Estrato 3,Si,Si,Si,Si,No,1,Más de 30 horas,124,feliz
+F,Entre 500 mil y menos de 1 millón,Si,10,Estrato 4,Si,Si,Si,Si,No,2,Entre 11 y 20 horas,124,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,Si,Si,No,Si,0,Entre 21 y 30 horas,124,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 3,Si,Si,Si,No,Si,2,Más de 30 horas,124,feliz
+M,Entre 500 mil y menos de 1 millón,No,09,Estrato 1,No,No,Si,No,Si,3 o 4,Menos de 10 horas,124,feliz
+F,Entre 500 mil y menos de 1 millón,No,07,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,124,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 2,No,Si,No,No,Si,5 o 6,Entre 11 y 20 horas,124,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 2,Si,Si,No,Si,Si,2,Más de 30 horas,124,muy feliz 
+F,Entre 4 millones y menos de 5.5 millones,No,10,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,124,muy feliz 
+M,Entre 500 mil y menos de 1 millón,No,09,Estrato 2,Si,Si,Si,Si,Si,5 o 6,Más de 30 horas,124,completamente feliz
+F,Menos de 500 mil,No,08,Estrato 2,Si,Si,No,No,No,0,Más de 30 horas,123,poco feliz 
+F,Entre 500 mil y menos de 1 millón,Si,11,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,123,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,Si,Si,No,No,No,3 o 4,0,123,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 1,Si,Si,No,No,No,3 o 4,Más de 30 horas,123,poco feliz 
+F,Menos de 500 mil,No,10,Estrato 1,Si,Si,No,No,No,3 o 4,Más de 30 horas,123,poco feliz 
+F,Entre 4 millones y menos de 5.5 millones,No,09,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,123,feliz
+M,No pagó matrícula,No,10,Estrato 2,Si,Si,Si,No,No,3 o 4,0,123,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 1,Si,Si,Si,No,No,5 o 6,0,123,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 2,Si,Si,Si,Si,No,1,Entre 11 y 20 horas,123,feliz
+F,No pagó matrícula,No,08,Estrato 3,Si,Si,Si,Si,No,2,Entre 21 y 30 horas,123,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 2,Si,No,Si,Si,No,3 o 4,Más de 30 horas,123,feliz
+F,Entre 4 millones y menos de 5.5 millones,No,08,Estrato 2,Si,No,No,No,Si,2,Más de 30 horas,123,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,No,No,Si,2,Entre 11 y 20 horas,123,feliz
+F,Menos de 500 mil,No,10,Estrato 2,Si,Si,No,No,Si,2,Menos de 10 horas,123,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,10,Estrato 2,Si,Si,Si,No,Si,2,Entre 11 y 20 horas,123,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,No,No,No,No,Si,3 o 4,0,123,muy feliz 
+M,Entre 4 millones y menos de 5.5 millones,Si,10,Estrato 1,Si,No,No,No,Si,3 o 4,Entre 11 y 20 horas,123,muy feliz 
+M,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 2,Si,No,Si,No,Si,3 o 4,Más de 30 horas,123,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 1,Si,Si,No,No,Si,3 o 4,Entre 11 y 20 horas,123,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,07,Estrato 3,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,123,muy feliz 
+M,No pagó matrícula,No,09,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,123,muy feliz 
+F,Menos de 500 mil,No,08,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Entre 11 y 20 horas,123,completamente feliz
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 3,Si,Si,No,No,No,0,Más de 30 horas,122,nada feliz
+M,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 3,Si,No,No,No,No,1,Más de 30 horas,122,nada feliz
+F,Menos de 500 mil,No,10,Estrato 1,Si,No,No,No,No,2,Menos de 10 horas,122,poco feliz 
+M,No pagó matrícula,No,09,Estrato 1,No,Si,No,No,No,2,Más de 30 horas,122,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 2,No,Si,No,No,No,2,Entre 11 y 20 horas,122,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 3,Si,Si,Si,No,No,2,Menos de 10 horas,122,poco feliz 
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 1,No,No,Si,No,No,3 o 4,Más de 30 horas,122,poco feliz 
+F,Menos de 500 mil,No,08,Estrato 2,No,No,No,No,No,3 o 4,Menos de 10 horas,122,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,122,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,10,Estrato 2,Si,Si,Si,No,No,3 o 4,0,122,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,122,feliz
+M,Más de 7 millones,No,09,Estrato 1,No,No,No,No,No,5 o 6,Menos de 10 horas,122,feliz
+M,Entre 4 millones y menos de 5.5 millones,No,10,Estrato 1,Si,No,No,No,No,5 o 6,Más de 30 horas,122,feliz
+F,Más de 7 millones,Si,08,Estrato 1,Si,Si,No,No,No,5 o 6,Más de 30 horas,122,muy feliz 
+F,Menos de 500 mil,No,08,Estrato 4,Si,Si,Si,Si,No,2,Más de 30 horas,122,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 3,Si,Si,Si,No,Si,2,Entre 21 y 30 horas,122,muy feliz 
+M,Menos de 500 mil,No,09,Estrato 1,Si,Si,Si,No,Si,3 o 4,Entre 21 y 30 horas,122,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 1,Si,Si,Si,No,Si,3 o 4,Entre 11 y 20 horas,122,muy feliz 
+F,Menos de 500 mil,No,08,Estrato 4,Si,Si,Si,Si,Si,3 o 4,Entre 11 y 20 horas,122,muy feliz 
+M,Entre 4 millones y menos de 5.5 millones,Si,09,Estrato 2,Si,Si,Si,No,No,0,Más de 30 horas,121,nada feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 3,Si,Si,Si,No,No,0,Entre 11 y 20 horas,121,poco feliz 
+M,Menos de 500 mil,Si,09,Estrato 2,Si,Si,Si,No,No,2,Menos de 10 horas,121,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 1,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,121,feliz
+M,Entre 4 millones y menos de 5.5 millones,No,10,Estrato 1,Si,Si,No,No,No,3 o 4,Entre 11 y 20 horas,121,feliz
+F,Entre 4 millones y menos de 5.5 millones,Si,08,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,121,feliz
+F,Menos de 500 mil,No,09,Estrato 3,Si,Si,No,No,No,3 o 4,0,121,feliz
+M,Menos de 500 mil,No,08,Estrato 2,Si,No,No,No,No,5 o 6,Más de 30 horas,121,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,Si,Si,Si,No,2,Más de 30 horas,121,muy feliz 
+F,Entre 5.5 millones y menos de 7 millones,Si,12 o más,Estrato 3,Si,Si,Si,Si,No,3 o 4,0,121,muy feliz 
+M,Menos de 500 mil,No,09,Estrato 2,Si,Si,Si,No,Si,0,Más de 30 horas,121,muy feliz 
+F,Entre 4 millones y menos de 5.5 millones,No,07,Estrato 2,Si,Si,Si,No,Si,2,0,121,muy feliz 
+M,Entre 4 millones y menos de 5.5 millones,Si,08,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,121,muy feliz 
+M,Más de 7 millones,No,09,Estrato 3,Si,Si,Si,Si,Si,2,Entre 21 y 30 horas,121,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,Si,Si,Si,Si,2,Más de 30 horas,121,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 3,Si,Si,No,No,No,0,Más de 30 horas,120,poco feliz 
+M,Entre 500 mil y menos de 1 millón,No,08,Estrato 1,Si,Si,No,No,No,1,Más de 30 horas,120,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,120,poco feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,07,Estrato 1,Si,Si,Si,No,No,3 o 4,Más de 30 horas,120,poco feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,120,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,120,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 1,Si,Si,No,No,No,5 o 6,Entre 11 y 20 horas,120,feliz
+M,Entre 500 mil y menos de 1 millón,Si,07,Estrato 2,Si,Si,Si,No,No,5 o 6,Menos de 10 horas,120,feliz
+F,Más de 7 millones,No,07,Estrato 3,Si,Si,Si,Si,No,0,0,120,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 3,Si,Si,Si,Si,No,1,Entre 11 y 20 horas,120,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 2,Si,Si,Si,Si,No,2,Menos de 10 horas,120,muy feliz 
+F,Entre 4 millones y menos de 5.5 millones,Si,07,Estrato 3,Si,Si,Si,Si,No,2,Entre 21 y 30 horas,120,muy feliz 
+M,Entre 5.5 millones y menos de 7 millones,No,10,Estrato 2,No,Si,Si,No,Si,2,Entre 21 y 30 horas,120,muy feliz 
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 3,Si,Si,Si,No,Si,2,0,120,muy feliz 
+M,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 1,Si,Si,No,No,Si,3 o 4,Menos de 10 horas,120,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,No,No,No,No,Si,5 o 6,Entre 11 y 20 horas,120,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 2,Si,No,Si,Si,Si,3 o 4,Entre 11 y 20 horas,120,completamente feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,10,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,120,completamente feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 2,Si,Si,No,No,No,2,Más de 30 horas,119,nada feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,07,Estrato 1,No,No,No,No,No,3 o 4,Más de 30 horas,119,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 1,Si,Si,Si,No,No,3 o 4,Más de 30 horas,119,poco feliz 
+M,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 2,Si,Si,No,No,No,3 o 4,0,119,poco feliz 
+F,Menos de 500 mil,No,09,Estrato 2,Si,Si,No,No,No,5 o 6,Más de 30 horas,119,poco feliz 
+F,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 2,Si,Si,Si,No,No,5 o 6,Entre 11 y 20 horas,119,feliz
+M,Entre 5.5 millones y menos de 7 millones,No,10,Estrato 2,Si,Si,Si,No,No,5 o 6,Más de 30 horas,119,feliz
+M,Entre 500 mil y menos de 1 millón,No,10,Estrato 2,Si,Si,No,No,No,5 o 6,Más de 30 horas,119,feliz
+F,Entre 4 millones y menos de 5.5 millones,Si,08,Estrato 3,Si,Si,Si,Si,No,2,Más de 30 horas,119,feliz
+M,Menos de 500 mil,No,09,Estrato 2,Si,No,Si,Si,No,3 o 4,Entre 11 y 20 horas,119,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 3,Si,Si,Si,Si,No,3 o 4,0,119,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,07,Estrato 1,Si,Si,Si,No,Si,1,0,119,muy feliz 
+F,Entre 4 millones y menos de 5.5 millones,No,09,Estrato 4,Si,Si,Si,No,Si,1,Más de 30 horas,119,muy feliz 
+M,Entre 4 millones y menos de 5.5 millones,No,10,Estrato 1,No,Si,No,No,Si,5 o 6,Más de 30 horas,119,muy feliz 
+M,Entre 5.5 millones y menos de 7 millones,Si,10,Estrato 2,Si,Si,No,No,No,2,Menos de 10 horas,118,nada feliz
+M,Entre 4 millones y menos de 5.5 millones,Si,08,Estrato 1,No,No,Si,No,No,3 o 4,Menos de 10 horas,118,poco feliz 
+F,No pagó matrícula,No,09,Estrato 1,No,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,118,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,118,poco feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,11,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,118,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,No,No,No,No,5 o 6,Entre 11 y 20 horas,118,feliz
+M,Más de 7 millones,Si,11,Estrato 2,Si,No,No,No,No,5 o 6,Menos de 10 horas,118,feliz
+M,Entre 4 millones y menos de 5.5 millones,No,08,Estrato 1,Si,Si,No,No,No,5 o 6,Más de 30 horas,118,feliz
+F,No pagó matrícula,Si,09,Estrato 2,Si,Si,Si,No,No,5 o 6,0,118,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 3,Si,Si,Si,Si,No,1,Entre 11 y 20 horas,118,feliz
+M,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 4,Si,Si,Si,Si,No,1,Entre 11 y 20 horas,118,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 3,Si,Si,Si,Si,No,2,Más de 30 horas,118,muy feliz 
+M,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 3,Si,Si,No,Si,No,2,Entre 21 y 30 horas,118,muy feliz 
+M,No pagó matrícula,No,12 o más,Estrato 1,Si,Si,Si,No,Si,2,0,118,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 2,Si,Si,Si,No,Si,2,Entre 11 y 20 horas,118,muy feliz 
+F,No pagó matrícula,No,11,Estrato 2,Si,Si,Si,No,Si,2,Más de 30 horas,118,muy feliz 
+M,Entre 2.5 millones y menos de 4 millones,Si,10,Estrato 2,Si,No,Si,No,Si,3 o 4,Más de 30 horas,118,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 1,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,118,muy feliz 
+F,Entre 4 millones y menos de 5.5 millones,Si,08,Estrato 2,Si,Si,Si,No,Si,3 o 4,Menos de 10 horas,118,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 1,Si,Si,Si,Si,Si,3 o 4,Entre 21 y 30 horas,118,muy feliz 
+M,Entre 2.5 millones y menos de 4 millones,Si,10,Estrato 1,Si,Si,No,No,No,1,Más de 30 horas,117,poco feliz 
+F,Menos de 500 mil,No,09,Estrato 1,Si,Si,No,No,No,3 o 4,Más de 30 horas,117,poco feliz 
+M,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 1,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,117,poco feliz 
+F,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 1,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,117,poco feliz 
+F,Entre 4 millones y menos de 5.5 millones,No,10,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,117,poco feliz 
+F,Entre 5.5 millones y menos de 7 millones,No,10,Estrato 1,Si,Si,No,No,No,5 o 6,Menos de 10 horas,117,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 3,Si,Si,No,Si,No,3 o 4,Menos de 10 horas,117,feliz
+M,Entre 500 mil y menos de 1 millón,Si,11,Estrato 2,Si,Si,Si,No,Si,1,Más de 30 horas,117,feliz
+M,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 1,No,Si,No,No,Si,2,Entre 21 y 30 horas,117,feliz
+F,Entre 500 mil y menos de 1 millón,No,10,Estrato 1,Si,Si,No,No,Si,2,Entre 11 y 20 horas,117,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 2,Si,Si,Si,No,Si,2,Más de 30 horas,117,feliz
+F,Entre 5.5 millones y menos de 7 millones,No,09,Estrato 1,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,117,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,07,Estrato 2,Si,Si,Si,No,Si,3 o 4,Entre 21 y 30 horas,117,muy feliz 
+M,Entre 2.5 millones y menos de 4 millones,No,07,Estrato 1,Si,Si,No,No,Si,5 o 6,Entre 11 y 20 horas,117,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,Si,Si,Si,No,Si,5 o 6,Menos de 10 horas,117,muy feliz 
+F,Menos de 500 mil,No,10,Estrato 3,No,No,Si,Si,Si,0,Entre 21 y 30 horas,117,muy feliz 
+M,Entre 4 millones y menos de 5.5 millones,Si,09,Estrato 3,Si,Si,Si,Si,Si,1,Entre 21 y 30 horas,117,completamente feliz
+F,Entre 4 millones y menos de 5.5 millones,Si,08,Estrato 3,Si,Si,Si,No,No,1,Más de 30 horas,116,nada feliz
+M,Entre 4 millones y menos de 5.5 millones,Si,09,Estrato 1,No,No,Si,No,No,3 o 4,Más de 30 horas,116,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,07,Estrato 2,No,No,Si,No,No,3 o 4,Más de 30 horas,116,poco feliz 
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 3,No,No,Si,No,No,3 o 4,Menos de 10 horas,116,poco feliz 
+M,Entre 2.5 millones y menos de 4 millones,Si,10,Estrato 1,Si,No,No,No,No,3 o 4,Más de 30 horas,116,poco feliz 
+F,Más de 7 millones,Si,09,Estrato 1,Si,Si,Si,No,No,3 o 4,Más de 30 horas,116,poco feliz 
+F,Entre 4 millones y menos de 5.5 millones,No,08,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,116,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,116,feliz
+M,No pagó matrícula,No,09,Estrato 1,Si,Si,No,No,No,5 o 6,Entre 21 y 30 horas,116,feliz
+M,Entre 4 millones y menos de 5.5 millones,Si,09,Estrato 3,Si,Si,Si,No,No,5 o 6,Entre 11 y 20 horas,116,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 1,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,116,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 4,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,116,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,06,Estrato 1,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,116,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,No,No,Si,No,Si,5 o 6,Menos de 10 horas,116,feliz
+M,No pagó matrícula,Si,12 o más,Estrato 3,No,Si,Si,Si,Si,1,Menos de 10 horas,116,completamente feliz
+M,Entre 500 mil y menos de 1 millón,Si,09,Estrato 3,Si,Si,Si,No,No,1,Entre 21 y 30 horas,115,poco feliz 
+F,Más de 7 millones,Si,12 o más,Estrato 3,No,No,Si,No,No,3 o 4,Menos de 10 horas,115,poco feliz 
+F,Menos de 500 mil,Si,09,Estrato 1,No,Si,No,No,No,3 o 4,Entre 11 y 20 horas,115,poco feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,No,No,No,3 o 4,Entre 11 y 20 horas,115,poco feliz 
+F,Entre 500 mil y menos de 1 millón,No,10,Estrato 4,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,115,poco feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 1,Si,Si,No,No,No,5 o 6,Menos de 10 horas,115,poco feliz 
+F,Entre 5.5 millones y menos de 7 millones,No,09,Estrato 1,Si,Si,Si,No,No,5 o 6,Menos de 10 horas,115,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 1,Si,Si,Si,Si,No,2,Menos de 10 horas,115,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,Si,Si,Si,No,Si,1,Entre 11 y 20 horas,115,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 2,Si,Si,Si,No,Si,2,Más de 30 horas,115,feliz
+M,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 3,Si,Si,Si,No,Si,2,Más de 30 horas,115,muy feliz 
+F,Menos de 500 mil,No,09,Estrato 1,No,No,Si,No,Si,3 o 4,Más de 30 horas,115,muy feliz 
+M,Entre 5.5 millones y menos de 7 millones,No,08,Estrato 2,No,No,No,No,Si,3 o 4,Menos de 10 horas,115,muy feliz 
+F,Más de 7 millones,No,08,Estrato 1,Si,No,Si,No,Si,3 o 4,Entre 11 y 20 horas,115,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 3,No,Si,No,No,Si,3 o 4,Menos de 10 horas,115,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 1,Si,Si,Si,No,Si,3 o 4,Menos de 10 horas,115,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 2,Si,Si,Si,Si,Si,2,Más de 30 horas,115,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,Si,10,Estrato 1,Si,Si,No,No,No,1,Más de 30 horas,114,nada feliz
+F,Menos de 500 mil,No,09,Estrato 2,Si,Si,Si,No,No,2,0,114,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,07,Estrato 1,Si,Si,No,No,No,3 o 4,Menos de 10 horas,114,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,07,Estrato 2,Si,Si,Si,No,No,3 o 4,0,114,poco feliz 
+F,Más de 7 millones,No,09,Estrato 2,Si,Si,Si,No,No,3 o 4,0,114,feliz
+F,Entre 4 millones y menos de 5.5 millones,No,07,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,114,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,Si,No,No,No,No,5 o 6,0,114,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,114,feliz
+F,Entre 5.5 millones y menos de 7 millones,Si,12 o más,Estrato 3,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,114,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,114,feliz
+F,Más de 7 millones,No,12 o más,Estrato 2,No,No,No,Si,No,5 o 6,Más de 30 horas,114,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 2,No,No,No,No,Si,3 o 4,0,114,muy feliz 
+F,Entre 500 mil y menos de 1 millón,No,06,Estrato 2,Si,Si,No,No,Si,3 o 4,Más de 30 horas,114,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,114,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,Si,Si,No,No,2,Menos de 10 horas,113,nada feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 1,No,No,No,No,No,3 o 4,Entre 21 y 30 horas,113,nada feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,No,No,No,No,No,3 o 4,Más de 30 horas,113,feliz
+F,Entre 500 mil y menos de 1 millón,No,10,Estrato 1,Si,Si,Si,No,No,3 o 4,Más de 30 horas,113,feliz
+F,No pagó matrícula,No,10,Estrato 1,Si,Si,No,No,No,3 o 4,Menos de 10 horas,113,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 2,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,113,feliz
+M,Menos de 500 mil,No,10,Estrato 2,Si,Si,Si,No,Si,1,Más de 30 horas,113,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 2,Si,No,Si,No,Si,2,0,113,muy feliz 
+M,Menos de 500 mil,Si,10,Estrato 2,Si,No,Si,No,Si,2,Más de 30 horas,113,muy feliz 
+F,Entre 500 mil y menos de 1 millón,No,08,Estrato 2,Si,Si,Si,No,Si,2,Menos de 10 horas,113,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,Si,10,Estrato 1,Si,Si,Si,Si,Si,3 o 4,Entre 21 y 30 horas,113,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,06,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,113,muy feliz 
+F,Entre 500 mil y menos de 1 millón,No,10,Estrato 6,Si,Si,Si,No,No,0,Más de 30 horas,112,poco feliz 
+M,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 1,Si,Si,Si,No,No,2,Más de 30 horas,112,poco feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,112,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,08,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,112,feliz
+F,Menos de 500 mil,No,08,Estrato 3,Si,Si,No,No,No,5 o 6,Entre 11 y 20 horas,112,feliz
+F,Menos de 500 mil,No,10,Estrato 4,Si,Si,Si,Si,No,1,0,112,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 4,Si,Si,Si,Si,No,2,Más de 30 horas,112,muy feliz 
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 2,No,Si,No,No,Si,5 o 6,Más de 30 horas,112,completamente feliz
+M,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 3,Si,Si,Si,No,No,1,Entre 11 y 20 horas,111,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,111,poco feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 3,Si,No,No,No,No,5 o 6,Menos de 10 horas,111,feliz
+M,Más de 7 millones,No,09,Estrato 3,Si,Si,No,Si,No,0,Menos de 10 horas,111,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 1,Si,No,Si,No,Si,2,Más de 30 horas,111,feliz
+M,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 2,Si,Si,Si,No,Si,2,Más de 30 horas,111,feliz
+M,Menos de 500 mil,No,12 o más,Estrato 2,Si,Si,Si,No,Si,2,Más de 30 horas,111,feliz
+M,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 1,Si,Si,No,No,Si,5 o 6,Entre 11 y 20 horas,111,muy feliz 
+F,No pagó matrícula,No,09,Estrato 2,Si,Si,Si,No,No,0,Más de 30 horas,110,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 4,Si,Si,Si,No,No,0,Entre 11 y 20 horas,110,poco feliz 
+M,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 3,Si,No,Si,No,No,1,0,110,poco feliz 
+M,Entre 4 millones y menos de 5.5 millones,Si,08,Estrato 2,No,No,No,No,No,3 o 4,0,110,feliz
+F,Menos de 500 mil,Si,08,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,110,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,110,feliz
+F,Entre 5.5 millones y menos de 7 millones,No,07,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,110,feliz
+F,Entre 4 millones y menos de 5.5 millones,No,10,Estrato 2,No,No,Si,No,No,5 o 6,Menos de 10 horas,110,feliz
+M,Menos de 500 mil,No,09,Estrato 2,Si,Si,Si,Si,No,2,Más de 30 horas,110,feliz
+F,Entre 4 millones y menos de 5.5 millones,No,08,Estrato 1,Si,Si,Si,No,Si,3 o 4,Menos de 10 horas,110,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,110,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,Si,Si,Si,5 o 6,Más de 30 horas,110,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,No,No,Si,No,No,2,0,109,poco feliz 
+M,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 1,No,No,No,No,No,3 o 4,Entre 11 y 20 horas,109,feliz
+F,Más de 7 millones,No,08,Estrato 3,Si,Si,Si,No,No,5 o 6,Menos de 10 horas,109,feliz
+F,Entre 4 millones y menos de 5.5 millones,Si,09,Estrato 3,Si,Si,Si,Si,No,1,Más de 30 horas,109,feliz
+F,Menos de 500 mil,No,09,Estrato 3,Si,Si,Si,Si,No,2,Más de 30 horas,109,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,07,Estrato 1,Si,Si,Si,No,Si,2,Menos de 10 horas,109,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 2,No,No,Si,No,Si,3 o 4,Entre 11 y 20 horas,109,muy feliz 
+M,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 1,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,109,muy feliz 
+F,Más de 7 millones,No,11,Estrato 2,Si,Si,Si,Si,Si,0,Más de 30 horas,109,muy feliz 
+M,Entre 4 millones y menos de 5.5 millones,No,10,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Entre 21 y 30 horas,109,muy feliz 
+M,Entre 4 millones y menos de 5.5 millones,Si,10,Estrato 1,No,Si,Si,No,No,0,Menos de 10 horas,108,poco feliz 
+M,Entre 5.5 millones y menos de 7 millones,No,09,Estrato 1,Si,No,No,No,No,3 o 4,Entre 11 y 20 horas,108,poco feliz 
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 1,Si,Si,No,No,No,3 o 4,Más de 30 horas,108,feliz
+F,Entre 4 millones y menos de 5.5 millones,Si,09,Estrato 1,Si,Si,Si,No,No,3 o 4,0,108,feliz
+M,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 1,Si,Si,Si,No,No,5 o 6,Más de 30 horas,108,feliz
+F,Entre 4 millones y menos de 5.5 millones,No,09,Estrato 2,Si,Si,Si,Si,No,2,Más de 30 horas,108,muy feliz 
+F,Entre 4 millones y menos de 5.5 millones,Si,09,Estrato 1,No,Si,No,No,Si,3 o 4,Menos de 10 horas,108,muy feliz 
+F,Más de 7 millones,No,07,Estrato 5,Si,Si,Si,Si,Si,0,Menos de 10 horas,108,muy feliz 
+F,Entre 4 millones y menos de 5.5 millones,Si,09,Estrato 3,Si,Si,Si,No,No,0,Entre 11 y 20 horas,107,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,107,feliz
+F,Menos de 500 mil,No,07,Estrato 1,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,107,feliz
+M,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 1,Si,Si,No,No,No,3 o 4,0,107,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 1,Si,Si,Si,Si,No,2,Menos de 10 horas,107,feliz
+M,Entre 5.5 millones y menos de 7 millones,No,07,Estrato 3,Si,Si,Si,Si,No,2,Más de 30 horas,107,feliz
+M,Menos de 500 mil,No,09,Estrato 1,No,No,No,No,Si,3 o 4,Más de 30 horas,107,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 2,Si,Si,Si,No,Si,3 o 4,Entre 11 y 20 horas,107,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,12 o más,Estrato 3,Si,Si,No,No,Si,3 o 4,Menos de 10 horas,107,muy feliz 
+F,Más de 7 millones,No,10,Estrato 1,Si,Si,No,Si,Si,3 o 4,Menos de 10 horas,107,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 3,No,Si,No,No,No,1,Más de 30 horas,106,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,No,No,No,No,No,2,Menos de 10 horas,106,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 1,No,Si,No,No,No,3 o 4,Más de 30 horas,106,poco feliz 
+M,Menos de 500 mil,No,09,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,106,poco feliz 
+F,Más de 7 millones,Si,09,Estrato 1,Si,Si,Si,No,No,5 o 6,Más de 30 horas,106,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,No,Si,No,No,Si,2,Más de 30 horas,106,feliz
+F,Entre 4 millones y menos de 5.5 millones,No,07,Estrato 2,Si,Si,Si,No,Si,2,Más de 30 horas,106,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,No,No,Si,2,Más de 30 horas,106,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 2,No,No,Si,No,Si,3 o 4,0,106,feliz
+F,Más de 7 millones,No,10,Estrato 1,Si,Si,No,No,Si,5 o 6,Más de 30 horas,106,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,106,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 3,Si,Si,Si,Si,No,3 o 4,Menos de 10 horas,105,muy feliz 
+F,Menos de 500 mil,No,09,Estrato 1,Si,Si,Si,Si,Si,1,Entre 11 y 20 horas,105,completamente feliz
+F,Entre 500 mil y menos de 1 millón,No,08,Estrato 1,Si,Si,No,No,No,0,Entre 21 y 30 horas,104,nada feliz
+M,Entre 4 millones y menos de 5.5 millones,Si,05,Estrato 3,Si,Si,Si,No,No,1,Menos de 10 horas,104,poco feliz 
+M,Entre 500 mil y menos de 1 millón,No,08,Estrato 1,No,No,Si,No,No,2,Menos de 10 horas,104,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 3,Si,Si,Si,No,No,2,Entre 11 y 20 horas,104,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 1,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,104,feliz
+M,Entre 2.5 millones y menos de 4 millones,Si,08,Estrato 2,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,104,feliz
+M,Entre 500 mil y menos de 1 millón,No,09,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,104,feliz
+M,Más de 7 millones,No,10,Estrato 3,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,104,feliz
+M,Entre 500 mil y menos de 1 millón,No,09,Estrato 2,No,Si,No,No,No,5 o 6,Más de 30 horas,104,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 4,Si,Si,Si,Si,No,1,Menos de 10 horas,104,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 3,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,104,muy feliz 
+M,Entre 500 mil y menos de 1 millón,No,08,Estrato 2,Si,Si,Si,No,Si,1,Más de 30 horas,104,muy feliz 
+F,No pagó matrícula,No,09,Estrato 2,Si,Si,Si,No,Si,1,Más de 30 horas,104,muy feliz 
+M,Entre 2.5 millones y menos de 4 millones,No,05,Estrato 2,No,Si,No,Si,Si,3 o 4,Menos de 10 horas,104,completamente feliz
+M,Entre 500 mil y menos de 1 millón,No,10,Estrato 1,Si,Si,No,No,No,2,Menos de 10 horas,103,poco feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,07,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,103,poco feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 1,Si,Si,No,No,No,5 o 6,Más de 30 horas,103,poco feliz 
+M,Menos de 500 mil,No,10,Estrato 1,No,No,No,No,Si,3 o 4,Entre 21 y 30 horas,103,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 2,Si,Si,No,No,Si,5 o 6,Más de 30 horas,103,feliz
+F,Menos de 500 mil,No,07,Estrato 3,Si,Si,Si,No,Si,5 o 6,Más de 30 horas,103,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,No,No,No,2,Más de 30 horas,102,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,102,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 2,Si,No,Si,No,Si,2,Más de 30 horas,102,feliz
+F,Más de 7 millones,Si,09,Estrato 3,Si,Si,Si,No,Si,3 o 4,Entre 11 y 20 horas,102,muy feliz 
+M,Menos de 500 mil,No,07,Estrato 3,Si,No,Si,No,No,2,Entre 11 y 20 horas,101,poco feliz 
+M,Menos de 500 mil,No,09,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,101,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,No,Si,No,No,3 o 4,Más de 30 horas,101,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,No,Si,Si,No,No,3 o 4,Más de 30 horas,101,feliz
+F,No pagó matrícula,No,09,Estrato 2,Si,Si,Si,No,Si,2,Más de 30 horas,101,feliz
+F,Entre 4 millones y menos de 5.5 millones,Si,08,Estrato 2,Si,Si,No,No,Si,3 o 4,Menos de 10 horas,101,muy feliz 
+F,No pagó matrícula,No,10,Estrato 1,Si,Si,No,No,No,0,Entre 21 y 30 horas,100,feliz
+M,Menos de 500 mil,No,07,Estrato 2,Si,Si,Si,No,No,0,Más de 30 horas,100,feliz
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 3,Si,Si,Si,No,No,2,Entre 11 y 20 horas,100,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 1,Si,Si,No,No,No,3 o 4,Entre 11 y 20 horas,100,feliz
+F,Entre 4 millones y menos de 5.5 millones,Si,10,Estrato 3,Si,Si,Si,Si,No,2,Más de 30 horas,100,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 5,Si,Si,Si,Si,No,2,Entre 21 y 30 horas,100,muy feliz 
+M,Entre 500 mil y menos de 1 millón,No,08,Estrato 2,Si,Si,No,No,Si,1,Más de 30 horas,100,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 3,Si,Si,Si,No,Si,3 o 4,Entre 11 y 20 horas,100,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 4,Si,No,Si,Si,Si,5 o 6,Entre 11 y 20 horas,100,completamente feliz
+F,Menos de 500 mil,No,09,Estrato 1,Si,Si,No,No,No,2,Menos de 10 horas,99,poco feliz 
+M,Entre 500 mil y menos de 1 millón,No,10,Estrato 2,Si,No,No,No,No,3 o 4,Más de 30 horas,99,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 2,Si,Si,No,No,No,3 o 4,Menos de 10 horas,99,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,Si,Si,No,No,No,3 o 4,Entre 11 y 20 horas,99,feliz
+M,Menos de 500 mil,No,12 o más,Estrato 2,Si,Si,No,No,Si,0,Entre 11 y 20 horas,99,feliz
+M,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 1,Si,Si,Si,No,Si,1,Entre 21 y 30 horas,99,feliz
+F,Entre 500 mil y menos de 1 millón,Si,10,Estrato 2,Si,Si,Si,No,Si,2,Menos de 10 horas,99,muy feliz 
+F,No pagó matrícula,No,09,Estrato 3,No,Si,No,No,Si,3 o 4,Más de 30 horas,99,completamente feliz
+M,Entre 500 mil y menos de 1 millón,No,09,Estrato 1,No,No,Si,No,No,2,Menos de 10 horas,98,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 1,Si,Si,Si,No,No,2,0,98,poco feliz 
+F,Entre 4 millones y menos de 5.5 millones,No,10,Estrato 1,No,Si,No,No,No,3 o 4,Menos de 10 horas,98,poco feliz 
+F,Menos de 500 mil,No,09,Estrato 2,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,98,poco feliz 
+F,No pagó matrícula,Si,09,Estrato 3,Si,Si,No,No,No,3 o 4,Entre 11 y 20 horas,98,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 1,Si,Si,Si,No,No,5 o 6,Entre 11 y 20 horas,98,muy feliz 
+F,Entre 500 mil y menos de 1 millón,No,11,Estrato 2,Si,Si,Si,No,Si,0,Más de 30 horas,98,muy feliz 
+M,Menos de 500 mil,No,08,Estrato 3,Si,Si,Si,No,Si,1,Más de 30 horas,98,muy feliz 
+F,No pagó matrícula,No,08,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Entre 21 y 30 horas,98,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,No,No,No,No,No,3 o 4,Entre 11 y 20 horas,97,nada feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,08,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,97,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 5,Si,Si,No,No,No,3 o 4,Más de 30 horas,97,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,01,Estrato 5,Si,Si,Si,Si,No,1,0,97,feliz
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 2,Si,Si,Si,Si,No,3 o 4,0,97,feliz
+M,Entre 500 mil y menos de 1 millón,Si,09,Estrato 2,Si,Si,No,No,Si,2,Más de 30 horas,97,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,Si,No,No,No,Si,5 o 6,Entre 21 y 30 horas,97,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 2,Si,Si,Si,No,No,2,0,96,poco feliz 
+M,Más de 7 millones,No,10,Estrato 3,Si,Si,Si,No,No,2,Menos de 10 horas,96,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,07,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,96,feliz
+F,Menos de 500 mil,No,08,Estrato 3,Si,Si,Si,Si,No,1,Más de 30 horas,96,feliz
+F,No pagó matrícula,No,07,Estrato 5,Si,Si,Si,Si,No,1,Más de 30 horas,96,muy feliz 
+M,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 1,Si,No,Si,No,Si,1,Entre 11 y 20 horas,96,muy feliz 
+F,Menos de 500 mil,No,10,Estrato 1,No,Si,Si,No,Si,5 o 6,0,96,muy feliz 
+M,Entre 500 mil y menos de 1 millón,Si,10,Estrato 2,Si,Si,Si,No,No,1,Más de 30 horas,95,poco feliz 
+F,Entre 2.5 millones y menos de 4 millones,Si,10,Estrato 1,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,95,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,06,Estrato 6,Si,Si,Si,No,Si,2,Más de 30 horas,95,feliz
+M,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 1,Si,Si,Si,No,Si,5 o 6,Más de 30 horas,95,muy feliz 
+M,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 3,Si,Si,Si,Si,No,1,Entre 11 y 20 horas,94,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 5,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,94,muy feliz 
+M,Entre 4 millones y menos de 5.5 millones,Si,08,Estrato 1,Si,No,Si,No,Si,3 o 4,Menos de 10 horas,94,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Menos de 10 horas,94,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,07,Estrato 3,Si,Si,Si,Si,Si,3 o 4,0,94,muy feliz 
+M,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Entre 21 y 30 horas,94,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,12 o más,Estrato 2,Si,Si,No,No,No,1,Más de 30 horas,93,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 2,Si,Si,Si,No,No,2,Menos de 10 horas,93,poco feliz 
+F,Entre 500 mil y menos de 1 millón,No,10,Estrato 1,Si,Si,No,No,No,5 o 6,Entre 11 y 20 horas,93,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 2,Si,Si,Si,Si,No,1,Menos de 10 horas,93,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 3,Si,Si,Si,Si,No,3 o 4,Entre 21 y 30 horas,93,muy feliz 
+F,No pagó matrícula,Si,10,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,92,poco feliz 
+M,Menos de 500 mil,No,10,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,92,poco feliz 
+F,Entre 500 mil y menos de 1 millón,Si,10,Estrato 4,Si,Si,Si,Si,No,2,Más de 30 horas,92,feliz
+M,Menos de 500 mil,No,10,Estrato 2,Si,No,Si,Si,No,3 o 4,Menos de 10 horas,92,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 2,No,Si,No,No,Si,1,Entre 21 y 30 horas,92,feliz
+M,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 1,Si,Si,No,No,Si,2,Entre 21 y 30 horas,92,feliz
+F,Entre 500 mil y menos de 1 millón,No,10,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,92,feliz
+F,No pagó matrícula,No,08,Estrato 2,No,No,Si,No,Si,5 o 6,Más de 30 horas,92,feliz
+M,Menos de 500 mil,No,08,Estrato 1,Si,Si,No,No,Si,5 o 6,Más de 30 horas,92,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 1,Si,Si,Si,No,Si,5 o 6,Entre 11 y 20 horas,92,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,92,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,No,No,No,3 o 4,Entre 11 y 20 horas,91,poco feliz 
+F,Entre 4 millones y menos de 5.5 millones,Si,12 o más,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,91,feliz
+F,Menos de 500 mil,Si,10,Estrato 3,Si,Si,Si,Si,Si,5 o 6,Entre 21 y 30 horas,91,feliz
+M,Menos de 500 mil,No,08,Estrato 3,Si,Si,Si,Si,Si,5 o 6,Más de 30 horas,91,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,07,Estrato 1,No,Si,No,No,Si,1,0,90,feliz
+M,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,90,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,03,Estrato 1,Si,Si,No,No,No,3 o 4,Más de 30 horas,89,nada feliz
+F,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,89,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,Si,Si,No,No,1,Más de 30 horas,88,nada feliz
+M,Entre 2.5 millones y menos de 4 millones,No,07,Estrato 1,No,No,No,No,No,2,Más de 30 horas,88,poco feliz 
+M,No pagó matrícula,No,08,Estrato 1,Si,Si,Si,No,No,2,0,88,feliz
+F,Menos de 500 mil,No,10,Estrato 3,Si,Si,Si,No,No,2,Más de 30 horas,88,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,12 o más,Estrato 2,Si,Si,Si,No,No,3 o 4,0,88,feliz
+M,Más de 7 millones,Si,07,Estrato 3,Si,Si,No,No,No,3 o 4,Más de 30 horas,88,feliz
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,88,feliz
+F,No pagó matrícula,No,09,Estrato 3,Si,Si,Si,No,No,5 o 6,Más de 30 horas,88,muy feliz 
+F,Menos de 500 mil,No,10,Estrato 2,Si,Si,No,Si,Si,3 o 4,Más de 30 horas,88,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 1,Si,Si,Si,No,No,2,Entre 11 y 20 horas,87,poco feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,Si,Si,Si,No,No,5 o 6,Más de 30 horas,87,feliz
+F,No pagó matrícula,No,07,Estrato 3,Si,Si,Si,No,No,5 o 6,Menos de 10 horas,86,feliz
+M,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 3,Si,Si,Si,Si,Si,3 o 4,0,86,completamente feliz
+M,Menos de 500 mil,No,10,Estrato 1,No,No,No,No,No,3 o 4,Más de 30 horas,85,nada feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,85,feliz
+M,Entre 1 millón y menos de 2.5 millones,No,12 o más,Estrato 2,Si,Si,Si,No,Si,2,Más de 30 horas,85,muy feliz 
+F,No pagó matrícula,No,09,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Entre 21 y 30 horas,85,muy feliz 
+F,Más de 7 millones,No,10,Estrato 3,Si,Si,Si,No,No,0,0,84,nada feliz
+F,Entre 500 mil y menos de 1 millón,No,10,Estrato 3,Si,Si,Si,No,No,2,Entre 11 y 20 horas,84,feliz
+F,Más de 7 millones,No,09,Estrato 1,No,No,No,No,No,5 o 6,Menos de 10 horas,84,muy feliz 
+F,Menos de 500 mil,No,11,Estrato 1,Si,Si,Si,No,No,5 o 6,Entre 11 y 20 horas,84,muy feliz 
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 4,Si,Si,Si,Si,No,2,Más de 30 horas,84,muy feliz 
+M,No pagó matrícula,Si,08,Estrato 1,Si,Si,Si,No,Si,3 o 4,Entre 21 y 30 horas,84,muy feliz 
+M,Entre 4 millones y menos de 5.5 millones,Si,10,Estrato 2,Si,Si,Si,No,No,2,Menos de 10 horas,83,poco feliz 
+F,Más de 7 millones,Si,10,Estrato 3,Si,Si,No,No,No,3 o 4,Más de 30 horas,83,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,Si,Si,Si,No,Si,2,Entre 11 y 20 horas,83,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,82,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 2,Si,Si,Si,No,No,3 o 4,0,82,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 2,Si,Si,Si,No,No,2,Entre 11 y 20 horas,81,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,81,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 2,Si,Si,Si,Si,No,2,0,81,muy feliz 
+F,Menos de 500 mil,No,09,Estrato 3,Si,Si,Si,No,Si,1,Más de 30 horas,81,muy feliz 
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 2,No,No,No,No,Si,2,Menos de 10 horas,81,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,05,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,81,completamente feliz
+M,Entre 1 millón y menos de 2.5 millones,No,07,Estrato 2,Si,Si,Si,Si,No,1,0,80,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 2,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,80,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 3,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,80,muy feliz 
+F,Más de 7 millones,Si,09,Estrato 2,No,No,No,No,No,3 o 4,Más de 30 horas,79,nada feliz
+M,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,79,feliz
+F,No pagó matrícula,No,12 o más,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,79,feliz
+F,No pagó matrícula,No,07,Estrato 3,Si,Si,No,No,No,3 o 4,Entre 11 y 20 horas,79,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,10,Estrato 2,Si,Si,No,Si,No,3 o 4,Más de 30 horas,79,feliz
+F,Menos de 500 mil,Si,10,Estrato 3,Si,Si,Si,No,Si,5 o 6,Más de 30 horas,79,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,06,Estrato 1,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,78,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,78,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,Si,Si,Si,Si,2,Entre 21 y 30 horas,78,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,Si,10,Estrato 3,Si,Si,Si,No,No,1,Menos de 10 horas,77,poco feliz 
+F,Entre 4 millones y menos de 5.5 millones,No,10,Estrato 2,Si,Si,No,No,No,3 o 4,0,77,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 1,Si,No,Si,No,No,5 o 6,Más de 30 horas,77,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 2,Si,Si,Si,No,Si,3 o 4,Menos de 10 horas,77,muy feliz 
+F,Entre 5.5 millones y menos de 7 millones,Si,07,Estrato 1,No,No,No,No,No,3 o 4,Más de 30 horas,76,nada feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,No,No,No,No,No,3 o 4,Más de 30 horas,76,nada feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 1,Si,Si,Si,No,No,3 o 4,0,76,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,76,feliz
+F,Más de 7 millones,No,12 o más,Estrato 2,Si,No,Si,Si,No,3 o 4,Menos de 10 horas,76,muy feliz 
+F,Menos de 500 mil,No,09,Estrato 5,Si,Si,Si,Si,Si,0,Más de 30 horas,76,completamente feliz
+F,No pagó matrícula,No,08,Estrato 2,Si,Si,No,No,No,1,Más de 30 horas,75,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,75,feliz
+M,Entre 2.5 millones y menos de 4 millones,Si,10,Estrato 4,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,75,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 3,Si,Si,Si,No,Si,1,0,75,muy feliz 
+M,Más de 7 millones,No,09,Estrato 2,Si,Si,Si,No,Si,3 o 4,0,75,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,Si,07,Estrato 3,Si,Si,Si,No,No,1,Más de 30 horas,74,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 3,Si,Si,Si,No,No,1,Menos de 10 horas,74,feliz
+F,Entre 4 millones y menos de 5.5 millones,Si,08,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,74,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 3,Si,Si,Si,Si,No,2,Entre 11 y 20 horas,74,muy feliz 
+F,Entre 4 millones y menos de 5.5 millones,No,10,Estrato 3,Si,Si,Si,Si,No,2,0,74,muy feliz 
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 1,Si,Si,Si,No,Si,2,Entre 11 y 20 horas,74,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,Si,No,Si,5 o 6,0,74,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 3,Si,Si,Si,No,No,1,Más de 30 horas,73,nada feliz
+F,Entre 1 millón y menos de 2.5 millones,No,07,Estrato 1,No,Si,No,No,No,3 o 4,Entre 21 y 30 horas,73,poco feliz 
+F,Entre 4 millones y menos de 5.5 millones,No,08,Estrato 1,No,Si,Si,No,No,5 o 6,Menos de 10 horas,73,feliz
+F,Entre 500 mil y menos de 1 millón,No,08,Estrato 2,Si,Si,No,Si,No,5 o 6,Entre 11 y 20 horas,73,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 3,Si,Si,Si,No,Si,2,Entre 21 y 30 horas,73,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 1,Si,Si,Si,No,Si,3 o 4,Menos de 10 horas,73,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,73,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,Si,10,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Entre 11 y 20 horas,73,completamente feliz
+M,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 4,Si,Si,No,No,No,2,Más de 30 horas,72,feliz
+F,Menos de 500 mil,No,09,Estrato 1,Si,Si,Si,No,Si,3 o 4,Entre 11 y 20 horas,72,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 2,Si,Si,No,No,Si,3 o 4,Entre 21 y 30 horas,72,muy feliz 
+M,Entre 5.5 millones y menos de 7 millones,No,09,Estrato 1,Si,Si,Si,No,No,1,Entre 11 y 20 horas,71,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,11,Estrato 1,No,No,No,No,No,3 o 4,0,71,feliz
+F,Menos de 500 mil,No,11,Estrato 3,Si,Si,Si,No,Si,3 o 4,Entre 21 y 30 horas,71,muy feliz 
+F,Menos de 500 mil,Si,09,Estrato 2,Si,Si,No,No,No,3 o 4,Entre 11 y 20 horas,70,feliz
+F,Entre 4 millones y menos de 5.5 millones,Si,10,Estrato 2,Si,Si,Si,No,No,3 o 4,0,69,nada feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 2,No,Si,No,No,No,5 o 6,Entre 21 y 30 horas,69,poco feliz 
+F,Entre 5.5 millones y menos de 7 millones,No,09,Estrato 2,Si,Si,Si,No,No,5 o 6,Más de 30 horas,69,feliz
+F,Entre 500 mil y menos de 1 millón,No,08,Estrato 3,Si,Si,Si,Si,No,1,Más de 30 horas,69,muy feliz 
+F,Menos de 500 mil,No,09,Estrato 4,Si,Si,Si,Si,No,2,Más de 30 horas,69,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,68,feliz
+F,Entre 4 millones y menos de 5.5 millones,No,09,Estrato 1,Si,Si,No,No,Si,3 o 4,0,68,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,Si,Si,Si,No,No,2,Más de 30 horas,67,feliz
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 3,Si,Si,No,No,No,2,Entre 21 y 30 horas,67,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 4,Si,Si,Si,Si,No,2,0,66,feliz
+M,Menos de 500 mil,No,09,Estrato 2,Si,Si,No,No,Si,5 o 6,Menos de 10 horas,66,muy feliz 
+F,Entre 4 millones y menos de 5.5 millones,Si,09,Estrato 3,Si,No,Si,No,No,2,Entre 11 y 20 horas,65,feliz
+F,Menos de 500 mil,No,09,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Entre 21 y 30 horas,65,muy feliz 
+M,Menos de 500 mil,No,12 o más,Estrato 1,Si,Si,No,No,No,3 o 4,Entre 11 y 20 horas,64,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,04,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,64,poco feliz 
+M,Entre 500 mil y menos de 1 millón,No,10,Estrato 3,Si,Si,No,Si,No,2,Más de 30 horas,64,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 2,Si,Si,Si,No,Si,0,Más de 30 horas,64,feliz
+M,No pagó matrícula,No,08,Estrato 2,Si,Si,Si,No,Si,5 o 6,Más de 30 horas,64,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 2,Si,Si,Si,No,No,2,0,63,nada feliz
+F,Menos de 500 mil,No,10,Estrato 4,Si,Si,Si,Si,No,2,Menos de 10 horas,63,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,07,Estrato 3,Si,Si,Si,Si,No,3 o 4,Menos de 10 horas,63,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 1,No,No,No,No,Si,5 o 6,Más de 30 horas,63,completamente feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 1,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,62,feliz
+M,Entre 4 millones y menos de 5.5 millones,Si,10,Estrato 1,Si,Si,Si,No,No,5 o 6,Entre 11 y 20 horas,62,feliz
+F,Más de 7 millones,No,09,Estrato 4,Si,Si,Si,Si,No,2,Entre 21 y 30 horas,62,feliz
+M,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 3,Si,Si,Si,Si,No,3 o 4,Entre 21 y 30 horas,62,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,Si,08,Estrato 4,Si,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,62,muy feliz 
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 3,Si,Si,Si,Si,No,2,Entre 21 y 30 horas,61,feliz
+F,Menos de 500 mil,No,09,Estrato 3,Si,Si,Si,Si,No,2,Menos de 10 horas,61,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,07,Estrato 2,Si,Si,Si,No,Si,3 o 4,Entre 21 y 30 horas,61,muy feliz 
+F,Entre 4 millones y menos de 5.5 millones,No,07,Estrato 2,Si,Si,Si,No,Si,3 o 4,Entre 11 y 20 horas,61,muy feliz 
+M,Más de 7 millones,No,08,Estrato 2,No,No,No,No,No,0,0,60,poco feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 2,No,Si,Si,No,No,2,Más de 30 horas,60,poco feliz 
+F,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,60,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,07,Estrato 1,Si,Si,Si,No,Si,3 o 4,Menos de 10 horas,60,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 1,No,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,59,poco feliz 
+F,Entre 4 millones y menos de 5.5 millones,Si,08,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,59,poco feliz 
+M,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 1,No,No,Si,No,Si,3 o 4,Menos de 10 horas,59,feliz
+M,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 2,Si,Si,No,Si,No,5 o 6,Más de 30 horas,58,poco feliz 
+F,Entre 4 millones y menos de 5.5 millones,No,08,Estrato 2,Si,Si,Si,No,Si,2,Más de 30 horas,58,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,07,Estrato 2,Si,Si,Si,No,No,5 o 6,Más de 30 horas,57,poco feliz 
+F,No pagó matrícula,Si,10,Estrato 1,No,No,No,No,Si,1,Menos de 10 horas,57,feliz
+F,Menos de 500 mil,No,08,Estrato 1,No,Si,No,No,No,3 o 4,Entre 21 y 30 horas,56,poco feliz 
+M,Entre 4 millones y menos de 5.5 millones,Si,08,Estrato 2,Si,Si,No,Si,Si,3 o 4,Más de 30 horas,56,feliz
+F,Entre 500 mil y menos de 1 millón,No,08,Estrato 4,Si,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,55,feliz
+F,Entre 500 mil y menos de 1 millón,No,08,Estrato 1,Si,Si,No,No,Si,2,Entre 21 y 30 horas,55,muy feliz 
+M,Menos de 500 mil,No,09,Estrato 3,Si,Si,Si,Si,No,1,Más de 30 horas,54,muy feliz 
+F,Entre 4 millones y menos de 5.5 millones,No,09,Estrato 3,Si,Si,Si,Si,Si,2,Más de 30 horas,54,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 3,Si,Si,Si,Si,Si,0,Más de 30 horas,52,muy feliz 
+M,Menos de 500 mil,No,08,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,52,completamente feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 1,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,51,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 2,Si,Si,No,No,No,3 o 4,Entre 11 y 20 horas,51,feliz
+F,Menos de 500 mil,No,09,Estrato 1,Si,Si,Si,No,Si,0,Más de 30 horas,51,feliz
+F,Entre 4 millones y menos de 5.5 millones,No,09,Estrato 1,Si,No,No,No,Si,3 o 4,Entre 11 y 20 horas,51,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 5,Si,Si,Si,No,No,1,Menos de 10 horas,50,nada feliz
+F,Entre 4 millones y menos de 5.5 millones,No,10,Estrato 2,No,Si,No,No,No,3 o 4,Más de 30 horas,50,poco feliz 
+M,Entre 2.5 millones y menos de 4 millones,Si,07,Estrato 1,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,50,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,06,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,50,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,50,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 3,Si,Si,No,No,No,3 o 4,Más de 30 horas,50,muy feliz 
+M,Entre 4 millones y menos de 5.5 millones,Si,07,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,49,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 3,Si,Si,No,Si,No,3 o 4,Más de 30 horas,49,feliz
+F,Más de 7 millones,No,10,Estrato 1,Si,Si,Si,No,Si,1,0,49,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 2,Si,Si,Si,No,Si,3 o 4,Entre 11 y 20 horas,49,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 1,Si,Si,No,No,No,2,Más de 30 horas,48,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 2,Si,Si,No,No,No,5 o 6,Entre 11 y 20 horas,48,feliz
+F,Más de 7 millones,Si,07,Estrato 2,No,Si,No,No,No,5 o 6,Entre 11 y 20 horas,47,nada feliz
+M,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 6,Si,Si,Si,Si,No,1,Entre 21 y 30 horas,47,feliz
+F,Más de 7 millones,No,10,Estrato 3,Si,Si,Si,Si,No,3 o 4,Menos de 10 horas,47,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,46,feliz
+M,Entre 4 millones y menos de 5.5 millones,Si,09,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,46,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 4,Si,Si,Si,Si,No,2,Más de 30 horas,46,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 2,No,Si,Si,No,Si,2,Menos de 10 horas,46,feliz
+F,Entre 500 mil y menos de 1 millón,No,10,Estrato 2,Si,Si,Si,No,No,2,0,45,feliz
+M,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 3,Si,Si,Si,Si,No,1,Entre 21 y 30 horas,45,feliz
+F,No pagó matrícula,No,09,Estrato 2,Si,Si,No,No,Si,3 o 4,Más de 30 horas,45,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 3,Si,Si,Si,No,No,2,Entre 21 y 30 horas,44,feliz
+F,Entre 4 millones y menos de 5.5 millones,No,09,Estrato 4,Si,Si,Si,Si,No,2,0,44,muy feliz 
+F,Más de 7 millones,Si,10,Estrato 3,Si,Si,Si,Si,Si,5 o 6,0,44,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,12 o más,Estrato 1,No,No,No,No,No,3 o 4,Más de 30 horas,43,nada feliz
+M,Entre 2.5 millones y menos de 4 millones,Si,10,Estrato 1,Si,Si,No,No,No,3 o 4,Más de 30 horas,43,nada feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 1,No,Si,No,No,No,5 o 6,Entre 21 y 30 horas,43,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 1,No,No,Si,No,No,3 o 4,Menos de 10 horas,42,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,42,poco feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 1,No,Si,No,No,Si,3 o 4,Entre 21 y 30 horas,42,feliz
+F,Más de 7 millones,Si,07,Estrato 2,Si,Si,Si,Si,Si,5 o 6,Menos de 10 horas,42,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 3,Si,Si,Si,Si,No,1,Entre 21 y 30 horas,41,muy feliz 
+F,No pagó matrícula,No,08,Estrato 3,Si,Si,Si,Si,No,2,Menos de 10 horas,41,muy feliz 
+M,No pagó matrícula,No,10,Estrato 3,Si,Si,Si,No,No,1,Más de 30 horas,40,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 1,Si,No,No,No,Si,3 o 4,0,40,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 1,Si,Si,No,No,Si,3 o 4,Más de 30 horas,40,feliz
+M,No pagó matrícula,No,08,Estrato 3,Si,Si,No,No,No,1,Más de 30 horas,39,nada feliz
+F,Menos de 500 mil,No,09,Estrato 3,Si,Si,No,No,No,2,Entre 11 y 20 horas,39,poco feliz 
+F,Entre 2.5 millones y menos de 4 millones,Si,08,Estrato 2,Si,Si,No,No,No,3 o 4,0,39,feliz
+M,Entre 2.5 millones y menos de 4 millones,Si,08,Estrato 1,Si,No,No,No,No,5 o 6,Más de 30 horas,39,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 1,Si,Si,No,No,No,5 o 6,Entre 11 y 20 horas,39,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,05,Estrato 4,Si,Si,No,No,No,0,Entre 11 y 20 horas,38,feliz
+M,Menos de 500 mil,No,10,Estrato 2,Si,Si,Si,No,No,0,Más de 30 horas,37,nada feliz
+M,Entre 1 millón y menos de 2.5 millones,No,12 o más,Estrato 4,Si,No,Si,No,No,3 o 4,Más de 30 horas,37,poco feliz 
+F,Menos de 500 mil,No,09,Estrato 3,Si,Si,No,No,No,3 o 4,Más de 30 horas,37,poco feliz 
+M,Entre 4 millones y menos de 5.5 millones,Si,09,Estrato 1,Si,Si,Si,No,No,5 o 6,Entre 11 y 20 horas,37,feliz
+F,Entre 5.5 millones y menos de 7 millones,No,09,Estrato 2,Si,Si,No,No,No,5 o 6,Más de 30 horas,37,feliz
+F,Entre 5.5 millones y menos de 7 millones,No,10,Estrato 2,Si,Si,Si,Si,No,2,Más de 30 horas,37,feliz
+M,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 1,Si,Si,No,No,No,3 o 4,Entre 11 y 20 horas,36,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 4,Si,Si,Si,Si,No,2,Entre 21 y 30 horas,36,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 1,Si,No,Si,No,Si,2,Entre 21 y 30 horas,36,feliz
+M,No pagó matrícula,No,10,Estrato 2,Si,Si,Si,No,Si,2,Entre 11 y 20 horas,36,feliz
+M,Entre 4 millones y menos de 5.5 millones,Si,08,Estrato 2,Si,No,Si,No,Si,3 o 4,Entre 21 y 30 horas,36,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,36,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 3,Si,Si,Si,No,No,0,Más de 30 horas,35,poco feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,11,Estrato 1,No,Si,No,No,No,3 o 4,Menos de 10 horas,35,feliz
+F,No pagó matrícula,No,08,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,35,feliz
+M,Menos de 500 mil,Si,09,Estrato 3,Si,Si,No,No,No,3 o 4,Más de 30 horas,35,feliz
+F,No pagó matrícula,No,08,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,35,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 1,Si,No,No,No,Si,3 o 4,Menos de 10 horas,35,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,07,Estrato 1,Si,Si,Si,No,Si,3 o 4,Entre 21 y 30 horas,35,feliz
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 2,Si,Si,Si,No,Si,3 o 4,0,35,muy feliz 
+M,No pagó matrícula,No,10,Estrato 1,Si,Si,Si,No,No,3 o 4,Más de 30 horas,34,poco feliz 
+F,Entre 500 mil y menos de 1 millón,No,10,Estrato 1,No,No,Si,No,Si,3 o 4,Más de 30 horas,34,feliz
+F,Entre 5.5 millones y menos de 7 millones,No,12 o más,Estrato 1,Si,Si,No,No,No,5 o 6,Menos de 10 horas,33,poco feliz 
+F,Menos de 500 mil,No,09,Estrato 3,Si,Si,Si,No,Si,2,0,33,feliz
+F,Entre 4 millones y menos de 5.5 millones,No,09,Estrato 1,Si,Si,Si,No,Si,3 o 4,Menos de 10 horas,33,muy feliz 
+M,Menos de 500 mil,No,07,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,32,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 2,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,32,muy feliz 
+F,Entre 500 mil y menos de 1 millón,No,10,Estrato 3,Si,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,32,muy feliz 
+F,Más de 7 millones,Si,08,Estrato 3,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,31,feliz
+F,No pagó matrícula,Si,08,Estrato 1,Si,Si,Si,No,Si,5 o 6,Más de 30 horas,31,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 3,Si,Si,Si,No,No,2,Entre 11 y 20 horas,30,poco feliz 
+F,Menos de 500 mil,No,09,Estrato 2,No,Si,No,No,No,3 o 4,Entre 21 y 30 horas,30,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 1,Si,Si,No,Si,No,2,0,30,muy feliz 
+M,Entre 500 mil y menos de 1 millón,No,10,Estrato 1,Si,Si,Si,No,Si,2,Menos de 10 horas,30,muy feliz 
+F,Entre 500 mil y menos de 1 millón,Si,08,Estrato 3,Si,Si,Si,No,No,0,Más de 30 horas,29,feliz
+F,No pagó matrícula,Si,09,Estrato 2,Si,Si,No,No,No,2,Más de 30 horas,29,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,07,Estrato 2,Si,Si,Si,Si,No,1,Entre 21 y 30 horas,29,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 1,No,Si,Si,Si,No,2,Más de 30 horas,29,feliz
+F,Más de 7 millones,No,12 o más,Estrato 3,Si,Si,Si,Si,No,3 o 4,Menos de 10 horas,29,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 3,Si,Si,Si,No,Si,2,Más de 30 horas,29,muy feliz 
+F,Entre 500 mil y menos de 1 millón,Si,09,Estrato 3,Si,Si,No,No,No,0,Más de 30 horas,28,feliz
+F,Entre 4 millones y menos de 5.5 millones,Si,10,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,27,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 1,No,No,No,No,Si,3 o 4,0,27,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 3,Si,Si,Si,No,No,2,Entre 11 y 20 horas,26,poco feliz 
+F,Más de 7 millones,No,08,Estrato 2,Si,Si,Si,Si,No,0,Menos de 10 horas,26,feliz
+F,Más de 7 millones,No,11,Estrato 2,Si,Si,Si,Si,No,3 o 4,Entre 21 y 30 horas,26,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 3,Si,Si,No,No,Si,1,Más de 30 horas,26,feliz
+M,No pagó matrícula,No,09,Estrato 1,No,No,No,No,Si,2,Más de 30 horas,26,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 1,Si,Si,Si,No,Si,3 o 4,0,26,feliz
+F,No pagó matrícula,No,11,Estrato 2,Si,Si,Si,No,Si,3 o 4,Entre 21 y 30 horas,26,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,12 o más,Estrato 2,Si,Si,Si,No,Si,3 o 4,0,26,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 3,Si,Si,Si,No,No,2,Entre 21 y 30 horas,25,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,10,Estrato 2,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,25,feliz
+F,Entre 4 millones y menos de 5.5 millones,Si,09,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,25,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,No,No,No,5 o 6,Más de 30 horas,24,nada feliz
+F,Entre 1 millón y menos de 2.5 millones,No,07,Estrato 1,Si,Si,No,No,Si,3 o 4,Entre 21 y 30 horas,24,poco feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,24,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 1,No,No,No,No,No,3 o 4,Menos de 10 horas,23,poco feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 6,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,23,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 1,Si,Si,No,No,Si,3 o 4,Más de 30 horas,23,feliz
+M,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 2,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,22,poco feliz 
+M,Menos de 500 mil,Si,10,Estrato 1,No,No,Si,No,Si,3 o 4,Más de 30 horas,22,feliz
+F,Entre 4 millones y menos de 5.5 millones,Si,09,Estrato 3,Si,Si,Si,Si,Si,2,Entre 21 y 30 horas,22,muy feliz 
+M,Menos de 500 mil,No,09,Estrato 1,Si,Si,Si,No,No,2,0,21,poco feliz 
+F,Menos de 500 mil,No,09,Estrato 1,No,No,Si,No,No,3 o 4,Entre 11 y 20 horas,21,poco feliz 
+F,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 1,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,21,feliz
+F,No pagó matrícula,No,08,Estrato 2,Si,Si,No,No,No,5 o 6,Entre 21 y 30 horas,21,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,Si,Si,No,Si,2,Más de 30 horas,21,muy feliz 
+F,No pagó matrícula,No,09,Estrato 1,No,Si,Si,Si,Si,2,0,21,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,Si,No,No,No,3 o 4,Entre 11 y 20 horas,20,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,Si,No,No,5 o 6,Menos de 10 horas,20,feliz
+M,Menos de 500 mil,No,08,Estrato 2,Si,Si,Si,No,No,5 o 6,Entre 11 y 20 horas,20,feliz
+F,Entre 500 mil y menos de 1 millón,Si,09,Estrato 2,No,Si,Si,Si,No,1,Menos de 10 horas,20,muy feliz 
+F,Entre 500 mil y menos de 1 millón,Si,09,Estrato 1,Si,Si,Si,No,Si,2,Más de 30 horas,20,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,11,Estrato 2,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,19,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,19,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,Si,Si,Si,No,3 o 4,0,19,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,07,Estrato 3,Si,Si,No,Si,Si,3 o 4,Más de 30 horas,19,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 2,Si,Si,No,No,No,1,Entre 21 y 30 horas,18,poco feliz 
+F,No pagó matrícula,No,09,Estrato 1,No,No,No,No,No,5 o 6,0,18,feliz
+M,Menos de 500 mil,No,08,Estrato 2,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,18,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,08,Estrato 2,Si,Si,Si,Si,No,3 o 4,Menos de 10 horas,18,muy feliz 
+F,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 3,Si,Si,Si,Si,Si,1,Entre 21 y 30 horas,18,muy feliz 
+F,No pagó matrícula,No,09,Estrato 1,Si,Si,No,No,No,3 o 4,0,17,poco feliz 
+M,Entre 4 millones y menos de 5.5 millones,Si,09,Estrato 1,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,17,feliz
+F,Más de 7 millones,No,08,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,17,feliz
+M,Entre 2.5 millones y menos de 4 millones,Si,10,Estrato 2,Si,Si,No,No,No,5 o 6,Menos de 10 horas,17,feliz
+M,Entre 5.5 millones y menos de 7 millones,Si,10,Estrato 3,Si,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,17,feliz
+M,Entre 2.5 millones y menos de 4 millones,Si,10,Estrato 3,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,17,muy feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 3,Si,Si,No,No,No,3 o 4,0,15,poco feliz 
+M,Entre 1 millón y menos de 2.5 millones,No,10,Estrato 3,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,15,feliz
+F,Entre 5.5 millones y menos de 7 millones,No,10,Estrato 1,Si,Si,No,No,Si,3 o 4,0,15,feliz
+M,Más de 7 millones,Si,10,Estrato 1,No,No,Si,No,Si,5 o 6,Menos de 10 horas,15,feliz
+M,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,15,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,07,Estrato 3,Si,Si,Si,No,No,2,Más de 30 horas,14,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,04,Estrato 2,Si,No,Si,No,Si,2,Menos de 10 horas,14,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 1,No,No,No,No,Si,3 o 4,Menos de 10 horas,14,feliz
+M,Entre 500 mil y menos de 1 millón,No,10,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,13,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 2,Si,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,13,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,07,Estrato 2,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,12,feliz
+F,Más de 7 millones,Si,12 o más,Estrato 1,Si,Si,Si,Si,No,5 o 6,Entre 11 y 20 horas,12,feliz
+M,No pagó matrícula,No,09,Estrato 2,No,No,No,No,No,3 o 4,Más de 30 horas,11,nada feliz
+F,Entre 2.5 millones y menos de 4 millones,No,09,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,10,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,10,Estrato 3,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,10,muy feliz 
+F,Entre 4 millones y menos de 5.5 millones,Si,09,Estrato 1,Si,Si,Si,No,No,3 o 4,0,9,feliz
+M,Entre 500 mil y menos de 1 millón,Si,11,Estrato 1,Si,Si,Si,No,Si,3 o 4,Entre 11 y 20 horas,9,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,09,Estrato 3,Si,Si,Si,Si,Si,1,Entre 11 y 20 horas,9,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,8,nada feliz
+F,Entre 2.5 millones y menos de 4 millones,No,08,Estrato 1,No,No,Si,No,No,5 o 6,Entre 21 y 30 horas,8,poco feliz 
+F,Entre 500 mil y menos de 1 millón,No,10,Estrato 1,Si,No,Si,No,Si,3 o 4,Entre 11 y 20 horas,8,feliz
+F,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,7,nada feliz
+F,Entre 2.5 millones y menos de 4 millones,No,10,Estrato 1,No,Si,No,No,No,5 o 6,Entre 11 y 20 horas,7,nada feliz
+F,Entre 4 millones y menos de 5.5 millones,Si,07,Estrato 1,Si,Si,Si,No,No,5 o 6,Entre 11 y 20 horas,7,poco feliz 
+M,Menos de 500 mil,No,11,Estrato 3,Si,Si,Si,Si,No,2,Más de 30 horas,7,feliz
+F,Entre 1 millón y menos de 2.5 millones,No,08,Estrato 1,No,Si,No,No,Si,5 o 6,Más de 30 horas,7,feliz
+F,No pagó matrícula,No,08,Estrato 2,Si,Si,Si,No,Si,5 o 6,Más de 30 horas,7,feliz
+F,Entre 500 mil y menos de 1 millón,No,09,Estrato 1,No,Si,No,No,No,3 o 4,Más de 30 horas,6,nada feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,09,Estrato 3,Si,Si,Si,No,No,3 o 4,0,6,feliz
+M,Entre 4 millones y menos de 5.5 millones,Si,08,Estrato 1,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,6,muy feliz 
+F,Menos de 500 mil,No,12 o más,Estrato 2,Si,Si,Si,No,Si,3 o 4,0,6,muy feliz 
+F,Menos de 500 mil,Si,06,Estrato 1,Si,No,Si,No,No,3 o 4,Entre 21 y 30 horas,5,poco feliz 
+F,Entre 4 millones y menos de 5.5 millones,No,10,Estrato 1,No,No,Si,No,No,5 o 6,Menos de 10 horas,5,poco feliz 
+M,Entre 4 millones y menos de 5.5 millones,No,09,Estrato 3,Si,Si,Si,No,No,5 o 6,Más de 30 horas,5,poco feliz 
+M,Más de 7 millones,No,08,Estrato 6,Si,Si,Si,Si,No,0,Menos de 10 horas,5,feliz
+F,No pagó matrícula,No,09,Estrato 3,Si,Si,No,Si,No,2,Más de 30 horas,5,muy feliz 
+M,Menos de 500 mil,No,09,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,4,poco feliz 
+F,Entre 1 millón y menos de 2.5 millones,No,11,Estrato 3,Si,Si,No,No,No,3 o 4,0,4,feliz
+M,Más de 7 millones,Si,11,Estrato 2,Si,Si,Si,No,No,0,Menos de 10 horas,3,muy feliz 
+F,Entre 4 millones y menos de 5.5 millones,No,08,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Menos de 10 horas,3,muy feliz 
+F,Menos de 500 mil,No,08,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,2,feliz
+M,No pagó matrícula,No,09,Estrato 2,No,Si,No,No,No,2,Menos de 10 horas,1,poco feliz 
+F,Entre 2.5 millones y menos de 4 millones,Si,08,Estrato 2,Si,Si,No,No,No,2,Menos de 10 horas,1,feliz
+F,Entre 2.5 millones y menos de 4 millones,Si,08,Estrato 3,Si,Si,Si,No,No,2,0,1,feliz
+F,Más de 7 millones,Si,10,Estrato 4,Si,Si,Si,No,No,3 o 4,Más de 30 horas,1,feliz
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 2,No,No,No,No,No,5 o 6,0,1,feliz
+F,Más de 7 millones,Si,08,Estrato 2,Si,Si,No,No,Si,2,Entre 21 y 30 horas,1,feliz
+F,No pagó matrícula,No,09,Estrato 2,Si,Si,No,No,Si,2,Más de 30 horas,1,muy feliz 
+F,Entre 1 millón y menos de 2.5 millones,Si,09,Estrato 2,Si,Si,Si,Si,Si,2,Más de 30 horas,1,muy feliz 
+M,Menos de 500 mil,No,07,Estrato 3,Si,Si,Si,Si,Si,2,Más de 30 horas,1,muy feliz 
+M,Menos de 500 mil,No,11,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Menos de 10 horas,1,muy feliz 
+F,No pagó matrícula,No,09,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Menos de 10 horas,1,completamente feliz
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
