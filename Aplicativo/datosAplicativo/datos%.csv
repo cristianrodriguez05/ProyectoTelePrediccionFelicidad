@@ -1,0 +1,1730 @@
+﻿ESTU_GENERO,ESTU_VALORMATRICULAUNIVERSIDAD,ESTU_PAGOMATRICULACREDITO,FAMI_ESTRATOVIVIENDA,FAMI_TIENEINTERNET,FAMI_TIENECOMPUTADOR,FAMI_TIENESERVICIOTV,FAMI_TIENEAUTOMOVIL,FAMI_TIENEMOTOCICLETA,FAMI_NUMPERSONASACARGO,ESTU_HORASSEMANATRABAJA,PUNT_GLOBAL,FELICIDAD
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 5,Si,Si,Si,Si,Si,0,0,175,100%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 6,Si,Si,Si,Si,No,0,0,193,90%
+F,No pagó matrícula,No,Estrato 5,Si,Si,Si,Si,No,1,0,178,90%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 6,Si,Si,Si,Si,No,0,0,151,90%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 5,Si,Si,Si,Si,No,0,0,204,90%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 5,Si,Si,Si,Si,No,0,0,160,90%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 6,Si,Si,Si,Si,No,1,0,227,80%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 5,Si,Si,Si,Si,No,1,0,197,80%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 6,Si,Si,Si,Si,No,0,0,179,80%
+M,Menos de 500 mil,No,Estrato 4,Si,Si,Si,Si,No,1,0,173,80%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 5,Si,Si,Si,Si,No,0,0,172,80%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,Si,Si,Si,Si,0,Menos de 10 horas,131,80%
+F,Menos de 500 mil,No,Estrato 4,Si,Si,Si,Si,No,1,Menos de 10 horas,212,80%
+M,Menos de 500 mil,No,Estrato 4,Si,Si,Si,Si,No,1,0,146,80%
+F,Menos de 500 mil,No,Estrato 4,Si,Si,Si,Si,No,1,0,112,80%
+M,Menos de 500 mil,No,Estrato 3,Si,Si,Si,Si,No,2,0,211,80%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 5,Si,Si,Si,Si,No,0,0,201,80%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 5,Si,Si,Si,Si,No,0,Entre 11 y 20 horas,185,80%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 6,Si,Si,Si,Si,No,0,0,173,80%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,Si,Si,Si,No,1,0,168,80%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,Si,Si,2,0,165,80%
+F,No pagó matrícula,No,Estrato 3,Si,Si,Si,Si,No,2,0,163,80%
+M,Menos de 500 mil,No,Estrato 4,Si,Si,Si,Si,No,1,Menos de 10 horas,156,80%
+F,No pagó matrícula,No,Estrato 3,Si,Si,Si,Si,Si,2,Entre 11 y 20 horas,152,80%
+F,Menos de 500 mil,No,Estrato 3,Si,Si,Si,Si,Si,3 o 4,0,143,80%
+F,Menos de 500 mil,No,Estrato 3,Si,Si,Si,Si,Si,0,Entre 21 y 30 horas,127,80%
+F,Más de 7 millones,No,Estrato 5,Si,Si,Si,Si,Si,0,Menos de 10 horas,108,80%
+M,Entre 4 millones y menos de 5.5 millones,Si,Estrato 6,Si,Si,Si,Si,No,0,0,213,80%
+F,No pagó matrícula,No,Estrato 3,Si,Si,Si,Si,No,0,Entre 21 y 30 horas,203,80%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 5,Si,Si,Si,Si,No,0,Entre 11 y 20 horas,199,80%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 4,Si,Si,Si,Si,No,1,0,193,80%
+F,Menos de 500 mil,No,Estrato 3,Si,Si,Si,Si,Si,2,Entre 11 y 20 horas,155,80%
+M,No pagó matrícula,No,Estrato 2,Si,Si,Si,Si,Si,0,Más de 30 horas,150,80%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 1,Si,Si,Si,Si,Si,2,0,148,80%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 6,Si,Si,Si,No,No,0,0,130,80%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,Si,Si,Si,Si,2,Menos de 10 horas,130,80%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 5,Si,Si,Si,Si,No,1,0,97,80%
+F,Menos de 500 mil,No,Estrato 5,Si,Si,Si,Si,Si,0,Más de 30 horas,76,80%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 5,Si,Si,Si,Si,No,0,Entre 21 y 30 horas,215,80%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 4,Si,Si,Si,Si,No,0,Menos de 10 horas,190,80%
+F,Más de 7 millones,No,Estrato 4,Si,Si,Si,Si,No,0,0,180,80%
+F,No pagó matrícula,No,Estrato 3,Si,Si,Si,Si,No,2,Menos de 10 horas,180,80%
+M,Más de 7 millones,No,Estrato 6,Si,Si,Si,Si,No,1,0,178,80%
+F,No pagó matrícula,No,Estrato 3,Si,Si,Si,Si,Si,1,Más de 30 horas,172,80%
+F,Más de 7 millones,No,Estrato 4,Si,Si,Si,Si,No,0,0,170,80%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 4,Si,Si,Si,Si,No,2,0,162,80%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 6,Si,Si,Si,Si,No,1,Entre 11 y 20 horas,154,80%
+F,Menos de 500 mil,No,Estrato 3,Si,Si,Si,Si,Si,0,Más de 30 horas,146,80%
+M,No pagó matrícula,No,Estrato 4,Si,Si,Si,Si,No,0,Entre 21 y 30 horas,142,80%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,Si,No,1,0,142,80%
+M,Menos de 500 mil,Si,Estrato 3,Si,Si,Si,Si,Si,1,Menos de 10 horas,138,80%
+F,No pagó matrícula,No,Estrato 4,Si,Si,Si,Si,No,1,Entre 11 y 20 horas,135,80%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 4,Si,Si,Si,Si,No,0,Entre 11 y 20 horas,126,80%
+F,Menos de 500 mil,No,Estrato 1,Si,Si,Si,Si,Si,1,Entre 11 y 20 horas,105,80%
+F,Menos de 500 mil,No,Estrato 3,Si,Si,Si,No,No,1,0,196,80%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 6,Si,Si,Si,Si,No,0,Más de 30 horas,168,80%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,Si,No,1,Menos de 10 horas,162,80%
+M,Menos de 500 mil,No,Estrato 3,Si,Si,Si,Si,Si,1,Más de 30 horas,150,80%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Menos de 10 horas,150,80%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,Si,Si,Si,No,2,0,149,80%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,Si,No,1,0,147,80%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 6,Si,Si,Si,Si,No,1,0,146,80%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,Si,No,1,0,137,80%
+F,No pagó matrícula,No,Estrato 3,Si,Si,Si,Si,Si,1,Más de 30 horas,135,80%
+F,No pagó matrícula,No,Estrato 3,Si,Si,Si,No,No,1,0,133,80%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 5,Si,Si,Si,Si,Si,0,Más de 30 horas,126,80%
+M,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,Si,Si,Si,Si,Si,0,Entre 11 y 20 horas,125,80%
+F,Menos de 500 mil,No,Estrato 4,Si,Si,Si,Si,Si,3 o 4,Entre 11 y 20 horas,122,80%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,Si,Si,No,Si,2,0,120,80%
+M,No pagó matrícula,No,Estrato 1,Si,Si,Si,No,Si,2,0,118,80%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,Si,Si,3 o 4,0,94,80%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,Si,1,0,75,80%
+F,No pagó matrícula,No,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Menos de 10 horas,1,80%
+M,Menos de 500 mil,No,Estrato 3,Si,Si,Si,Si,No,0,Más de 30 horas,200,70%
+M,Más de 7 millones,No,Estrato 4,Si,Si,Si,Si,No,0,Menos de 10 horas,191,70%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 4,Si,Si,No,Si,No,1,0,184,70%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 4,Si,Si,Si,Si,No,2,Menos de 10 horas,183,70%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 6,Si,Si,Si,Si,No,0,Entre 11 y 20 horas,182,70%
+F,Entre 500 mil y menos de 1 millón,Si,Estrato 3,Si,Si,Si,Si,Si,2,Menos de 10 horas,181,70%
+M,No pagó matrícula,No,Estrato 3,Si,Si,Si,No,No,1,Menos de 10 horas,173,70%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 6,Si,Si,Si,Si,Si,0,Más de 30 horas,173,70%
+F,Entre 5.5 millones y menos de 7 millones,No,Estrato 3,Si,Si,Si,Si,Si,3 o 4,0,168,70%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 5,Si,Si,Si,Si,No,0,Menos de 10 horas,167,70%
+M,Menos de 500 mil,No,Estrato 2,Si,Si,Si,No,Si,0,Entre 21 y 30 horas,162,70%
+F,Entre 5.5 millones y menos de 7 millones,No,Estrato 5,Si,Si,Si,Si,No,0,Entre 11 y 20 horas,156,70%
+F,No pagó matrícula,No,Estrato 3,Si,Si,Si,Si,Si,2,Más de 30 horas,156,70%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,Si,Si,Si,No,0,Entre 21 y 30 horas,155,70%
+M,Entre 500 mil y menos de 1 millón,Si,Estrato 3,Si,Si,Si,Si,No,1,0,155,70%
+F,Entre 500 mil y menos de 1 millón,Si,Estrato 3,Si,Si,Si,Si,No,1,0,153,70%
+M,Menos de 500 mil,No,Estrato 2,Si,Si,Si,Si,Si,1,Más de 30 horas,153,70%
+F,Menos de 500 mil,No,Estrato 2,Si,Si,Si,Si,No,2,Menos de 10 horas,151,70%
+F,Menos de 500 mil,No,Estrato 5,Si,Si,Si,Si,No,0,Más de 30 horas,148,70%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 5,Si,Si,Si,Si,No,0,Entre 21 y 30 horas,144,70%
+F,No pagó matrícula,No,Estrato 2,Si,Si,Si,No,Si,3 o 4,0,142,70%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,Si,Si,0,Más de 30 horas,142,70%
+M,Entre 2.5 millones y menos de 4 millones,Si,Estrato 4,Si,Si,Si,Si,No,0,0,139,70%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,Si,Si,1,Entre 21 y 30 horas,135,70%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 4,Si,Si,Si,Si,Si,1,Más de 30 horas,132,70%
+M,Entre 500 mil y menos de 1 millón,Si,Estrato 2,Si,Si,Si,Si,Si,2,0,128,70%
+F,Menos de 500 mil,No,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Entre 11 y 20 horas,123,70%
+F,Más de 7 millones,No,Estrato 3,Si,Si,Si,Si,No,0,0,120,70%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,Si,No,Si,1,0,119,70%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,Si,No,1,0,80,70%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 4,Si,Si,Si,Si,No,2,0,66,70%
+F,Menos de 500 mil,No,Estrato 4,Si,Si,Si,Si,No,2,Menos de 10 horas,63,70%
+F,Menos de 500 mil,No,Estrato 3,Si,Si,Si,No,Si,2,0,33,70%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,Si,Si,1,Entre 11 y 20 horas,9,70%
+M,Menos de 500 mil,No,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Menos de 10 horas,1,70%
+F,Menos de 500 mil,No,Estrato 4,Si,Si,No,Si,No,0,Entre 21 y 30 horas,236,70%
+M,Más de 7 millones,Si,Estrato 4,Si,Si,Si,Si,No,0,0,230,70%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 4,Si,Si,Si,Si,No,2,Entre 11 y 20 horas,201,70%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 4,Si,Si,Si,Si,No,0,Más de 30 horas,185,70%
+F,No pagó matrícula,No,Estrato 2,Si,Si,Si,No,Si,3 o 4,Menos de 10 horas,180,70%
+F,No pagó matrícula,No,Estrato 4,Si,Si,Si,Si,No,1,Más de 30 horas,174,70%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 5,Si,Si,Si,Si,Si,2,Más de 30 horas,172,70%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 6,Si,Si,Si,Si,No,0,Más de 30 horas,165,70%
+F,No pagó matrícula,No,Estrato 4,Si,Si,Si,Si,No,1,Más de 30 horas,162,70%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,Si,3 o 4,0,154,70%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,Si,Si,2,Entre 21 y 30 horas,154,70%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 5,Si,Si,Si,Si,Si,2,Entre 11 y 20 horas,154,70%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,Si,Si,Si,Si,Si,3 o 4,0,147,70%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 6,Si,Si,Si,Si,No,0,Más de 30 horas,145,70%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,Si,2,0,145,70%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 4,Si,Si,Si,Si,No,1,Entre 11 y 20 horas,144,70%
+F,Más de 7 millones,No,Estrato 4,Si,Si,Si,Si,No,0,Menos de 10 horas,143,70%
+F,No pagó matrícula,No,Estrato 3,Si,Si,Si,No,No,1,Menos de 10 horas,140,70%
+F,No pagó matrícula,No,Estrato 3,Si,Si,Si,Si,No,2,Entre 11 y 20 horas,137,70%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Menos de 10 horas,135,70%
+F,Menos de 500 mil,No,Estrato 2,Si,Si,Si,Si,No,2,Menos de 10 horas,133,70%
+F,Menos de 500 mil,No,Estrato 4,Si,Si,Si,Si,No,2,Entre 11 y 20 horas,131,70%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,Si,Si,Si,Si,2,Entre 21 y 30 horas,126,70%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,Si,No,1,Menos de 10 horas,125,70%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 4,Si,Si,Si,Si,No,1,Entre 11 y 20 horas,118,70%
+M,No pagó matrícula,Si,Estrato 3,No,Si,Si,Si,Si,1,Menos de 10 horas,116,70%
+F,Menos de 500 mil,No,Estrato 3,Si,Si,Si,Si,No,2,Menos de 10 horas,61,70%
+F,No pagó matrícula,No,Estrato 3,Si,Si,Si,Si,No,2,Menos de 10 horas,41,70%
+F,No pagó matrícula,No,Estrato 1,No,Si,Si,Si,Si,2,0,21,70%
+M,Más de 7 millones,No,Estrato 6,Si,Si,Si,Si,No,0,Menos de 10 horas,5,70%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,Si,Si,Si,2,Entre 21 y 30 horas,212,70%
+F,Más de 7 millones,No,Estrato 4,Si,Si,No,Si,Si,0,Entre 11 y 20 horas,183,70%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 4,Si,Si,No,Si,Si,2,Menos de 10 horas,181,70%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,Si,No,2,Menos de 10 horas,180,70%
+F,No pagó matrícula,No,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,172,70%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,Si,Si,No,No,1,Menos de 10 horas,169,70%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,Si,No,3 o 4,0,168,70%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,Si,Si,Si,No,0,Más de 30 horas,167,70%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Menos de 10 horas,166,70%
+F,Más de 7 millones,No,Estrato 2,Si,Si,Si,Si,No,1,0,164,70%
+F,No pagó matrícula,No,Estrato 3,Si,Si,Si,No,No,3 o 4,0,163,70%
+F,No pagó matrícula,No,Estrato 3,Si,Si,Si,Si,No,1,Más de 30 horas,158,70%
+M,Menos de 500 mil,No,Estrato 2,Si,Si,Si,Si,Si,2,Más de 30 horas,155,70%
+M,Menos de 500 mil,No,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Entre 21 y 30 horas,153,70%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,Si,Si,2,Entre 21 y 30 horas,152,70%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Entre 11 y 20 horas,152,70%
+F,No pagó matrícula,No,Estrato 3,Si,Si,Si,No,No,1,Entre 11 y 20 horas,151,70%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,Si,2,Menos de 10 horas,150,70%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 4,Si,Si,Si,Si,No,0,Más de 30 horas,149,70%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 4,Si,Si,Si,Si,No,2,Menos de 10 horas,148,70%
+F,Entre 5.5 millones y menos de 7 millones,No,Estrato 2,Si,Si,Si,Si,Si,3 o 4,0,147,70%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,Si,No,0,Entre 21 y 30 horas,146,70%
+M,Menos de 500 mil,No,Estrato 3,Si,Si,Si,Si,Si,2,Más de 30 horas,146,70%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 4,Si,Si,Si,Si,No,2,Entre 11 y 20 horas,139,70%
+F,Más de 7 millones,No,Estrato 3,Si,Si,Si,Si,Si,3 o 4,0,131,70%
+F,Menos de 500 mil,No,Estrato 1,Si,Si,Si,No,Si,2,Menos de 10 horas,130,70%
+F,Más de 7 millones,No,Estrato 3,Si,Si,Si,No,Si,0,Menos de 10 horas,128,70%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 4,Si,Si,Si,Si,Si,3 o 4,Entre 11 y 20 horas,125,70%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,Si,0,Entre 21 y 30 horas,124,70%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,Si,Si,No,Si,2,Menos de 10 horas,113,70%
+F,No pagó matrícula,No,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Entre 21 y 30 horas,98,70%
+F,No pagó matrícula,No,Estrato 5,Si,Si,Si,Si,No,1,Más de 30 horas,96,70%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Menos de 10 horas,94,70%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,Si,No,1,Menos de 10 horas,93,70%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 4,Si,Si,No,Si,Si,1,Más de 30 horas,201,70%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,Si,No,2,0,197,70%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,Si,No,2,0,194,70%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 5,Si,Si,Si,Si,No,1,Más de 30 horas,187,70%
+F,Menos de 500 mil,No,Estrato 3,Si,Si,Si,Si,Si,5 o 6,Entre 21 y 30 horas,185,70%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,Si,Si,No,No,2,0,184,70%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 5,Si,Si,Si,Si,No,0,Entre 21 y 30 horas,179,70%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,No,0,Entre 11 y 20 horas,177,70%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,Si,No,2,Entre 11 y 20 horas,171,70%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,Si,Si,No,3 o 4,0,169,70%
+F,No pagó matrícula,No,Estrato 2,Si,Si,Si,No,No,3 o 4,0,166,70%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,No,Si,1,Menos de 10 horas,165,70%
+F,No pagó matrícula,No,Estrato 4,Si,Si,Si,Si,No,3 o 4,Entre 21 y 30 horas,161,70%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,Si,No,1,Entre 21 y 30 horas,160,70%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,No,Si,No,1,0,159,70%
+F,Menos de 500 mil,No,Estrato 1,Si,Si,Si,No,Si,3 o 4,Menos de 10 horas,158,70%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,Si,1,Entre 21 y 30 horas,152,70%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 6,Si,Si,Si,Si,No,1,Entre 11 y 20 horas,151,70%
+F,Menos de 500 mil,No,Estrato 3,Si,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,151,70%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 4,Si,Si,Si,Si,No,1,Entre 21 y 30 horas,150,70%
+F,Menos de 500 mil,No,Estrato 1,Si,Si,No,Si,Si,2,Entre 11 y 20 horas,150,70%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,Si,Si,Si,Si,2,Más de 30 horas,146,70%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 4,Si,Si,Si,No,No,2,0,145,70%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,Si,No,1,Entre 11 y 20 horas,140,70%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,Si,3 o 4,0,140,70%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 4,Si,Si,Si,Si,Si,3 o 4,Entre 21 y 30 horas,140,70%
+M,No pagó matrícula,No,Estrato 3,Si,Si,Si,No,No,2,Menos de 10 horas,131,70%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,Si,Si,No,No,2,0,129,70%
+F,No pagó matrícula,No,Estrato 3,Si,Si,Si,Si,No,2,Entre 21 y 30 horas,123,70%
+M,Menos de 500 mil,No,Estrato 2,Si,Si,Si,No,Si,0,Más de 30 horas,121,70%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,Si,Si,Si,No,Si,2,0,121,70%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,Si,No,3 o 4,0,119,70%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,Si,No,1,Entre 11 y 20 horas,118,70%
+F,Menos de 500 mil,No,Estrato 2,Si,Si,Si,No,No,2,0,114,70%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 4,Si,Si,Si,No,No,0,Entre 11 y 20 horas,110,70%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 4,Si,Si,Si,Si,No,1,Menos de 10 horas,104,70%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,Si,Si,Si,No,3 o 4,0,97,70%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,Si,Si,3 o 4,0,86,70%
+F,No pagó matrícula,No,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Entre 21 y 30 horas,85,70%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,Si,Si,2,Entre 21 y 30 horas,78,70%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 3,Si,Si,Si,Si,No,2,0,74,70%
+F,Menos de 500 mil,No,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Entre 21 y 30 horas,65,70%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 5,Si,Si,Si,No,No,1,Menos de 10 horas,50,70%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 4,Si,Si,Si,Si,No,2,0,44,70%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,Si,Si,1,Entre 21 y 30 horas,18,70%
+F,Menos de 500 mil,No,Estrato 2,Si,Si,Si,No,Si,3 o 4,0,6,70%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,No,2,0,186,60%
+F,Más de 7 millones,No,Estrato 2,Si,Si,Si,No,No,0,0,184,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 4,Si,Si,Si,Si,No,1,Más de 30 horas,170,60%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 4,Si,Si,Si,Si,No,3 o 4,0,170,60%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 4,Si,Si,Si,Si,Si,1,Más de 30 horas,170,60%
+F,No pagó matrícula,No,Estrato 3,Si,Si,Si,No,No,2,Entre 11 y 20 horas,164,60%
+F,Menos de 500 mil,No,Estrato 2,Si,Si,Si,Si,Si,5 o 6,Entre 21 y 30 horas,164,60%
+M,Menos de 500 mil,No,Estrato 4,Si,Si,Si,No,No,1,Entre 21 y 30 horas,163,60%
+M,Entre 2.5 millones y menos de 4 millones,Si,Estrato 3,Si,Si,Si,Si,Si,0,Más de 30 horas,160,60%
+M,Entre 5.5 millones y menos de 7 millones,No,Estrato 3,Si,Si,Si,Si,Si,2,Entre 21 y 30 horas,160,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,Si,3 o 4,Menos de 10 horas,157,60%
+M,Entre 5.5 millones y menos de 7 millones,No,Estrato 3,Si,Si,Si,Si,No,2,Menos de 10 horas,156,60%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 3,Si,Si,Si,Si,Si,1,Entre 21 y 30 horas,154,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,Si,3 o 4,Menos de 10 horas,153,60%
+M,Menos de 500 mil,No,Estrato 2,Si,Si,Si,No,No,1,Entre 11 y 20 horas,151,60%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,No,Si,2,Entre 11 y 20 horas,151,60%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,No,1,Menos de 10 horas,147,60%
+F,No pagó matrícula,No,Estrato 2,Si,Si,Si,No,Si,1,Más de 30 horas,147,60%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 4,Si,Si,Si,Si,Si,2,Más de 30 horas,142,60%
+M,No pagó matrícula,No,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,142,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,Si,Si,Si,1,Más de 30 horas,140,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,Si,Si,2,Más de 30 horas,138,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,Si,Si,5 o 6,Entre 11 y 20 horas,136,60%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,Si,Si,Si,No,2,Entre 11 y 20 horas,135,60%
+F,Menos de 500 mil,No,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,134,60%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,No,0,Entre 11 y 20 horas,133,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 5,Si,Si,Si,Si,No,1,Más de 30 horas,133,60%
+F,Menos de 500 mil,No,Estrato 3,Si,Si,Si,No,Si,1,Más de 30 horas,132,60%
+M,No pagó matrícula,No,Estrato 2,Si,Si,Si,No,Si,5 o 6,Menos de 10 horas,132,60%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,No,Si,Si,1,Menos de 10 horas,130,60%
+M,Menos de 500 mil,Si,Estrato 1,Si,Si,Si,Si,Si,0,Más de 30 horas,129,60%
+F,Más de 7 millones,No,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Menos de 10 horas,129,60%
+F,No pagó matrícula,No,Estrato 4,Si,Si,Si,Si,No,2,Más de 30 horas,127,60%
+F,Menos de 500 mil,No,Estrato 5,Si,Si,Si,Si,No,3 o 4,Entre 21 y 30 horas,125,60%
+M,No pagó matrícula,Si,Estrato 2,Si,Si,Si,No,Si,0,Entre 21 y 30 horas,125,60%
+M,No pagó matrícula,No,Estrato 2,Si,Si,Si,No,No,3 o 4,0,123,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,Si,Si,2,Más de 30 horas,121,60%
+F,Menos de 500 mil,No,Estrato 3,No,No,Si,Si,Si,0,Entre 21 y 30 horas,117,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,Si,No,Si,1,Entre 11 y 20 horas,115,60%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 6,Si,Si,Si,No,No,0,Más de 30 horas,112,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,Si,No,Si,2,Menos de 10 horas,109,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,Si,Si,No,2,Menos de 10 horas,107,60%
+F,No pagó matrícula,No,Estrato 2,Si,Si,Si,No,Si,1,Más de 30 horas,104,60%
+M,Menos de 500 mil,No,Estrato 2,Si,Si,No,No,Si,0,Entre 11 y 20 horas,99,60%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,Si,No,1,Entre 11 y 20 horas,94,60%
+M,No pagó matrícula,No,Estrato 1,Si,Si,Si,No,No,2,0,88,60%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 6,Si,Si,Si,Si,No,1,Entre 21 y 30 horas,47,60%
+M,No pagó matrícula,No,Estrato 2,Si,Si,Si,No,Si,2,Entre 11 y 20 horas,36,60%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,Si,Si,No,Si,3 o 4,0,35,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,Si,No,3 o 4,0,19,60%
+M,Menos de 500 mil,No,Estrato 3,Si,Si,Si,Si,Si,2,Más de 30 horas,1,60%
+M,Más de 7 millones,Si,Estrato 4,Si,Si,Si,Si,No,1,Menos de 10 horas,224,60%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 4,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,199,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,188,60%
+F,Entre 500 mil y menos de 1 millón,Si,Estrato 6,Si,Si,Si,Si,No,1,Más de 30 horas,187,60%
+M,Menos de 500 mil,No,Estrato 3,Si,Si,Si,No,Si,2,Más de 30 horas,185,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,Si,3 o 4,Entre 11 y 20 horas,183,60%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 4,Si,Si,No,Si,Si,1,Más de 30 horas,174,60%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,Si,Si,Si,No,1,Más de 30 horas,173,60%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 4,Si,Si,Si,Si,No,1,Más de 30 horas,172,60%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 6,Si,Si,Si,No,No,1,Entre 21 y 30 horas,165,60%
+F,Menos de 500 mil,No,Estrato 3,Si,Si,Si,No,No,1,Entre 21 y 30 horas,163,60%
+F,Más de 7 millones,No,Estrato 3,Si,Si,Si,No,No,1,0,162,60%
+F,Menos de 500 mil,No,Estrato 3,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,162,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,No,Si,Si,3 o 4,Menos de 10 horas,161,60%
+F,No pagó matrícula,No,Estrato 2,Si,Si,Si,Si,No,2,Más de 30 horas,160,60%
+M,Entre 5.5 millones y menos de 7 millones,No,Estrato 4,Si,Si,Si,Si,No,3 o 4,Menos de 10 horas,160,60%
+F,No pagó matrícula,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,159,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,No,Si,No,1,Menos de 10 horas,158,60%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 1,Si,Si,Si,Si,Si,3 o 4,Entre 11 y 20 horas,157,60%
+M,Más de 7 millones,No,Estrato 3,Si,Si,Si,No,No,0,Menos de 10 horas,156,60%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 3,Si,Si,No,No,No,0,0,152,60%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,Si,Si,No,No,3 o 4,0,150,60%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,Si,No,2,0,149,60%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,No,Si,0,Más de 30 horas,144,60%
+F,No pagó matrícula,No,Estrato 1,Si,Si,Si,No,No,2,Menos de 10 horas,141,60%
+F,No pagó matrícula,No,Estrato 3,Si,Si,Si,No,No,2,Entre 11 y 20 horas,140,60%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 1,Si,Si,Si,Si,Si,2,Entre 21 y 30 horas,139,60%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,No,No,2,0,138,60%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,Si,Si,Si,No,2,Entre 21 y 30 horas,136,60%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 1,Si,Si,Si,No,Si,3 o 4,0,136,60%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,Si,Si,Si,No,1,Más de 30 horas,133,60%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 4,Si,Si,Si,Si,Si,1,Más de 30 horas,131,60%
+F,Más de 7 millones,No,Estrato 4,Si,Si,Si,Si,Si,1,Más de 30 horas,131,60%
+F,Menos de 500 mil,No,Estrato 2,Si,Si,Si,Si,No,1,Más de 30 horas,129,60%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,Si,Si,No,Si,1,Más de 30 horas,129,60%
+F,Menos de 500 mil,No,Estrato 2,Si,Si,No,No,Si,2,Menos de 10 horas,123,60%
+F,Menos de 500 mil,No,Estrato 4,Si,Si,Si,Si,No,2,Más de 30 horas,122,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,Si,2,Entre 11 y 20 horas,118,60%
+M,Menos de 500 mil,No,Estrato 2,Si,Si,Si,No,Si,1,Más de 30 horas,113,60%
+F,Más de 7 millones,No,Estrato 2,Si,Si,Si,Si,Si,0,Más de 30 horas,109,60%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,Si,No,3 o 4,Menos de 10 horas,105,60%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,Si,Si,No,Si,0,Más de 30 horas,98,60%
+M,Menos de 500 mil,No,Estrato 3,Si,Si,Si,No,Si,1,Más de 30 horas,98,60%
+F,Menos de 500 mil,No,Estrato 3,Si,Si,Si,Si,No,1,Más de 30 horas,96,60%
+F,Más de 7 millones,No,Estrato 3,Si,Si,Si,No,No,0,0,84,60%
+F,Menos de 500 mil,No,Estrato 3,Si,Si,Si,No,Si,1,Más de 30 horas,81,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,Si,No,3 o 4,Menos de 10 horas,63,60%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 4,Si,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,55,60%
+M,Menos de 500 mil,No,Estrato 3,Si,Si,Si,Si,No,1,Más de 30 horas,54,60%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,Si,Si,0,Más de 30 horas,52,60%
+M,Menos de 500 mil,No,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,52,60%
+F,Menos de 500 mil,No,Estrato 1,Si,Si,Si,No,Si,0,Más de 30 horas,51,60%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 1,Si,Si,Si,No,Si,2,Menos de 10 horas,30,60%
+F,Más de 7 millones,No,Estrato 2,Si,Si,Si,Si,No,0,Menos de 10 horas,26,60%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Menos de 10 horas,3,60%
+F,Más de 7 millones,No,Estrato 3,Si,Si,No,No,No,0,0,216,60%
+F,Más de 7 millones,No,Estrato 2,Si,Si,Si,No,No,1,0,188,60%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 4,Si,Si,Si,Si,No,0,Más de 30 horas,187,60%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 4,Si,Si,Si,No,No,1,Entre 21 y 30 horas,173,60%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,173,60%
+F,Menos de 500 mil,No,Estrato 2,Si,Si,Si,No,Si,3 o 4,Entre 21 y 30 horas,173,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,No,2,Menos de 10 horas,171,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,0,170,60%
+F,No pagó matrícula,No,Estrato 3,Si,Si,Si,No,No,1,Más de 30 horas,163,60%
+F,Menos de 500 mil,No,Estrato 2,Si,Si,Si,No,No,0,Más de 30 horas,160,60%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Entre 11 y 20 horas,157,60%
+F,Menos de 500 mil,No,Estrato 3,Si,Si,Si,No,No,1,Entre 21 y 30 horas,148,60%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,Si,Si,Si,Si,2,Entre 11 y 20 horas,148,60%
+M,Menos de 500 mil,No,Estrato 3,Si,Si,Si,No,No,0,Más de 30 horas,146,60%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,Si,Si,No,No,2,Menos de 10 horas,146,60%
+M,Menos de 500 mil,No,Estrato 1,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,145,60%
+F,Menos de 500 mil,No,Estrato 3,Si,Si,Si,No,No,2,Entre 11 y 20 horas,144,60%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,Si,No,Si,5 o 6,0,144,60%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 4,Si,Si,Si,Si,No,3 o 4,0,143,60%
+F,No pagó matrícula,No,Estrato 2,Si,Si,No,No,Si,0,Más de 30 horas,142,60%
+F,Menos de 500 mil,No,Estrato 3,Si,Si,Si,Si,No,2,Más de 30 horas,140,60%
+M,Más de 7 millones,Si,Estrato 3,Si,Si,Si,Si,No,0,Menos de 10 horas,139,60%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,138,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,Si,No,2,Entre 21 y 30 horas,137,60%
+F,No pagó matrícula,No,Estrato 2,Si,Si,Si,No,Si,5 o 6,Entre 11 y 20 horas,133,60%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,132,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,Si,3 o 4,Entre 11 y 20 horas,132,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,131,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,No,1,Entre 11 y 20 horas,130,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,129,60%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,Si,No,1,Más de 30 horas,128,60%
+M,Menos de 500 mil,No,Estrato 3,Si,Si,Si,No,Si,2,Más de 30 horas,128,60%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 4,No,Si,Si,No,No,1,Menos de 10 horas,126,60%
+M,Menos de 500 mil,No,Estrato 1,Si,Si,No,No,Si,3 o 4,0,126,60%
+F,Entre 500 mil y menos de 1 millón,Si,Estrato 4,Si,Si,Si,Si,No,2,Entre 11 y 20 horas,124,60%
+M,Más de 7 millones,No,Estrato 3,Si,Si,Si,Si,Si,2,Entre 21 y 30 horas,121,60%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,Si,No,1,Entre 11 y 20 horas,120,60%
+F,No pagó matrícula,No,Estrato 2,Si,Si,Si,No,Si,2,Más de 30 horas,118,60%
+M,Entre 4 millones y menos de 5.5 millones,Si,Estrato 3,Si,Si,Si,Si,Si,1,Entre 21 y 30 horas,117,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,Si,No,Si,3 o 4,Menos de 10 horas,115,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,No,2,Menos de 10 horas,113,60%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,No,Si,No,Si,2,0,113,60%
+M,Más de 7 millones,No,Estrato 3,Si,Si,No,Si,No,0,Menos de 10 horas,111,60%
+F,No pagó matrícula,No,Estrato 2,Si,Si,Si,No,No,0,Más de 30 horas,110,60%
+F,Menos de 500 mil,No,Estrato 3,Si,Si,Si,Si,No,2,Más de 30 horas,109,60%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,Si,Si,No,Si,1,Más de 30 horas,104,60%
+F,No pagó matrícula,No,Estrato 2,Si,Si,Si,No,Si,2,Más de 30 horas,101,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,Si,3 o 4,Entre 11 y 20 horas,100,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 6,Si,Si,Si,No,Si,2,Más de 30 horas,95,60%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Entre 21 y 30 horas,94,60%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,Si,No,2,0,81,60%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,Si,3 o 4,Menos de 10 horas,77,60%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,No,No,1,Menos de 10 horas,74,60%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 1,Si,Si,Si,No,Si,2,Entre 11 y 20 horas,74,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,Si,5 o 6,0,74,60%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,Si,Si,Si,No,1,Más de 30 horas,69,60%
+F,Menos de 500 mil,No,Estrato 4,Si,Si,Si,Si,No,2,Más de 30 horas,69,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,Si,0,Más de 30 horas,64,60%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,Si,Si,Si,No,2,Entre 21 y 30 horas,61,60%
+F,Más de 7 millones,No,Estrato 1,Si,Si,Si,No,Si,1,0,49,60%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,Si,Si,No,No,2,0,45,60%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,Si,No,1,Entre 21 y 30 horas,41,60%
+M,Menos de 500 mil,No,Estrato 1,Si,Si,Si,No,No,2,0,21,60%
+M,Entre 5.5 millones y menos de 7 millones,Si,Estrato 4,Si,Si,Si,Si,No,3 o 4,0,199,60%
+F,Entre 500 mil y menos de 1 millón,Si,Estrato 6,Si,Si,Si,Si,No,2,Más de 30 horas,191,60%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,Si,Si,Si,Si,1,Más de 30 horas,179,60%
+F,No pagó matrícula,No,Estrato 2,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,175,60%
+M,Más de 7 millones,No,Estrato 3,Si,Si,Si,Si,No,3 o 4,Menos de 10 horas,173,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,Si,2,Más de 30 horas,172,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,Si,2,Más de 30 horas,168,60%
+F,No pagó matrícula,No,Estrato 2,Si,Si,Si,No,No,2,Entre 21 y 30 horas,167,60%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 3,Si,Si,Si,Si,No,2,Entre 21 y 30 horas,167,60%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,No,Si,Si,No,No,1,0,165,60%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 4,Si,Si,Si,Si,No,0,Más de 30 horas,165,60%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,Si,No,Si,2,Entre 21 y 30 horas,164,60%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,No,5 o 6,0,159,60%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,Si,No,2,Más de 30 horas,159,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,Si,2,Más de 30 horas,159,60%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,158,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,Si,No,Si,3 o 4,Entre 11 y 20 horas,157,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,Si,No,Si,3 o 4,Entre 11 y 20 horas,156,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,Si,2,Más de 30 horas,154,60%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,Si,Si,Si,Si,3 o 4,Entre 11 y 20 horas,154,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,No,1,Entre 21 y 30 horas,153,60%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,Si,Si,Si,No,2,Menos de 10 horas,152,60%
+F,No pagó matrícula,No,Estrato 2,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,152,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,150,60%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,Si,Si,No,No,0,Más de 30 horas,149,60%
+M,No pagó matrícula,No,Estrato 3,Si,Si,Si,No,No,1,Más de 30 horas,149,60%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 1,Si,Si,Si,Si,No,1,Más de 30 horas,149,60%
+M,Más de 7 millones,Si,Estrato 2,Si,Si,Si,No,Si,1,0,148,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,146,60%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 4,Si,Si,Si,No,Si,2,Entre 11 y 20 horas,146,60%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,Si,Si,No,Si,2,Más de 30 horas,145,60%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,No,No,3 o 4,0,144,60%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,No,No,3 o 4,0,144,60%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,Si,Si,1,Más de 30 horas,144,60%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 6,Si,Si,Si,Si,No,0,Más de 30 horas,143,60%
+F,No pagó matrícula,No,Estrato 1,Si,Si,Si,Si,No,2,Más de 30 horas,142,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,No,2,Menos de 10 horas,139,60%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,Si,Si,Si,No,3 o 4,Entre 21 y 30 horas,135,60%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,No,Si,3 o 4,0,132,60%
+M,No pagó matrícula,Si,Estrato 1,Si,Si,Si,No,Si,3 o 4,Menos de 10 horas,131,60%
+F,Menos de 500 mil,No,Estrato 2,Si,Si,Si,Si,No,2,Más de 30 horas,130,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,Si,1,Más de 30 horas,130,60%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,Si,No,1,Entre 11 y 20 horas,123,60%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,Si,No,2,Menos de 10 horas,120,60%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 4,Si,Si,Si,No,Si,1,Más de 30 horas,119,60%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,No,No,1,Entre 11 y 20 horas,111,60%
+M,Menos de 500 mil,No,Estrato 2,Si,Si,Si,No,Si,2,Más de 30 horas,111,60%
+M,Menos de 500 mil,No,Estrato 2,Si,Si,Si,Si,No,2,Más de 30 horas,110,60%
+M,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Entre 21 y 30 horas,109,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,106,60%
+M,Menos de 500 mil,No,Estrato 2,Si,Si,Si,No,No,0,Más de 30 horas,100,60%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,Si,Si,No,No,2,Entre 11 y 20 horas,100,60%
+F,Entre 500 mil y menos de 1 millón,Si,Estrato 2,Si,Si,Si,No,Si,2,Menos de 10 horas,99,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,Si,No,No,2,0,98,60%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,Si,No,No,2,0,96,60%
+M,Menos de 500 mil,No,Estrato 3,Si,Si,Si,Si,Si,5 o 6,Más de 30 horas,91,60%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 4,Si,Si,Si,Si,No,2,Más de 30 horas,84,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,Si,No,Si,2,Entre 11 y 20 horas,83,60%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,Si,No,Si,3 o 4,Menos de 10 horas,73,60%
+F,Menos de 500 mil,No,Estrato 1,Si,Si,Si,No,Si,3 o 4,Entre 11 y 20 horas,72,60%
+F,Menos de 500 mil,No,Estrato 3,Si,Si,Si,No,Si,3 o 4,Entre 21 y 30 horas,71,60%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,Si,No,No,2,0,63,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,Si,No,Si,3 o 4,Menos de 10 horas,60,60%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 3,Si,Si,Si,Si,Si,2,Más de 30 horas,54,60%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,Si,No,1,Entre 21 y 30 horas,45,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 4,Si,Si,Si,Si,No,2,Entre 21 y 30 horas,36,60%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,32,60%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,No,No,Si,1,Más de 30 horas,205,60%
+F,Menos de 500 mil,Si,Estrato 2,Si,Si,Si,No,No,2,Menos de 10 horas,195,60%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,No,Si,3 o 4,Menos de 10 horas,187,60%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,176,60%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,Si,No,3 o 4,Menos de 10 horas,176,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,No,Si,No,No,2,0,174,60%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,Si,No,2,Más de 30 horas,174,60%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 1,Si,Si,No,No,Si,3 o 4,Menos de 10 horas,172,60%
+M,Más de 7 millones,Si,Estrato 4,Si,Si,Si,Si,No,3 o 4,0,171,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,Si,No,2,Más de 30 horas,168,60%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 1,Si,Si,No,No,Si,0,Más de 30 horas,165,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 4,Si,Si,Si,No,No,2,Entre 21 y 30 horas,164,60%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 4,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,164,60%
+M,No pagó matrícula,No,Estrato 3,Si,Si,Si,No,Si,5 o 6,Más de 30 horas,164,60%
+F,No pagó matrícula,No,Estrato 3,Si,Si,No,No,No,5 o 6,0,160,60%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 1,Si,Si,Si,No,No,3 o 4,0,159,60%
+F,Entre 5.5 millones y menos de 7 millones,Si,Estrato 1,Si,Si,Si,Si,Si,0,Más de 30 horas,158,60%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,155,60%
+M,Entre 2.5 millones y menos de 4 millones,Si,Estrato 3,Si,Si,Si,Si,Si,2,Más de 30 horas,154,60%
+F,Menos de 500 mil,Si,Estrato 2,Si,Si,Si,No,Si,3 o 4,Entre 11 y 20 horas,153,60%
+F,No pagó matrícula,No,Estrato 3,Si,Si,Si,No,No,2,Más de 30 horas,152,60%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,Si,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,152,60%
+F,Menos de 500 mil,No,Estrato 2,Si,Si,Si,Si,No,5 o 6,Entre 21 y 30 horas,152,60%
+F,Menos de 500 mil,No,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,152,60%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,Si,No,2,Más de 30 horas,151,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,146,60%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,No,Si,No,Si,3 o 4,Menos de 10 horas,146,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,No,2,Entre 11 y 20 horas,145,60%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,0,145,60%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,Si,Si,No,2,Entre 21 y 30 horas,145,60%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,Si,3 o 4,Entre 21 y 30 horas,144,60%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,Si,No,No,No,1,Menos de 10 horas,140,60%
+M,No pagó matrícula,Si,Estrato 2,Si,Si,Si,No,No,3 o 4,0,140,60%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,Si,Si,Si,No,3 o 4,Entre 21 y 30 horas,139,60%
+F,No pagó matrícula,No,Estrato 2,Si,Si,No,No,Si,3 o 4,Entre 11 y 20 horas,137,60%
+M,No pagó matrícula,No,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,135,60%
+F,Entre 500 mil y menos de 1 millón,Si,Estrato 2,No,Si,No,Si,Si,1,Menos de 10 horas,135,60%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,0,134,60%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,134,60%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,Si,Si,5 o 6,Entre 11 y 20 horas,134,60%
+F,Menos de 500 mil,Si,Estrato 3,Si,Si,No,No,Si,2,Menos de 10 horas,132,60%
+F,Menos de 500 mil,No,Estrato 1,Si,Si,,Si,Si,3 o 4,Menos de 10 horas,132,60%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,131,60%
+M,Menos de 500 mil,No,Estrato 3,Si,Si,No,No,Si,3 o 4,Entre 11 y 20 horas,131,60%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,Si,Si,No,1,Más de 30 horas,129,60%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 1,Si,Si,Si,No,Si,3 o 4,Menos de 10 horas,129,60%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,128,60%
+F,Menos de 500 mil,No,Estrato 1,Si,Si,No,No,No,2,0,124,60%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,Si,No,No,2,Menos de 10 horas,124,60%
+F,Menos de 500 mil,Si,Estrato 3,Si,Si,Si,Si,No,1,Más de 30 horas,124,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,Si,2,Más de 30 horas,124,60%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,124,60%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,Si,Si,Si,Si,5 o 6,Más de 30 horas,124,60%
+M,No pagó matrícula,No,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,123,60%
+M,Menos de 500 mil,No,Estrato 1,Si,Si,Si,No,Si,3 o 4,Entre 21 y 30 horas,122,60%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,No,No,0,Entre 11 y 20 horas,121,60%
+F,Menos de 500 mil,No,Estrato 3,Si,Si,No,No,No,3 o 4,0,121,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,Si,No,2,Más de 30 horas,121,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,Si,No,Si,5 o 6,Menos de 10 horas,117,60%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,Si,Si,Si,No,2,Menos de 10 horas,115,60%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,113,60%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 1,Si,Si,Si,No,Si,3 o 4,Menos de 10 horas,110,60%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,Si,No,Si,3 o 4,Entre 11 y 20 horas,107,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,No,2,Entre 11 y 20 horas,104,60%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 5,Si,Si,Si,Si,No,2,Entre 21 y 30 horas,100,60%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 1,Si,Si,Si,No,Si,1,Entre 21 y 30 horas,99,60%
+M,Menos de 500 mil,No,Estrato 2,Si,No,Si,Si,No,3 o 4,Menos de 10 horas,92,60%
+F,No pagó matrícula,No,Estrato 3,Si,Si,Si,No,No,5 o 6,Menos de 10 horas,86,60%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,Si,Si,No,No,2,Entre 11 y 20 horas,84,60%
+M,Más de 7 millones,No,Estrato 2,Si,Si,Si,No,Si,3 o 4,0,75,60%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Entre 11 y 20 horas,73,60%
+F,No pagó matrícula,No,Estrato 2,Si,Si,Si,No,Si,3 o 4,Entre 21 y 30 horas,26,60%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,24,60%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,15,60%
+M,Menos de 500 mil,No,Estrato 3,Si,Si,Si,Si,No,2,Más de 30 horas,7,60%
+M,Más de 7 millones,No,Estrato 3,Si,Si,Si,No,No,3 o 4,0,190,60%
+F,Más de 7 millones,No,Estrato 3,Si,Si,Si,No,No,3 o 4,0,183,60%
+M,Más de 7 millones,No,Estrato 3,Si,Si,Si,No,Si,5 o 6,Menos de 10 horas,182,60%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,Si,No,2,Entre 21 y 30 horas,178,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,No,Si,Si,No,Si,2,Entre 21 y 30 horas,176,60%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,No,1,Más de 30 horas,175,60%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,No,No,3 o 4,0,175,60%
+F,Más de 7 millones,Si,Estrato 3,Si,Si,Si,Si,No,3 o 4,0,174,60%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 6,Si,Si,Si,No,No,0,Más de 30 horas,173,60%
+M,Menos de 500 mil,No,Estrato 3,Si,Si,Si,No,No,2,Más de 30 horas,172,60%
+F,Menos de 500 mil,No,Estrato 1,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,170,60%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,No,No,No,1,Menos de 10 horas,166,60%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,Si,No,Si,5 o 6,Entre 11 y 20 horas,166,60%
+M,Menos de 500 mil,No,Estrato 1,Si,Si,Si,No,No,1,Más de 30 horas,165,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,No,No,Si,1,Más de 30 horas,165,60%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 3,Si,Si,No,No,Si,1,Entre 21 y 30 horas,162,60%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 3,Si,Si,Si,Si,No,0,Más de 30 horas,159,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,No,1,Más de 30 horas,158,60%
+F,Menos de 500 mil,No,Estrato 3,Si,Si,Si,No,No,2,Más de 30 horas,158,60%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,Si,Si,No,5 o 6,Entre 11 y 20 horas,157,60%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 4,Si,Si,Si,No,No,2,Más de 30 horas,156,60%
+F,Menos de 500 mil,No,Estrato 3,Si,Si,Si,No,No,2,Más de 30 horas,154,60%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,No,No,Si,3 o 4,Menos de 10 horas,153,60%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,151,60%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,Si,Si,No,2,Más de 30 horas,151,60%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,Si,No,Si,5 o 6,Entre 11 y 20 horas,151,60%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 1,Si,Si,Si,No,No,2,Entre 11 y 20 horas,149,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,No,No,Si,1,Entre 21 y 30 horas,148,60%
+F,Entre 5.5 millones y menos de 7 millones,Si,Estrato 3,Si,Si,Si,No,Si,3 o 4,0,147,60%
+F,Más de 7 millones,No,Estrato 4,Si,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,145,60%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 1,Si,Si,Si,No,Si,3 o 4,Entre 11 y 20 horas,144,60%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,Si,Si,Si,No,Si,3 o 4,Entre 11 y 20 horas,143,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,142,60%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 5,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,141,60%
+F,Entre 500 mil y menos de 1 millón,Si,Estrato 3,Si,Si,Si,No,Si,1,Más de 30 horas,141,60%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,Si,2,Más de 30 horas,141,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,Si,No,2,Más de 30 horas,139,60%
+F,Entre 500 mil y menos de 1 millón,Si,Estrato 1,Si,Si,Si,No,Si,3 o 4,Menos de 10 horas,139,60%
+F,Más de 7 millones,Si,Estrato 2,Si,Si,Si,Si,No,1,Menos de 10 horas,137,60%
+M,Más de 7 millones,No,Estrato 2,Si,Si,Si,Si,No,3 o 4,Menos de 10 horas,137,60%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,Si,Si,Si,No,No,1,Entre 11 y 20 horas,136,60%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,Si,Si,Si,No,No,1,Entre 11 y 20 horas,136,60%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,Si,Si,No,No,1,Más de 30 horas,136,60%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 4,Si,Si,Si,Si,No,2,Entre 21 y 30 horas,135,60%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,135,60%
+M,Entre 5.5 millones y menos de 7 millones,No,Estrato 3,Si,Si,Si,No,No,3 o 4,0,134,60%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,No,Si,2,Entre 11 y 20 horas,132,60%
+F,No pagó matrícula,No,Estrato 3,Si,Si,Si,No,No,2,Más de 30 horas,131,60%
+F,Menos de 500 mil,No,Estrato 2,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,131,60%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,No,No,Si,3 o 4,Menos de 10 horas,131,60%
+M,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,131,60%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 4,Si,Si,Si,Si,No,1,Más de 30 horas,129,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,No,Si,Si,No,Si,3 o 4,Menos de 10 horas,129,60%
+F,Menos de 500 mil,No,Estrato 4,Si,No,Si,Si,No,2,Más de 30 horas,128,60%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,No,Si,No,No,3 o 4,0,126,60%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 1,Si,Si,Si,No,No,3 o 4,0,124,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,No,No,Si,2,Entre 11 y 20 horas,123,60%
+M,Menos de 500 mil,Si,Estrato 2,Si,Si,Si,No,No,2,Menos de 10 horas,121,60%
+F,Entre 5.5 millones y menos de 7 millones,Si,Estrato 3,Si,Si,Si,Si,No,3 o 4,0,121,60%
+M,Menos de 500 mil,No,Estrato 2,Si,No,Si,Si,No,3 o 4,Entre 11 y 20 horas,119,60%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 1,Si,Si,No,No,Si,2,Entre 11 y 20 horas,117,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,Si,2,Más de 30 horas,117,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 4,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,116,60%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,No,Si,2,Más de 30 horas,115,60%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,Si,Si,2,Más de 30 horas,115,60%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,Si,Si,5 o 6,Más de 30 horas,110,60%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,No,No,Si,3 o 4,Menos de 10 horas,107,60%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,104,60%
+F,No pagó matrícula,No,Estrato 1,Si,Si,No,No,No,0,Entre 21 y 30 horas,100,60%
+F,Menos de 500 mil,No,Estrato 1,No,Si,Si,No,Si,5 o 6,0,96,60%
+F,Menos de 500 mil,Si,Estrato 3,Si,Si,Si,Si,Si,5 o 6,Entre 21 y 30 horas,91,60%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,90,60%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,Si,No,3 o 4,Entre 21 y 30 horas,62,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 4,Si,Si,Si,Si,No,2,Más de 30 horas,46,60%
+M,No pagó matrícula,No,Estrato 3,Si,Si,Si,No,No,1,Más de 30 horas,40,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 4,Si,Si,No,No,No,0,Entre 11 y 20 horas,38,60%
+M,Menos de 500 mil,No,Estrato 2,Si,Si,Si,No,No,0,Más de 30 horas,37,60%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,No,Si,3 o 4,0,26,60%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 6,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,23,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,No,Si,No,Si,2,Menos de 10 horas,14,60%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,No,No,Si,5 o 6,Entre 11 y 20 horas,207,50%
+F,Menos de 500 mil,No,Estrato 2,Si,Si,Si,No,No,5 o 6,Entre 11 y 20 horas,198,50%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,Si,Si,No,No,Si,2,Entre 11 y 20 horas,196,50%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,189,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,182,50%
+F,Más de 7 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,0,179,50%
+M,Menos de 500 mil,No,Estrato 4,Si,Si,Si,No,No,3 o 4,Más de 30 horas,175,50%
+M,Más de 7 millones,Si,Estrato 2,Si,Si,Si,Si,No,3 o 4,0,173,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,172,50%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,172,50%
+M,Entre 4 millones y menos de 5.5 millones,No,Estrato 4,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,169,50%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,No,1,Más de 30 horas,166,50%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,166,50%
+F,Más de 7 millones,No,Estrato 2,Si,Si,Si,No,No,1,Entre 11 y 20 horas,165,50%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 1,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,164,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,No,Si,5 o 6,Menos de 10 horas,162,50%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,No,No,1,Más de 30 horas,160,50%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,No,No,No,3 o 4,0,159,50%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,Si,Si,No,No,2,Más de 30 horas,158,50%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,Si,Si,No,No,Si,0,Entre 11 y 20 horas,158,50%
+F,Más de 7 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,0,156,50%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 1,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,156,50%
+F,Menos de 500 mil,No,Estrato 2,Si,Si,Si,No,Si,5 o 6,Más de 30 horas,156,50%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,No,No,1,Más de 30 horas,155,50%
+F,Menos de 500 mil,No,Estrato 2,Si,Si,No,Si,No,3 o 4,Entre 21 y 30 horas,155,50%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,Si,Si,Si,No,Si,3 o 4,Entre 21 y 30 horas,155,50%
+F,Más de 7 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,0,154,50%
+F,No pagó matrícula,No,Estrato 3,No,Si,Si,Si,No,3 o 4,Más de 30 horas,154,50%
+F,Entre 5.5 millones y menos de 7 millones,Si,Estrato 3,Si,Si,Si,Si,No,5 o 6,0,154,50%
+F,No pagó matrícula,No,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,153,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,No,No,Si,1,Más de 30 horas,153,50%
+M,Entre 5.5 millones y menos de 7 millones,No,Estrato 3,Si,Si,Si,No,No,1,Entre 21 y 30 horas,151,50%
+F,Entre 500 mil y menos de 1 millón,Si,Estrato 3,Si,Si,Si,Si,No,2,Más de 30 horas,151,50%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,Si,Si,Si,No,Si,3 o 4,Entre 21 y 30 horas,151,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 4,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,150,50%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,Si,No,Si,Si,3 o 4,Más de 30 horas,148,50%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,145,50%
+M,No pagó matrícula,Si,Estrato 2,Si,Si,Si,Si,No,3 o 4,Entre 21 y 30 horas,144,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,Si,Si,No,Si,2,Entre 11 y 20 horas,143,50%
+M,Entre 5.5 millones y menos de 7 millones,Si,Estrato 2,Si,Si,Si,No,Si,3 o 4,0,143,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,Si,Si,No,No,1,Menos de 10 horas,142,50%
+F,Entre 5.5 millones y menos de 7 millones,Si,Estrato 2,Si,Si,Si,Si,No,2,Menos de 10 horas,142,50%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,141,50%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,Si,No,Si,2,Más de 30 horas,141,50%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 1,Si,Si,Si,No,No,3 o 4,0,139,50%
+M,No pagó matrícula,No,Estrato 2,Si,Si,No,No,No,3 o 4,Menos de 10 horas,139,50%
+F,Menos de 500 mil,No,Estrato 1,Si,No,No,No,Si,3 o 4,0,138,50%
+F,Entre 500 mil y menos de 1 millón,Si,Estrato 2,Si,Si,Si,No,Si,2,Entre 21 y 30 horas,137,50%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,No,Si,Si,No,Si,3 o 4,Menos de 10 horas,137,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,137,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 5,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,136,50%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,134,50%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,133,50%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 5,Si,Si,Si,Si,No,3 o 4,Entre 21 y 30 horas,133,50%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,Si,No,Si,5 o 6,Entre 11 y 20 horas,132,50%
+F,Menos de 500 mil,No,Estrato 1,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,131,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,131,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,131,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,No,Si,3 o 4,Entre 11 y 20 horas,131,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,Si,No,Si,3 o 4,Entre 21 y 30 horas,129,50%
+F,No pagó matrícula,No,Estrato 2,Si,Si,No,No,No,0,Más de 30 horas,127,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,127,50%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,124,50%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,No,Si,Si,2,Más de 30 horas,124,50%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,Si,Si,No,Si,2,Entre 11 y 20 horas,123,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,No,No,2,Menos de 10 horas,122,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,122,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,122,50%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,No,Si,2,Entre 21 y 30 horas,122,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,121,50%
+F,No pagó matrícula,Si,Estrato 2,Si,Si,Si,No,No,5 o 6,0,118,50%
+M,Entre 500 mil y menos de 1 millón,Si,Estrato 2,Si,Si,Si,No,Si,1,Más de 30 horas,117,50%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 4,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,115,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,114,50%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,No,Si,No,No,1,0,110,50%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 3,Si,Si,Si,No,No,0,Entre 11 y 20 horas,107,50%
+F,Menos de 500 mil,No,Estrato 1,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,107,50%
+F,Más de 7 millones,No,Estrato 1,Si,Si,No,Si,Si,3 o 4,Menos de 10 horas,107,50%
+M,Entre 4 millones y menos de 5.5 millones,Si,Estrato 3,Si,Si,Si,No,No,1,Menos de 10 horas,104,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,104,50%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,No,Si,No,Si,Si,3 o 4,Menos de 10 horas,104,50%
+F,Menos de 500 mil,No,Estrato 3,Si,Si,Si,No,Si,5 o 6,Más de 30 horas,103,50%
+M,Menos de 500 mil,No,Estrato 3,Si,No,Si,No,No,2,Entre 11 y 20 horas,101,50%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,Si,No,No,Si,1,Más de 30 horas,100,50%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 1,Si,No,Si,No,Si,1,Entre 11 y 20 horas,96,50%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,Si,No,3 o 4,Entre 21 y 30 horas,93,50%
+F,Menos de 500 mil,No,Estrato 2,Si,Si,No,Si,Si,3 o 4,Más de 30 horas,88,50%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,Si,2,Más de 30 horas,85,50%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 3,Si,Si,Si,No,No,1,Menos de 10 horas,77,50%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 3,Si,Si,Si,Si,No,2,Entre 11 y 20 horas,74,50%
+M,Menos de 500 mil,No,Estrato 2,Si,Si,No,No,Si,5 o 6,Menos de 10 horas,66,50%
+F,Más de 7 millones,No,Estrato 4,Si,Si,Si,Si,No,2,Entre 21 y 30 horas,62,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,Si,3 o 4,Entre 21 y 30 horas,61,50%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,Si,Si,Si,No,Si,3 o 4,Entre 11 y 20 horas,61,50%
+F,Más de 7 millones,No,Estrato 3,Si,Si,Si,Si,No,3 o 4,Menos de 10 horas,47,50%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,No,Si,Si,No,Si,2,Menos de 10 horas,46,50%
+F,Más de 7 millones,Si,Estrato 3,Si,Si,Si,Si,Si,5 o 6,0,44,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,No,0,Más de 30 horas,35,50%
+F,No pagó matrícula,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,35,50%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 1,Si,Si,Si,No,Si,3 o 4,Menos de 10 horas,33,50%
+F,Más de 7 millones,No,Estrato 3,Si,Si,Si,Si,No,3 o 4,Menos de 10 horas,29,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,Si,2,Más de 30 horas,29,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,Si,Si,No,Si,3 o 4,0,26,50%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 3,Si,Si,Si,Si,Si,2,Entre 21 y 30 horas,22,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,Si,2,Más de 30 horas,21,50%
+F,Entre 500 mil y menos de 1 millón,Si,Estrato 2,No,Si,Si,Si,No,1,Menos de 10 horas,20,50%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,15,50%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,13,50%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,205,50%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,Si,Si,No,No,3 o 4,0,193,50%
+F,No pagó matrícula,No,Estrato 2,No,No,Si,No,No,3 o 4,0,192,50%
+M,Menos de 500 mil,No,Estrato 1,Si,Si,Si,No,No,2,Más de 30 horas,183,50%
+F,Menos de 500 mil,No,Estrato 1,Si,Si,No,No,No,3 o 4,Menos de 10 horas,183,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,Si,No,5 o 6,Entre 11 y 20 horas,177,50%
+M,Más de 7 millones,Si,Estrato 5,Si,Si,Si,No,No,1,Entre 11 y 20 horas,176,50%
+M,Más de 7 millones,No,Estrato 3,Si,Si,No,No,No,2,0,170,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,No,No,No,2,0,168,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,No,No,No,3 o 4,0,168,50%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,Si,No,2,Más de 30 horas,167,50%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,167,50%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,Si,No,No,Si,3 o 4,Entre 21 y 30 horas,166,50%
+F,Menos de 500 mil,No,Estrato 1,Si,Si,No,No,No,3 o 4,Menos de 10 horas,165,50%
+F,No pagó matrícula,No,Estrato 2,Si,Si,No,No,No,1,Más de 30 horas,164,50%
+M,Entre 4 millones y menos de 5.5 millones,Si,Estrato 3,Si,Si,Si,No,Si,1,Más de 30 horas,163,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,No,Si,No,2,Más de 30 horas,162,50%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,Si,No,3 o 4,Entre 21 y 30 horas,160,50%
+F,Menos de 500 mil,No,Estrato 1,Si,Si,No,No,No,2,Entre 11 y 20 horas,159,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,No,Si,2,Más de 30 horas,158,50%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,No,No,Si,1,Más de 30 horas,156,50%
+F,No pagó matrícula,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,152,50%
+F,Más de 7 millones,Si,Estrato 3,Si,Si,Si,No,No,0,Entre 11 y 20 horas,151,50%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,151,50%
+M,Menos de 500 mil,No,Estrato 3,Si,Si,Si,No,No,5 o 6,Entre 21 y 30 horas,150,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,Si,No,2,Más de 30 horas,150,50%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 1,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,149,50%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 1,Si,Si,Si,No,No,2,0,148,50%
+F,Más de 7 millones,No,Estrato 2,Si,Si,Si,No,Si,3 o 4,Entre 11 y 20 horas,148,50%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,Si,No,1,Más de 30 horas,144,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,No,No,Si,1,Más de 30 horas,144,50%
+M,Menos de 500 mil,No,Estrato 2,Si,No,Si,No,No,0,Más de 30 horas,143,50%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,Si,Si,Si,No,Si,3 o 4,Entre 21 y 30 horas,143,50%
+M,Menos de 500 mil,No,Estrato 2,Si,Si,Si,No,Si,5 o 6,Más de 30 horas,143,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,No,No,No,3 o 4,0,142,50%
+F,No pagó matrícula,No,Estrato 1,Si,Si,No,No,Si,3 o 4,Entre 21 y 30 horas,142,50%
+M,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,Si,Si,Si,No,Si,2,Entre 11 y 20 horas,137,50%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 1,Si,Si,Si,No,Si,3 o 4,Menos de 10 horas,137,50%
+F,Menos de 500 mil,No,Estrato 2,Si,Si,No,No,Si,3 o 4,Entre 21 y 30 horas,137,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,No,2,Entre 21 y 30 horas,136,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,Si,No,1,Más de 30 horas,136,50%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,136,50%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 1,Si,Si,Si,No,Si,5 o 6,Entre 11 y 20 horas,136,50%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,No,No,2,Entre 21 y 30 horas,135,50%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,No,5 o 6,Menos de 10 horas,135,50%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,135,50%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 1,Si,Si,Si,No,Si,3 o 4,Entre 21 y 30 horas,135,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,135,50%
+F,No pagó matrícula,No,Estrato 3,Si,Si,No,No,Si,3 o 4,Más de 30 horas,135,50%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,133,50%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 4,Si,Si,Si,Si,No,2,Más de 30 horas,132,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,No,Si,No,3 o 4,0,132,50%
+F,Menos de 500 mil,No,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,131,50%
+M,Entre 2.5 millones y menos de 4 millones,Si,Estrato 1,Si,Si,Si,No,No,2,0,130,50%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 1,Si,Si,No,No,Si,3 o 4,Menos de 10 horas,129,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,127,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,No,No,3 o 4,0,127,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,No,No,Si,1,Más de 30 horas,127,50%
+F,Menos de 500 mil,No,Estrato 2,Si,Si,No,No,No,0,Más de 30 horas,123,50%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,Si,No,No,No,0,Más de 30 horas,122,50%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,No,Si,Si,Si,3 o 4,Entre 11 y 20 horas,120,50%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,No,Si,No,2,Entre 21 y 30 horas,118,50%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,Si,Si,Si,No,Si,3 o 4,Menos de 10 horas,118,50%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 1,Si,Si,Si,Si,Si,3 o 4,Entre 21 y 30 horas,118,50%
+M,Entre 500 mil y menos de 1 millón,Si,Estrato 3,Si,Si,Si,No,No,1,Entre 21 y 30 horas,115,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,No,No,3 o 4,0,114,50%
+F,Más de 7 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,0,114,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,114,50%
+F,No pagó matrícula,No,Estrato 1,Si,Si,No,No,No,3 o 4,Menos de 10 horas,113,50%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 1,Si,Si,Si,Si,Si,3 o 4,Entre 21 y 30 horas,113,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 4,Si,Si,Si,Si,No,2,Más de 30 horas,112,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,110,50%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,Si,Si,Si,Si,No,2,Más de 30 horas,108,50%
+M,Entre 5.5 millones y menos de 7 millones,No,Estrato 3,Si,Si,Si,Si,No,2,Más de 30 horas,107,50%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,Si,Si,Si,No,Si,2,Más de 30 horas,106,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,No,No,Si,No,Si,3 o 4,0,106,50%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 1,Si,Si,No,No,No,0,Entre 21 y 30 horas,104,50%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 1,Si,Si,No,No,No,2,Menos de 10 horas,103,50%
+M,Menos de 500 mil,No,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,101,50%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 4,Si,No,Si,Si,Si,5 o 6,Entre 11 y 20 horas,100,50%
+F,Menos de 500 mil,No,Estrato 1,Si,Si,No,No,No,2,Menos de 10 horas,99,50%
+M,Más de 7 millones,No,Estrato 3,Si,Si,Si,No,No,2,Menos de 10 horas,96,50%
+F,Entre 500 mil y menos de 1 millón,Si,Estrato 4,Si,Si,Si,Si,No,2,Más de 30 horas,92,50%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,92,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,No,1,Más de 30 horas,88,50%
+F,Menos de 500 mil,No,Estrato 3,Si,Si,Si,No,No,2,Más de 30 horas,88,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,81,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,No,Si,2,Entre 21 y 30 horas,73,50%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 1,Si,Si,No,No,Si,3 o 4,0,68,50%
+M,No pagó matrícula,No,Estrato 2,Si,Si,Si,No,Si,5 o 6,Más de 30 horas,64,50%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 4,Si,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,62,50%
+F,No pagó matrícula,No,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,35,50%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,No,No,2,Entre 11 y 20 horas,30,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,Si,No,1,Entre 21 y 30 horas,29,50%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,No,No,2,Entre 11 y 20 horas,26,50%
+M,Menos de 500 mil,No,Estrato 2,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,18,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,Si,No,3 o 4,Menos de 10 horas,18,50%
+F,No pagó matrícula,No,Estrato 1,Si,Si,No,No,No,3 o 4,0,17,50%
+F,No pagó matrícula,No,Estrato 3,Si,Si,No,Si,No,2,Más de 30 horas,5,50%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 3,Si,Si,Si,No,No,2,0,1,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,Si,Si,2,Más de 30 horas,1,50%
+M,Entre 4 millones y menos de 5.5 millones,No,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,200,50%
+F,Más de 7 millones,Si,Estrato 2,Si,Si,Si,No,No,2,0,186,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,185,50%
+M,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,Si,Si,Si,No,No,5 o 6,Menos de 10 horas,179,50%
+M,Menos de 500 mil,No,Estrato 2,Si,Si,No,No,No,1,Más de 30 horas,178,50%
+F,No pagó matrícula,Si,Estrato 1,Si,Si,No,No,Si,1,Más de 30 horas,175,50%
+M,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,Si,Si,Si,No,No,2,Entre 21 y 30 horas,173,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,No,5 o 6,Entre 11 y 20 horas,171,50%
+M,No pagó matrícula,No,Estrato 3,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,170,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,No,Si,No,No,5 o 6,0,170,50%
+M,Menos de 500 mil,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,168,50%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,No,No,No,5 o 6,0,168,50%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,No,Si,Si,No,No,3 o 4,0,167,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,No,No,2,Entre 11 y 20 horas,163,50%
+F,No pagó matrícula,Si,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,161,50%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,160,50%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 4,Si,No,Si,No,Si,1,Más de 30 horas,158,50%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,Si,No,2,Más de 30 horas,155,50%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,No,No,No,Si,1,Más de 30 horas,154,50%
+F,Menos de 500 mil,No,Estrato 2,Si,No,No,No,No,3 o 4,0,153,50%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,Si,Si,No,No,Si,3 o 4,0,153,50%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,151,50%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,150,50%
+F,No pagó matrícula,No,Estrato 1,Si,Si,No,Si,No,5 o 6,Entre 21 y 30 horas,150,50%
+F,No pagó matrícula,No,Estrato 2,No,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,149,50%
+M,Entre 4 millones y menos de 5.5 millones,Si,Estrato 1,Si,Si,Si,No,Si,1,Entre 21 y 30 horas,148,50%
+F,Menos de 500 mil,No,Estrato 1,Si,Si,No,No,No,0,Más de 30 horas,146,50%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 3,Si,Si,Si,Si,No,1,Más de 30 horas,145,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,No,Si,No,No,3 o 4,Menos de 10 horas,143,50%
+M,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,Si,Si,Si,No,2,Entre 21 y 30 horas,143,50%
+F,No pagó matrícula,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,142,50%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,Si,No,No,5 o 6,Menos de 10 horas,140,50%
+M,No pagó matrícula,Si,Estrato 2,No,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,139,50%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,138,50%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,137,50%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,136,50%
+F,Más de 7 millones,No,Estrato 1,Si,Si,Si,No,No,3 o 4,0,135,50%
+F,Más de 7 millones,No,Estrato 1,Si,Si,Si,No,No,3 o 4,0,135,50%
+M,Entre 500 mil y menos de 1 millón,Si,Estrato 2,No,Si,Si,Si,No,3 o 4,Menos de 10 horas,135,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,No,Si,3 o 4,Entre 21 y 30 horas,135,50%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,No,Si,No,No,3 o 4,0,132,50%
+F,Entre 500 mil y menos de 1 millón,Si,Estrato 2,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,132,50%
+F,Menos de 500 mil,No,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,131,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,No,Si,No,No,3 o 4,0,130,50%
+F,Más de 7 millones,No,Estrato 3,Si,Si,Si,Si,No,2,Más de 30 horas,130,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,No,No,Si,2,Entre 11 y 20 horas,130,50%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 4,Si,Si,Si,No,No,3 o 4,Más de 30 horas,128,50%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,128,50%
+F,Entre 500 mil y menos de 1 millón,Si,Estrato 2,Si,Si,No,No,Si,1,Entre 21 y 30 horas,126,50%
+M,Entre 4 millones y menos de 5.5 millones,Si,Estrato 3,Si,Si,Si,No,Si,1,Más de 30 horas,126,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,No,No,No,3 o 4,0,123,50%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,Si,Si,No,No,3 o 4,0,122,50%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,Si,Si,No,Si,3 o 4,Entre 11 y 20 horas,122,50%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 3,Si,Si,Si,Si,No,2,Entre 21 y 30 horas,120,50%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,120,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,Si,No,2,Más de 30 horas,118,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,No,Si,No,3 o 4,Menos de 10 horas,117,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,116,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,116,50%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,114,50%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 3,Si,Si,Si,Si,No,1,Más de 30 horas,109,50%
+M,Más de 7 millones,No,Estrato 3,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,104,50%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,103,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,No,No,2,Menos de 10 horas,93,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,Si,Si,3 o 4,Más de 30 horas,92,50%
+M,No pagó matrícula,Si,Estrato 1,Si,Si,Si,No,Si,3 o 4,Entre 21 y 30 horas,84,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,No,No,3 o 4,0,82,50%
+F,No pagó matrícula,No,Estrato 3,Si,Si,No,No,No,3 o 4,Entre 11 y 20 horas,79,50%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,73,50%
+M,Entre 5.5 millones y menos de 7 millones,No,Estrato 1,Si,Si,Si,No,No,1,Entre 11 y 20 horas,71,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,64,50%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,Si,No,Si,No,2,Más de 30 horas,64,50%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,Si,Si,Si,No,Si,2,Más de 30 horas,58,50%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 1,Si,Si,No,No,Si,2,Entre 21 y 30 horas,55,50%
+F,Menos de 500 mil,No,Estrato 3,Si,Si,No,No,No,2,Entre 11 y 20 horas,39,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,Si,No,Si,3 o 4,Entre 21 y 30 horas,35,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,Si,No,Si,No,2,0,30,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,No,2,Entre 21 y 30 horas,25,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,No,Si,Si,3 o 4,Más de 30 horas,19,50%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,No,No,No,3 o 4,0,15,50%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,13,50%
+F,No pagó matrícula,No,Estrato 2,Si,Si,Si,No,Si,5 o 6,Más de 30 horas,7,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,No,No,No,3 o 4,0,4,50%
+F,No pagó matrícula,No,Estrato 2,Si,Si,No,No,Si,2,Más de 30 horas,1,50%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 4,Si,Si,Si,No,No,3 o 4,Más de 30 horas,196,50%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,No,No,2,Entre 21 y 30 horas,188,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,No,Si,No,3 o 4,Más de 30 horas,188,50%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,183,50%
+F,Más de 7 millones,Si,Estrato 1,Si,Si,No,No,No,0,0,182,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,172,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,No,No,Si,3 o 4,Más de 30 horas,172,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,165,50%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 4,Si,Si,No,Si,No,1,Más de 30 horas,164,50%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,160,50%
+F,Más de 7 millones,Si,Estrato 3,Si,Si,Si,No,No,1,Entre 11 y 20 horas,159,50%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,159,50%
+M,Menos de 500 mil,No,Estrato 1,Si,Si,No,No,Si,3 o 4,Más de 30 horas,158,50%
+F,Menos de 500 mil,Si,Estrato 3,Si,Si,Si,No,Si,5 o 6,Más de 30 horas,158,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,No,No,Si,No,No,3 o 4,0,157,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,157,50%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,Si,No,No,Si,3 o 4,Más de 30 horas,155,50%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,Si,No,No,No,3 o 4,Entre 11 y 20 horas,154,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,153,50%
+F,Menos de 500 mil,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,143,50%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,Si,No,No,No,3 o 4,Entre 11 y 20 horas,143,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,No,No,2,Entre 11 y 20 horas,142,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,No,Si,No,No,3 o 4,Menos de 10 horas,141,50%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,141,50%
+M,No pagó matrícula,Si,Estrato 1,Si,Si,No,No,No,0,Entre 21 y 30 horas,140,50%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,No,No,2,Más de 30 horas,139,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,139,50%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 1,Si,Si,Si,No,No,5 o 6,Menos de 10 horas,139,50%
+M,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,Si,Si,Si,No,Si,1,Más de 30 horas,139,50%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,Si,No,No,No,1,Más de 30 horas,138,50%
+M,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,138,50%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 1,No,Si,Si,No,No,3 o 4,Menos de 10 horas,137,50%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,No,No,No,2,Entre 11 y 20 horas,135,50%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 1,Si,Si,No,No,No,5 o 6,0,134,50%
+F,Menos de 500 mil,No,Estrato 2,Si,Si,No,No,Si,5 o 6,Entre 21 y 30 horas,134,50%
+M,No pagó matrícula,No,Estrato 1,Si,Si,Si,No,No,3 o 4,Más de 30 horas,131,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,No,No,No,3 o 4,Menos de 10 horas,131,50%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 1,Si,Si,Si,No,No,2,Entre 21 y 30 horas,130,50%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,Si,Si,Si,Si,No,2,Entre 21 y 30 horas,130,50%
+M,Más de 7 millones,Si,Estrato 2,Si,Si,Si,No,Si,1,Entre 21 y 30 horas,130,50%
+F,No pagó matrícula,No,Estrato 1,Si,Si,No,No,Si,3 o 4,Más de 30 horas,130,50%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 4,Si,Si,Si,Si,No,3 o 4,Entre 21 y 30 horas,128,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,No,No,2,Entre 11 y 20 horas,126,50%
+F,Menos de 500 mil,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,126,50%
+F,Menos de 500 mil,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,126,50%
+F,Menos de 500 mil,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,125,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,No,No,No,3 o 4,Menos de 10 horas,125,50%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 4,Si,Si,Si,No,No,3 o 4,Más de 30 horas,125,50%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,Si,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,125,50%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 1,No,No,Si,No,Si,3 o 4,Menos de 10 horas,124,50%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,No,No,No,0,Más de 30 horas,120,50%
+F,No pagó matrícula,No,Estrato 1,No,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,118,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,No,Si,3 o 4,Entre 21 y 30 horas,117,50%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,116,50%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,No,Si,2,Más de 30 horas,111,50%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 1,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,109,50%
+M,Menos de 500 mil,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,106,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,No,No,Si,2,Más de 30 horas,106,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,No,Si,No,Si,2,Más de 30 horas,102,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,No,Si,No,No,Si,1,0,90,50%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,Si,Si,No,No,3 o 4,0,88,50%
+F,Menos de 500 mil,No,Estrato 1,Si,Si,Si,No,No,5 o 6,Entre 11 y 20 horas,84,50%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,81,50%
+F,No pagó matrícula,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,79,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,Si,Si,No,No,3 o 4,0,76,50%
+F,No pagó matrícula,No,Estrato 2,Si,Si,No,No,No,1,Más de 30 horas,75,50%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,Si,No,Si,No,5 o 6,Entre 11 y 20 horas,73,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,51,50%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,No,Si,3 o 4,Entre 11 y 20 horas,49,50%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,No,No,2,Entre 21 y 30 horas,44,50%
+F,Más de 7 millones,Si,Estrato 2,Si,Si,Si,Si,Si,5 o 6,Menos de 10 horas,42,50%
+M,No pagó matrícula,No,Estrato 3,Si,Si,No,No,No,1,Más de 30 horas,39,50%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,36,50%
+M,Menos de 500 mil,No,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,32,50%
+F,Entre 500 mil y menos de 1 millón,Si,Estrato 3,Si,Si,Si,No,No,0,Más de 30 horas,29,50%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,No,5 o 6,Menos de 10 horas,20,50%
+M,Menos de 500 mil,No,Estrato 2,Si,Si,Si,No,No,5 o 6,Entre 11 y 20 horas,20,50%
+F,Entre 5.5 millones y menos de 7 millones,No,Estrato 1,Si,Si,No,No,Si,3 o 4,0,15,50%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,10,50%
+M,Entre 500 mil y menos de 1 millón,Si,Estrato 1,Si,Si,Si,No,Si,3 o 4,Entre 11 y 20 horas,9,50%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 1,Si,No,Si,No,Si,3 o 4,Entre 11 y 20 horas,8,50%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 3,Si,Si,Si,No,No,3 o 4,0,6,50%
+M,Más de 7 millones,Si,Estrato 2,Si,Si,Si,No,No,0,Menos de 10 horas,3,50%
+F,Menos de 500 mil,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,2,50%
+M,Menos de 500 mil,No,Estrato 2,Si,Si,Si,No,No,5 o 6,Más de 30 horas,178,40%
+M,Más de 7 millones,Si,Estrato 2,Si,No,Si,Si,No,3 o 4,0,178,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,177,40%
+F,Entre 500 mil y menos de 1 millón,Si,Estrato 3,Si,Si,Si,No,No,2,Más de 30 horas,172,40%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,171,40%
+M,Entre 2.5 millones y menos de 4 millones,Si,Estrato 3,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,167,40%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 1,Si,Si,No,No,Si,5 o 6,Entre 21 y 30 horas,162,40%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,161,40%
+F,Entre 5.5 millones y menos de 7 millones,No,Estrato 3,Si,Si,No,No,No,3 o 4,Menos de 10 horas,160,40%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,160,40%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 4,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,159,40%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,159,40%
+M,No pagó matrícula,No,Estrato 1,No,No,Si,No,No,5 o 6,0,157,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,156,40%
+F,Más de 7 millones,No,Estrato 2,Si,No,Si,Si,No,3 o 4,Entre 11 y 20 horas,154,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,153,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,No,No,No,3 o 4,0,152,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,151,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,150,40%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,Si,Si,Si,No,2,Más de 30 horas,149,40%
+M,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,Si,Si,Si,No,2,Más de 30 horas,149,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,No,Si,Si,No,3 o 4,Más de 30 horas,149,40%
+F,Menos de 500 mil,No,Estrato 1,Si,No,Si,No,Si,3 o 4,Más de 30 horas,147,40%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,144,40%
+F,Entre 500 mil y menos de 1 millón,Si,Estrato 2,Si,Si,No,Si,Si,3 o 4,Más de 30 horas,142,40%
+F,Más de 7 millones,Si,Estrato 5,Si,Si,No,No,No,0,Entre 11 y 20 horas,141,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,141,40%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 3,Si,Si,Si,Si,No,3 o 4,Entre 21 y 30 horas,141,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,No,Si,No,Si,2,Más de 30 horas,141,40%
+F,Más de 7 millones,Si,Estrato 3,Si,Si,Si,No,Si,5 o 6,Menos de 10 horas,140,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,No,No,Si,No,Si,5 o 6,0,139,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,No,No,1,Más de 30 horas,138,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,Si,Si,No,Si,2,Más de 30 horas,138,40%
+F,Menos de 500 mil,No,Estrato 1,Si,Si,No,No,No,1,Más de 30 horas,136,40%
+F,Menos de 500 mil,No,Estrato 3,Si,No,No,No,No,0,Más de 30 horas,134,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,No,No,2,Entre 21 y 30 horas,134,40%
+F,Entre 5.5 millones y menos de 7 millones,Si,Estrato 2,Si,Si,No,No,Si,1,Entre 11 y 20 horas,134,40%
+M,Entre 4 millones y menos de 5.5 millones,No,Estrato 1,Si,Si,Si,No,No,1,Más de 30 horas,133,40%
+F,Entre 5.5 millones y menos de 7 millones,Si,Estrato 2,Si,Si,Si,No,No,1,Entre 11 y 20 horas,133,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,133,40%
+M,No pagó matrícula,No,Estrato 2,Si,Si,Si,No,No,5 o 6,Más de 30 horas,133,40%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,No,No,Si,Si,Si,2,Entre 11 y 20 horas,133,40%
+M,No pagó matrícula,No,Estrato 2,Si,Si,No,No,No,2,Más de 30 horas,131,40%
+F,Menos de 500 mil,No,Estrato 1,No,No,Si,No,Si,3 o 4,Entre 11 y 20 horas,126,40%
+M,No pagó matrícula,No,Estrato 2,Si,Si,No,No,Si,5 o 6,Más de 30 horas,125,40%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,No,Si,No,No,3 o 4,Entre 11 y 20 horas,124,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,Si,Si,No,No,5 o 6,0,123,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,123,40%
+F,Menos de 500 mil,No,Estrato 1,Si,No,No,No,No,2,Menos de 10 horas,122,40%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,120,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,120,40%
+M,Entre 500 mil y menos de 1 millón,Si,Estrato 2,Si,Si,Si,No,No,5 o 6,Menos de 10 horas,120,40%
+M,Entre 5.5 millones y menos de 7 millones,No,Estrato 2,No,Si,Si,No,Si,2,Entre 21 y 30 horas,120,40%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 3,Si,Si,Si,Si,No,2,Más de 30 horas,119,40%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,118,40%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,Si,Si,No,Si,2,Más de 30 horas,115,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,No,No,No,3 o 4,Menos de 10 horas,114,40%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,Si,No,No,Si,3 o 4,Más de 30 horas,114,40%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,112,40%
+F,Menos de 500 mil,No,Estrato 3,Si,Si,No,No,No,5 o 6,Entre 11 y 20 horas,112,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,No,Si,No,Si,2,Más de 30 horas,111,40%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,No,No,Si,No,No,2,0,109,40%
+F,Más de 7 millones,No,Estrato 3,Si,Si,Si,No,No,5 o 6,Menos de 10 horas,109,40%
+M,Entre 4 millones y menos de 5.5 millones,Si,Estrato 1,No,Si,Si,No,No,0,Menos de 10 horas,108,40%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 1,Si,Si,Si,No,No,3 o 4,0,108,40%
+M,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,104,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,104,40%
+F,Más de 7 millones,Si,Estrato 3,Si,Si,Si,No,Si,3 o 4,Entre 11 y 20 horas,102,40%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 3,Si,Si,Si,Si,No,2,Más de 30 horas,100,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,No,No,No,3 o 4,Menos de 10 horas,99,40%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 5,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,94,40%
+M,Menos de 500 mil,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,92,40%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 1,Si,Si,No,No,Si,2,Entre 21 y 30 horas,92,40%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,88,40%
+F,No pagó matrícula,No,Estrato 3,Si,Si,Si,No,No,5 o 6,Más de 30 horas,88,40%
+M,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,Si,Si,Si,No,No,2,Menos de 10 horas,83,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,No,No,2,Entre 11 y 20 horas,81,40%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,Si,Si,No,No,No,3 o 4,0,77,40%
+F,Más de 7 millones,No,Estrato 2,Si,No,Si,Si,No,3 o 4,Menos de 10 horas,76,40%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,Si,Si,Si,No,No,3 o 4,0,69,40%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,68,40%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 3,Si,Si,No,No,No,2,Entre 21 y 30 horas,67,40%
+F,No pagó matrícula,No,Estrato 2,Si,Si,No,No,Si,3 o 4,Más de 30 horas,45,40%
+F,Entre 5.5 millones y menos de 7 millones,No,Estrato 2,Si,Si,Si,Si,No,2,Más de 30 horas,37,40%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,7,40%
+M,No pagó matrícula,No,Estrato 2,No,Si,No,No,No,2,Menos de 10 horas,1,40%
+M,Entre 4 millones y menos de 5.5 millones,No,Estrato 1,No,Si,No,No,Si,3 o 4,Menos de 10 horas,197,40%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,No,No,Si,3 o 4,Más de 30 horas,197,40%
+F,Entre 500 mil y menos de 1 millón,Si,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,188,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,No,No,No,2,Más de 30 horas,188,40%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,No,No,No,Si,2,Menos de 10 horas,187,40%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 1,Si,Si,No,Si,No,3 o 4,Menos de 10 horas,182,40%
+F,Entre 500 mil y menos de 1 millón,Si,Estrato 2,Si,Si,No,No,Si,3 o 4,Entre 21 y 30 horas,171,40%
+F,Menos de 500 mil,No,Estrato 3,No,No,Si,No,Si,3 o 4,Más de 30 horas,170,40%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 3,Si,Si,No,No,No,3 o 4,0,166,40%
+F,Más de 7 millones,No,Estrato 1,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,166,40%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,No,No,Si,3 o 4,Más de 30 horas,166,40%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,165,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,Si,No,No,Si,3 o 4,Entre 11 y 20 horas,161,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,No,No,No,2,Más de 30 horas,159,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,159,40%
+M,Entre 4 millones y menos de 5.5 millones,Si,Estrato 1,Si,Si,Si,No,Si,5 o 6,Entre 11 y 20 horas,159,40%
+F,No pagó matrícula,No,Estrato 2,Si,Si,No,No,No,5 o 6,Entre 21 y 30 horas,157,40%
+F,Menos de 500 mil,No,Estrato 3,Si,Si,No,No,No,3 o 4,Más de 30 horas,153,40%
+F,Menos de 500 mil,Si,Estrato 3,Si,No,Si,No,No,1,Más de 30 horas,152,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,Si,No,No,3 o 4,Más de 30 horas,151,40%
+F,Más de 7 millones,No,Estrato 3,Si,Si,No,No,No,1,Entre 21 y 30 horas,150,40%
+F,Menos de 500 mil,No,Estrato 2,Si,No,No,No,Si,2,Más de 30 horas,149,40%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 1,Si,Si,Si,No,No,2,Entre 11 y 20 horas,148,40%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,No,No,No,Si,2,Entre 21 y 30 horas,148,40%
+M,Menos de 500 mil,Si,Estrato 2,Si,Si,Si,No,Si,5 o 6,Más de 30 horas,148,40%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 1,Si,Si,No,No,No,3 o 4,Entre 11 y 20 horas,147,40%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,No,Si,No,3 o 4,Más de 30 horas,147,40%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,146,40%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,No,Si,Si,No,No,1,Entre 11 y 20 horas,143,40%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 1,Si,Si,Si,No,Si,5 o 6,Más de 30 horas,143,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,No,No,2,Entre 21 y 30 horas,142,40%
+M,Entre 5.5 millones y menos de 7 millones,No,Estrato 3,Si,Si,Si,No,No,2,Más de 30 horas,142,40%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 1,Si,Si,Si,No,No,3 o 4,Más de 30 horas,142,40%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,No,Si,No,No,2,Menos de 10 horas,141,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,No,Si,No,No,5 o 6,Menos de 10 horas,140,40%
+F,Más de 7 millones,No,Estrato 2,Si,Si,Si,No,No,5 o 6,Menos de 10 horas,140,40%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 1,Si,Si,Si,No,No,0,Más de 30 horas,139,40%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,138,40%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,138,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,No,Si,No,Si,3 o 4,Entre 11 y 20 horas,138,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,138,40%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,Si,No,Si,No,Si,3 o 4,Entre 21 y 30 horas,137,40%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,No,Si,No,No,Si,2,Entre 21 y 30 horas,136,40%
+F,Más de 7 millones,Si,Estrato 2,Si,Si,Si,No,Si,2,Entre 21 y 30 horas,136,40%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,135,40%
+F,Entre 500 mil y menos de 1 millón,Si,Estrato 3,Si,Si,Si,No,Si,5 o 6,Más de 30 horas,135,40%
+F,Más de 7 millones,No,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,134,40%
+M,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,Si,Si,Si,No,No,5 o 6,0,131,40%
+F,Menos de 500 mil,Si,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,130,40%
+F,Más de 7 millones,Si,Estrato 2,Si,Si,Si,No,No,3 o 4,0,130,40%
+F,Menos de 500 mil,No,Estrato 2,Si,No,No,No,Si,2,Más de 30 horas,130,40%
+F,Más de 7 millones,No,Estrato 2,Si,Si,Si,No,No,2,Entre 21 y 30 horas,125,40%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,Si,Si,No,No,No,2,Entre 11 y 20 horas,125,40%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,125,40%
+F,Menos de 500 mil,Si,Estrato 2,Si,Si,Si,No,No,5 o 6,Entre 11 y 20 horas,125,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,No,No,No,2,Menos de 10 horas,124,40%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,124,40%
+M,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,Si,Si,Si,No,No,0,Más de 30 horas,121,40%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 1,Si,Si,No,No,No,1,Más de 30 horas,120,40%
+M,Entre 2.5 millones y menos de 4 millones,Si,Estrato 1,Si,Si,No,No,Si,3 o 4,Menos de 10 horas,120,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,118,40%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 1,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,117,40%
+F,Entre 5.5 millones y menos de 7 millones,No,Estrato 1,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,117,40%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 1,Si,Si,No,No,Si,5 o 6,Entre 11 y 20 horas,117,40%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 3,No,No,Si,No,No,3 o 4,Menos de 10 horas,116,40%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,No,No,No,3 o 4,Entre 11 y 20 horas,115,40%
+F,Entre 5.5 millones y menos de 7 millones,No,Estrato 1,Si,Si,Si,No,No,5 o 6,Menos de 10 horas,115,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,No,No,No,No,Si,3 o 4,0,114,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,114,40%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 1,Si,Si,Si,No,No,3 o 4,Más de 30 horas,113,40%
+M,Menos de 500 mil,Si,Estrato 2,Si,No,Si,No,Si,2,Más de 30 horas,113,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,No,No,Si,No,Si,3 o 4,Entre 11 y 20 horas,109,40%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 1,No,No,Si,No,No,2,Menos de 10 horas,104,40%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,Si,Si,No,No,Si,3 o 4,Menos de 10 horas,101,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,Si,No,No,5 o 6,Entre 11 y 20 horas,98,40%
+M,Entre 500 mil y menos de 1 millón,Si,Estrato 2,Si,Si,Si,No,No,1,Más de 30 horas,95,40%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,Si,Si,No,Si,5 o 6,Entre 11 y 20 horas,92,40%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,Si,Si,No,No,2,Entre 11 y 20 horas,87,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,85,40%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 2,No,No,No,No,Si,2,Menos de 10 horas,81,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,80,40%
+F,Menos de 500 mil,Si,Estrato 3,Si,Si,Si,No,Si,5 o 6,Más de 30 horas,79,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,75,40%
+M,Entre 2.5 millones y menos de 4 millones,Si,Estrato 4,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,75,40%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,No,No,1,Más de 30 horas,73,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,Si,No,No,2,Más de 30 horas,67,40%
+M,Menos de 500 mil,No,Estrato 1,Si,Si,No,No,No,3 o 4,Entre 11 y 20 horas,64,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,62,40%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 1,Si,No,No,No,Si,3 o 4,0,40,40%
+M,No pagó matrícula,No,Estrato 1,Si,Si,Si,No,No,3 o 4,Más de 30 horas,34,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,32,40%
+F,Más de 7 millones,No,Estrato 2,Si,Si,Si,Si,No,3 o 4,Entre 21 y 30 horas,26,40%
+F,Entre 500 mil y menos de 1 millón,Si,Estrato 1,Si,Si,Si,No,Si,2,Más de 30 horas,20,40%
+M,Entre 5.5 millones y menos de 7 millones,Si,Estrato 3,Si,Si,Si,Si,No,3 o 4,Entre 11 y 20 horas,17,40%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,189,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,181,40%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,No,No,No,2,Más de 30 horas,181,40%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 1,Si,Si,Si,No,No,5 o 6,Más de 30 horas,178,40%
+F,Entre 5.5 millones y menos de 7 millones,Si,Estrato 3,Si,Si,Si,No,No,1,Más de 30 horas,174,40%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,166,40%
+F,Menos de 500 mil,No,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,163,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,No,5 o 6,Más de 30 horas,163,40%
+F,Entre 5.5 millones y menos de 7 millones,No,Estrato 3,Si,Si,Si,No,No,5 o 6,Entre 21 y 30 horas,163,40%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,162,40%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,No,5 o 6,Más de 30 horas,160,40%
+F,Menos de 500 mil,No,Estrato 2,No,No,Si,Si,No,3 o 4,Más de 30 horas,160,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,No,No,Si,3 o 4,Entre 21 y 30 horas,160,40%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,158,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,No,Si,No,No,Si,5 o 6,0,155,40%
+F,No pagó matrícula,No,Estrato 1,No,Si,No,No,No,3 o 4,Entre 11 y 20 horas,151,40%
+M,Entre 5.5 millones y menos de 7 millones,No,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,150,40%
+M,Más de 7 millones,Si,Estrato 2,Si,Si,Si,Si,No,5 o 6,Entre 11 y 20 horas,150,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,No,No,No,2,Más de 30 horas,147,40%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,No,No,Si,5 o 6,Entre 21 y 30 horas,147,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,Si,No,No,3 o 4,Más de 30 horas,146,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,146,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,No,Si,Si,No,No,1,Entre 21 y 30 horas,145,40%
+F,Menos de 500 mil,No,Estrato 1,Si,Si,No,No,No,2,Más de 30 horas,141,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,No,No,Si,3 o 4,Más de 30 horas,139,40%
+M,Más de 7 millones,No,Estrato 1,Si,Si,No,No,No,2,Menos de 10 horas,138,40%
+M,Entre 4 millones y menos de 5.5 millones,No,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,138,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,138,40%
+F,Menos de 500 mil,No,Estrato 1,Si,No,No,No,No,3 o 4,Menos de 10 horas,135,40%
+F,Más de 7 millones,No,Estrato 1,Si,Si,No,Si,Si,3 o 4,Más de 30 horas,135,40%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,134,40%
+M,Entre 4 millones y menos de 5.5 millones,Si,Estrato 1,Si,Si,Si,No,No,0,Más de 30 horas,133,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,No,No,Si,2,Más de 30 horas,133,40%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,No,No,Si,5 o 6,Entre 21 y 30 horas,133,40%
+M,Entre 4 millones y menos de 5.5 millones,No,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,132,40%
+F,Menos de 500 mil,No,Estrato 1,Si,No,No,No,Si,2,Más de 30 horas,130,40%
+F,Más de 7 millones,No,Estrato 1,Si,Si,No,No,Si,5 o 6,Menos de 10 horas,129,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,No,No,Si,No,No,3 o 4,0,128,40%
+F,Menos de 500 mil,No,Estrato 1,No,Si,No,No,Si,3 o 4,Entre 21 y 30 horas,128,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,No,No,Si,3 o 4,Más de 30 horas,128,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,No,No,No,2,Entre 21 y 30 horas,127,40%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,Si,No,No,Si,3 o 4,Entre 11 y 20 horas,127,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,No,No,5 o 6,Entre 11 y 20 horas,124,40%
+F,Entre 500 mil y menos de 1 millón,Si,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,123,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,No,No,No,No,Si,3 o 4,0,123,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,Si,No,No,Si,3 o 4,Entre 11 y 20 horas,123,40%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,Si,No,No,3 o 4,Más de 30 horas,120,40%
+M,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,Si,No,No,No,3 o 4,0,119,40%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,118,40%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 3,Si,Si,Si,No,No,1,Más de 30 horas,116,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,No,No,Si,No,Si,5 o 6,Menos de 10 horas,116,40%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,No,No,No,5 o 6,Menos de 10 horas,115,40%
+F,Más de 7 millones,No,Estrato 1,Si,No,Si,No,Si,3 o 4,Entre 11 y 20 horas,115,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,No,Si,No,No,Si,3 o 4,Menos de 10 horas,115,40%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,113,40%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,Si,No,No,No,3 o 4,0,107,40%
+F,No pagó matrícula,No,Estrato 3,No,Si,No,No,Si,3 o 4,Más de 30 horas,99,40%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 1,No,No,Si,No,No,2,Menos de 10 horas,98,40%
+F,Menos de 500 mil,No,Estrato 2,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,98,40%
+F,No pagó matrícula,Si,Estrato 3,Si,Si,No,No,No,3 o 4,Entre 11 y 20 horas,98,40%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 1,Si,Si,Si,No,Si,5 o 6,Más de 30 horas,95,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,No,No,No,1,Más de 30 horas,93,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,No,No,No,3 o 4,Entre 11 y 20 horas,91,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,82,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,80,40%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,79,40%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 3,Si,Si,Si,No,No,1,Más de 30 horas,74,40%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 1,No,No,Si,No,Si,3 o 4,Menos de 10 horas,59,40%
+F,No pagó matrícula,Si,Estrato 1,No,No,No,No,Si,1,Menos de 10 horas,57,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,No,No,No,3 o 4,Entre 11 y 20 horas,51,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,50,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,50,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,42,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,No,Si,Si,Si,No,2,Más de 30 horas,29,40%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,25,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,No,No,Si,3 o 4,Entre 21 y 30 horas,24,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,No,No,No,3 o 4,Entre 11 y 20 horas,20,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,19,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,10,40%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 1,Si,Si,Si,No,No,3 o 4,0,9,40%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,Si,No,No,No,3 o 4,Más de 30 horas,209,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,Si,No,No,5 o 6,Más de 30 horas,181,40%
+M,Entre 5.5 millones y menos de 7 millones,Si,Estrato 2,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,181,40%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,No,No,No,Si,5 o 6,Entre 11 y 20 horas,179,40%
+F,Entre 5.5 millones y menos de 7 millones,Si,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,178,40%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 1,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,176,40%
+M,Entre 5.5 millones y menos de 7 millones,No,Estrato 2,Si,No,Si,No,Si,3 o 4,Más de 30 horas,174,40%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,No,Si,No,No,Si,5 o 6,Entre 11 y 20 horas,173,40%
+M,Entre 5.5 millones y menos de 7 millones,No,Estrato 2,Si,Si,Si,No,No,5 o 6,Entre 21 y 30 horas,172,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,No,No,No,5 o 6,Entre 11 y 20 horas,171,40%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,170,40%
+F,Entre 5.5 millones y menos de 7 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,164,40%
+M,Más de 7 millones,Si,Estrato 3,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,163,40%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,161,40%
+F,Entre 5.5 millones y menos de 7 millones,Si,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,160,40%
+F,Menos de 500 mil,No,Estrato 1,No,Si,Si,No,No,5 o 6,Entre 21 y 30 horas,159,40%
+F,Más de 7 millones,Si,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,158,40%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 1,Si,Si,No,No,Si,3 o 4,Entre 11 y 20 horas,157,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,No,No,No,2,Más de 30 horas,156,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,Si,No,No,5 o 6,Más de 30 horas,156,40%
+F,Entre 5.5 millones y menos de 7 millones,No,Estrato 2,Si,Si,No,No,No,3 o 4,Entre 11 y 20 horas,155,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,Si,Si,No,No,5 o 6,Entre 11 y 20 horas,155,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,No,No,No,5 o 6,Entre 11 y 20 horas,155,40%
+F,Entre 500 mil y menos de 1 millón,Si,Estrato 2,Si,Si,Si,No,No,5 o 6,Entre 21 y 30 horas,154,40%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,152,40%
+M,No pagó matrícula,No,Estrato 1,Si,No,Si,No,No,3 o 4,Más de 30 horas,149,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,148,40%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,No,Si,No,3 o 4,Entre 21 y 30 horas,148,40%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,147,40%
+M,No pagó matrícula,No,Estrato 1,No,Si,No,No,No,3 o 4,Entre 11 y 20 horas,145,40%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,No,No,No,5 o 6,Entre 11 y 20 horas,145,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,No,No,No,No,2,Entre 11 y 20 horas,138,40%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,No,No,No,2,Más de 30 horas,138,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,No,Si,No,Si,5 o 6,Más de 30 horas,138,40%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,Si,Si,No,Si,No,3 o 4,Más de 30 horas,137,40%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,No,Si,Si,No,Si,2,Más de 30 horas,134,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,133,40%
+F,Menos de 500 mil,Si,Estrato 2,No,Si,Si,No,Si,3 o 4,Más de 30 horas,133,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,130,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,No,5 o 6,Más de 30 horas,129,40%
+F,No pagó matrícula,No,Estrato 1,Si,Si,No,No,No,3 o 4,Más de 30 horas,128,40%
+F,Más de 7 millones,Si,Estrato 2,Si,Si,No,No,Si,3 o 4,Menos de 10 horas,127,40%
+M,Menos de 500 mil,Si,Estrato 2,No,No,Si,No,No,2,Menos de 10 horas,125,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,No,No,Si,No,Si,2,Entre 11 y 20 horas,125,40%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,123,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,No,Si,No,No,No,2,Entre 11 y 20 horas,122,40%
+M,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,121,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,120,40%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 1,No,Si,No,No,Si,2,Entre 21 y 30 horas,117,40%
+M,No pagó matrícula,No,Estrato 1,Si,Si,No,No,No,5 o 6,Entre 21 y 30 horas,116,40%
+F,Entre 5.5 millones y menos de 7 millones,Si,Estrato 3,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,114,40%
+F,Menos de 500 mil,Si,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,110,40%
+F,Entre 5.5 millones y menos de 7 millones,No,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,110,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,107,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,No,Si,No,No,Si,2,Más de 30 horas,106,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,No,No,No,2,Más de 30 horas,102,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,No,No,No,3 o 4,Entre 11 y 20 horas,99,40%
+M,Entre 500 mil y menos de 1 millón,Si,Estrato 2,Si,Si,No,No,Si,2,Más de 30 horas,97,40%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,96,40%
+M,Entre 4 millones y menos de 5.5 millones,Si,Estrato 1,Si,No,Si,No,Si,3 o 4,Menos de 10 horas,94,40%
+M,Menos de 500 mil,No,Estrato 1,Si,Si,No,No,Si,5 o 6,Más de 30 horas,92,40%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,89,40%
+F,No pagó matrícula,Si,Estrato 1,Si,Si,Si,No,Si,5 o 6,Más de 30 horas,31,40%
+F,Entre 500 mil y menos de 1 millón,Si,Estrato 3,Si,Si,No,No,No,0,Más de 30 horas,28,40%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 3,Si,Si,No,No,Si,1,Más de 30 horas,26,40%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 1,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,21,40%
+M,Entre 2.5 millones y menos de 4 millones,Si,Estrato 3,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,17,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,8,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,No,Si,No,No,No,3 o 4,0,200,40%
+F,Menos de 500 mil,No,Estrato 2,No,No,No,No,Si,2,Más de 30 horas,179,40%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,174,40%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 1,Si,Si,Si,No,Si,5 o 6,Más de 30 horas,171,40%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,160,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,No,Si,No,No,No,3 o 4,Entre 11 y 20 horas,158,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,No,No,No,No,1,Más de 30 horas,156,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,No,No,No,1,Más de 30 horas,153,40%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 1,Si,Si,No,No,No,3 o 4,Más de 30 horas,153,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,153,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,153,40%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 1,Si,Si,No,No,No,3 o 4,Más de 30 horas,152,40%
+F,Más de 7 millones,Si,Estrato 4,Si,Si,Si,No,No,2,Más de 30 horas,151,40%
+M,Más de 7 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,151,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,No,No,No,Si,No,2,Entre 21 y 30 horas,150,40%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 1,No,Si,No,No,Si,3 o 4,Entre 11 y 20 horas,147,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,Si,No,No,No,3 o 4,Más de 30 horas,145,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,No,Si,No,Si,2,Más de 30 horas,144,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,No,No,Si,No,Si,3 o 4,Entre 21 y 30 horas,144,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,No,No,No,No,Si,2,Entre 11 y 20 horas,143,40%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,Si,Si,No,No,2,Más de 30 horas,142,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,No,Si,No,No,Si,3 o 4,Entre 21 y 30 horas,142,40%
+F,Menos de 500 mil,Si,Estrato 1,Si,No,Si,No,No,3 o 4,Entre 11 y 20 horas,141,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,No,No,No,5 o 6,Entre 11 y 20 horas,141,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,140,40%
+M,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,No,Si,Si,No,No,5 o 6,0,140,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,Si,No,No,5 o 6,Más de 30 horas,139,40%
+F,Más de 7 millones,Si,Estrato 1,Si,Si,No,No,Si,3 o 4,Menos de 10 horas,137,40%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,136,40%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,Si,Si,Si,No,5 o 6,Más de 30 horas,136,40%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,Si,Si,No,Si,5 o 6,Más de 30 horas,135,40%
+F,No pagó matrícula,No,Estrato 2,Si,No,Si,No,No,5 o 6,Más de 30 horas,134,40%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 1,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,128,40%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,Si,No,No,5 o 6,Más de 30 horas,128,40%
+M,Menos de 500 mil,No,Estrato 1,Si,No,No,No,No,1,Más de 30 horas,127,40%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,No,No,Si,No,No,3 o 4,Menos de 10 horas,127,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,No,No,No,Si,2,Más de 30 horas,127,40%
+M,Más de 7 millones,Si,Estrato 1,Si,Si,No,Si,Si,3 o 4,Entre 21 y 30 horas,127,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,No,Si,Si,No,No,3 o 4,Más de 30 horas,126,40%
+F,Menos de 500 mil,No,Estrato 1,Si,Si,No,No,No,3 o 4,Más de 30 horas,123,40%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,No,No,No,No,1,Más de 30 horas,122,40%
+M,Entre 4 millones y menos de 5.5 millones,No,Estrato 1,Si,Si,No,No,No,3 o 4,Entre 11 y 20 horas,121,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,No,No,No,5 o 6,Entre 11 y 20 horas,120,40%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,Si,Si,No,No,5 o 6,Entre 11 y 20 horas,119,40%
+M,Entre 5.5 millones y menos de 7 millones,Si,Estrato 2,Si,Si,No,No,No,2,Menos de 10 horas,118,40%
+F,Menos de 500 mil,No,Estrato 1,Si,Si,No,No,No,3 o 4,Más de 30 horas,117,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,116,40%
+M,Entre 4 millones y menos de 5.5 millones,Si,Estrato 3,Si,Si,Si,No,No,5 o 6,Entre 11 y 20 horas,116,40%
+F,Menos de 500 mil,No,Estrato 1,No,No,Si,No,Si,3 o 4,Más de 30 horas,115,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,No,No,No,No,5 o 6,0,114,40%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,No,No,Si,5 o 6,Más de 30 horas,103,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 3,Si,No,Si,No,No,3 o 4,Más de 30 horas,101,40%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 1,Si,Si,No,No,No,5 o 6,Entre 11 y 20 horas,93,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,No,Si,No,No,Si,1,Entre 21 y 30 horas,92,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,No,No,Si,3 o 4,Entre 21 y 30 horas,72,40%
+F,Menos de 500 mil,Si,Estrato 2,Si,Si,No,No,No,3 o 4,Entre 11 y 20 horas,70,40%
+M,Más de 7 millones,No,Estrato 2,No,No,No,No,No,0,0,60,40%
+M,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,Si,Si,No,Si,Si,3 o 4,Más de 30 horas,56,40%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,Si,No,No,No,3 o 4,0,39,40%
+F,Menos de 500 mil,No,Estrato 3,Si,Si,No,No,No,3 o 4,Más de 30 horas,37,40%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,No,No,No,3 o 4,Entre 11 y 20 horas,36,40%
+F,Más de 7 millones,Si,Estrato 3,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,31,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,No,No,No,No,Si,3 o 4,0,27,40%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 3,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,25,40%
+F,No pagó matrícula,No,Estrato 2,Si,Si,No,No,No,5 o 6,Entre 21 y 30 horas,21,40%
+M,Entre 4 millones y menos de 5.5 millones,Si,Estrato 1,Si,Si,Si,No,No,3 o 4,Menos de 10 horas,17,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,No,No,2,Más de 30 horas,14,40%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,Si,Si,Si,No,3 o 4,Más de 30 horas,12,40%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,Si,No,No,No,2,Menos de 10 horas,1,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,No,No,No,No,2,Entre 11 y 20 horas,193,40%
+M,Entre 4 millones y menos de 5.5 millones,No,Estrato 3,Si,No,No,No,No,3 o 4,Entre 11 y 20 horas,180,40%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 1,No,Si,No,No,No,5 o 6,0,176,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,No,No,5 o 6,Más de 30 horas,173,40%
+F,Menos de 500 mil,No,Estrato 1,No,No,No,No,Si,5 o 6,Entre 11 y 20 horas,172,40%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,Si,No,No,No,1,Más de 30 horas,167,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,No,Si,No,Si,5 o 6,Entre 21 y 30 horas,164,40%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 1,Si,Si,No,No,No,5 o 6,Entre 11 y 20 horas,161,40%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 1,No,No,Si,No,Si,3 o 4,Entre 21 y 30 horas,155,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,Si,No,No,Si,3 o 4,Más de 30 horas,155,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,No,No,No,2,Más de 30 horas,154,40%
+F,Menos de 500 mil,No,Estrato 1,No,No,No,No,No,5 o 6,0,154,40%
+M,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,Si,No,No,No,5 o 6,Menos de 10 horas,150,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,No,Si,No,No,3 o 4,Entre 11 y 20 horas,147,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,147,40%
+M,Entre 500 mil y menos de 1 millón,Si,Estrato 3,No,Si,No,No,No,0,Más de 30 horas,146,40%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,146,40%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,No,No,No,No,1,Más de 30 horas,145,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,No,No,Si,No,1,Más de 30 horas,144,40%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 1,Si,Si,No,No,Si,5 o 6,Más de 30 horas,137,40%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 1,Si,No,No,No,No,3 o 4,Entre 11 y 20 horas,136,40%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,136,40%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,135,40%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,134,40%
+F,Más de 7 millones,No,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,134,40%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 1,No,Si,Si,No,No,5 o 6,0,134,40%
+F,Menos de 500 mil,No,Estrato 2,Si,Si,No,No,No,5 o 6,Más de 30 horas,134,40%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 1,Si,Si,No,No,Si,5 o 6,Más de 30 horas,130,40%
+M,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,Si,Si,Si,No,No,5 o 6,Más de 30 horas,129,40%
+M,Entre 500 mil y menos de 1 millón,Si,Estrato 1,Si,Si,No,No,Si,3 o 4,Más de 30 horas,126,40%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 1,No,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,125,40%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,Si,No,No,No,Si,2,Más de 30 horas,123,40%
+M,No pagó matrícula,No,Estrato 1,No,Si,No,No,No,2,Más de 30 horas,122,40%
+F,Menos de 500 mil,No,Estrato 2,No,No,No,No,No,3 o 4,Menos de 10 horas,122,40%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,121,40%
+F,Menos de 500 mil,No,Estrato 2,Si,Si,No,No,No,5 o 6,Más de 30 horas,119,40%
+F,Entre 5.5 millones y menos de 7 millones,No,Estrato 1,Si,Si,No,No,No,5 o 6,Menos de 10 horas,117,40%
+M,Entre 2.5 millones y menos de 4 millones,Si,Estrato 1,Si,Si,Si,No,No,2,Más de 30 horas,112,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,111,40%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 3,Si,No,No,No,No,5 o 6,Menos de 10 horas,111,40%
+M,Entre 2.5 millones y menos de 4 millones,Si,Estrato 1,Si,Si,No,No,Si,5 o 6,Entre 11 y 20 horas,111,40%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 1,Si,Si,No,No,No,3 o 4,Más de 30 horas,108,40%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,102,40%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,97,40%
+F,No pagó matrícula,No,Estrato 2,No,No,Si,No,Si,5 o 6,Más de 30 horas,92,40%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,Si,No,No,5 o 6,Más de 30 horas,87,40%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 1,No,Si,Si,No,No,5 o 6,Menos de 10 horas,73,40%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 3,Si,No,Si,No,No,2,Entre 11 y 20 horas,65,40%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,No,Si,Si,No,No,2,Más de 30 horas,60,40%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,60,40%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,No,Si,No,5 o 6,Más de 30 horas,58,40%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 1,Si,No,No,No,Si,3 o 4,Entre 11 y 20 horas,51,40%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 4,Si,No,Si,No,No,3 o 4,Más de 30 horas,37,40%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 1,Si,No,Si,No,Si,2,Entre 21 y 30 horas,36,40%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,19,40%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,No,No,No,1,Entre 21 y 30 horas,18,40%
+M,Menos de 500 mil,No,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,4,40%
+M,No pagó matrícula,No,Estrato 1,Si,No,No,No,No,3 o 4,Más de 30 horas,176,30%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,No,Si,No,Si,No,3 o 4,Más de 30 horas,176,30%
+M,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,175,30%
+F,Menos de 500 mil,No,Estrato 2,No,No,No,No,No,3 o 4,Entre 11 y 20 horas,171,30%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,No,No,5 o 6,Más de 30 horas,169,30%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 3,Si,No,No,Si,No,3 o 4,Entre 21 y 30 horas,166,30%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 1,Si,Si,Si,No,No,3 o 4,Más de 30 horas,161,30%
+F,Menos de 500 mil,Si,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,157,30%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,No,No,No,5 o 6,Más de 30 horas,154,30%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,No,No,No,No,No,5 o 6,0,150,30%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,148,30%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,No,No,No,Si,3 o 4,Más de 30 horas,148,30%
+M,Entre 5.5 millones y menos de 7 millones,Si,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,147,30%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,No,Si,No,No,No,3 o 4,Menos de 10 horas,145,30%
+M,Más de 7 millones,Si,Estrato 1,Si,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,143,30%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,No,No,No,3 o 4,Más de 30 horas,140,30%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 1,Si,Si,No,No,Si,3 o 4,Entre 21 y 30 horas,138,30%
+F,Menos de 500 mil,Si,Estrato 1,No,Si,No,No,No,0,Más de 30 horas,137,30%
+M,Más de 7 millones,No,Estrato 1,No,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,135,30%
+F,Entre 5.5 millones y menos de 7 millones,Si,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,130,30%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,No,No,No,3 o 4,Más de 30 horas,127,30%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,127,30%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,No,No,No,5 o 6,Entre 21 y 30 horas,127,30%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,No,No,No,Si,No,1,Entre 21 y 30 horas,127,30%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,Si,No,No,No,2,Entre 21 y 30 horas,125,30%
+M,Entre 4 millones y menos de 5.5 millones,No,Estrato 1,Si,Si,No,No,Si,5 o 6,Más de 30 horas,125,30%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,Si,No,No,5 o 6,Más de 30 horas,124,30%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,No,No,No,3 o 4,Más de 30 horas,123,30%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,No,Si,Si,No,3 o 4,Más de 30 horas,123,30%
+M,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,No,Si,No,Si,3 o 4,Más de 30 horas,123,30%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,Si,Si,No,No,3 o 4,Más de 30 horas,119,30%
+M,Entre 5.5 millones y menos de 7 millones,No,Estrato 2,Si,Si,Si,No,No,5 o 6,Más de 30 horas,119,30%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,Si,No,No,No,5 o 6,Más de 30 horas,119,30%
+M,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,No,Si,No,Si,3 o 4,Más de 30 horas,118,30%
+M,Entre 5.5 millones y menos de 7 millones,No,Estrato 2,No,No,No,No,Si,3 o 4,Menos de 10 horas,115,30%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 2,No,Si,No,No,Si,5 o 6,Más de 30 horas,112,30%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 1,No,Si,No,No,Si,3 o 4,Menos de 10 horas,108,30%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,No,No,No,No,No,2,Menos de 10 horas,106,30%
+M,Menos de 500 mil,No,Estrato 1,No,No,No,No,Si,3 o 4,Entre 21 y 30 horas,103,30%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,No,Si,Si,No,No,3 o 4,Más de 30 horas,101,30%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,91,30%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,78,30%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,76,30%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 4,Si,Si,No,No,No,2,Más de 30 horas,72,30%
+M,Entre 2.5 millones y menos de 4 millones,Si,Estrato 1,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,50,30%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,No,Si,No,3 o 4,Más de 30 horas,49,30%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,No,No,No,2,Más de 30 horas,48,30%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,46,30%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,No,No,No,Si,3 o 4,Menos de 10 horas,35,30%
+F,No pagó matrícula,Si,Estrato 2,Si,Si,No,No,No,2,Más de 30 horas,29,30%
+F,Menos de 500 mil,No,Estrato 1,No,No,Si,No,No,3 o 4,Entre 11 y 20 horas,21,30%
+F,Más de 7 millones,No,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,17,30%
+F,Más de 7 millones,Si,Estrato 1,Si,Si,Si,Si,No,5 o 6,Entre 11 y 20 horas,12,30%
+M,Entre 4 millones y menos de 5.5 millones,Si,Estrato 1,Si,Si,Si,No,Si,3 o 4,Más de 30 horas,6,30%
+M,Entre 4 millones y menos de 5.5 millones,No,Estrato 3,Si,Si,Si,No,No,5 o 6,Más de 30 horas,5,30%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,177,30%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 1,Si,Si,No,No,Si,3 o 4,Más de 30 horas,168,30%
+M,Más de 7 millones,No,Estrato 1,Si,Si,No,No,Si,5 o 6,Más de 30 horas,167,30%
+F,Más de 7 millones,Si,Estrato 3,Si,Si,No,Si,No,3 o 4,Más de 30 horas,158,30%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,Si,Si,No,No,5 o 6,Más de 30 horas,157,30%
+F,Menos de 500 mil,Si,Estrato 1,Si,No,Si,No,No,3 o 4,Más de 30 horas,155,30%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,Si,No,No,Si,5 o 6,Más de 30 horas,155,30%
+M,Más de 7 millones,Si,Estrato 1,Si,Si,Si,No,No,2,Más de 30 horas,151,30%
+F,Entre 5.5 millones y menos de 7 millones,No,Estrato 3,Si,No,Si,No,No,3 o 4,Más de 30 horas,148,30%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,Si,Si,No,Si,No,3 o 4,Más de 30 horas,148,30%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 1,No,No,No,No,No,1,Entre 11 y 20 horas,147,30%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,No,No,Si,No,No,3 o 4,Entre 11 y 20 horas,147,30%
+M,Entre 5.5 millones y menos de 7 millones,Si,Estrato 1,No,Si,No,No,Si,5 o 6,0,146,30%
+F,Entre 5.5 millones y menos de 7 millones,Si,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,145,30%
+M,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,Si,Si,No,No,No,2,Entre 21 y 30 horas,142,30%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,No,No,Si,No,No,3 o 4,Menos de 10 horas,139,30%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 3,Si,No,Si,No,No,2,Más de 30 horas,137,30%
+M,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,No,Si,No,No,No,2,Más de 30 horas,135,30%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 3,Si,Si,Si,No,No,5 o 6,Más de 30 horas,134,30%
+F,Más de 7 millones,Si,Estrato 2,No,Si,No,No,No,2,0,133,30%
+M,Menos de 500 mil,No,Estrato 2,Si,No,No,No,No,5 o 6,Entre 21 y 30 horas,132,30%
+M,Entre 500 mil y menos de 1 millón,Si,Estrato 3,Si,No,Si,No,No,3 o 4,Más de 30 horas,128,30%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,Si,No,No,5 o 6,Más de 30 horas,128,30%
+M,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,127,30%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,Si,Si,Si,No,No,3 o 4,Más de 30 horas,127,30%
+F,Más de 7 millones,No,Estrato 2,Si,Si,Si,No,No,5 o 6,Más de 30 horas,126,30%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,No,Si,No,No,Si,5 o 6,Entre 11 y 20 horas,124,30%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,No,No,No,2,Más de 30 horas,119,30%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,No,No,No,No,5 o 6,Entre 11 y 20 horas,118,30%
+M,Entre 2.5 millones y menos de 4 millones,Si,Estrato 1,Si,Si,No,No,No,1,Más de 30 horas,117,30%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,117,30%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 1,Si,Si,No,No,No,1,Más de 30 horas,114,30%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,No,No,Si,No,No,5 o 6,Menos de 10 horas,110,30%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 1,Si,Si,No,No,No,3 o 4,Entre 11 y 20 horas,100,30%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 1,No,Si,No,No,No,3 o 4,Menos de 10 horas,98,30%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 5,Si,Si,No,No,No,3 o 4,Más de 30 horas,97,30%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,No,No,No,Si,5 o 6,Entre 21 y 30 horas,97,30%
+F,No pagó matrícula,Si,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,92,30%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,Si,No,No,No,3 o 4,Más de 30 horas,89,30%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,Si,No,Si,No,3 o 4,Más de 30 horas,79,30%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,74,30%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,No,No,No,No,No,3 o 4,0,71,30%
+F,Entre 5.5 millones y menos de 7 millones,No,Estrato 2,Si,Si,Si,No,No,5 o 6,Más de 30 horas,69,30%
+M,Entre 4 millones y menos de 5.5 millones,Si,Estrato 1,Si,Si,Si,No,No,5 o 6,Entre 11 y 20 horas,62,30%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,No,Si,Si,No,No,3 o 4,Entre 11 y 20 horas,59,30%
+F,Menos de 500 mil,No,Estrato 1,No,Si,No,No,No,3 o 4,Entre 21 y 30 horas,56,30%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 1,No,Si,No,No,Si,3 o 4,Entre 21 y 30 horas,42,30%
+M,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,Si,No,Si,No,Si,3 o 4,Entre 21 y 30 horas,36,30%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 1,No,Si,No,No,No,3 o 4,Menos de 10 horas,35,30%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 1,No,No,Si,No,Si,3 o 4,Más de 30 horas,34,30%
+F,Entre 5.5 millones y menos de 7 millones,No,Estrato 1,Si,Si,No,No,No,5 o 6,Menos de 10 horas,33,30%
+F,Menos de 500 mil,No,Estrato 2,No,Si,No,No,No,3 o 4,Entre 21 y 30 horas,30,30%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,Si,Si,Si,No,No,2,Más de 30 horas,27,30%
+M,No pagó matrícula,No,Estrato 1,No,No,No,No,Si,2,Más de 30 horas,26,30%
+F,No pagó matrícula,No,Estrato 1,No,No,No,No,No,5 o 6,0,18,30%
+F,Más de 7 millones,Si,Estrato 2,Si,Si,No,No,Si,2,Entre 21 y 30 horas,1,30%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,204,30%
+M,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,181,30%
+M,Entre 500 mil y menos de 1 millón,Si,Estrato 1,No,No,No,No,Si,1,Más de 30 horas,179,30%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,Si,Si,No,No,Si,5 o 6,Más de 30 horas,179,30%
+F,Entre 5.5 millones y menos de 7 millones,Si,Estrato 3,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,156,30%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 1,Si,Si,No,No,No,5 o 6,Más de 30 horas,156,30%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 1,No,No,No,No,Si,3 o 4,Más de 30 horas,151,30%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,No,Si,No,No,3 o 4,Más de 30 horas,150,30%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,Si,No,No,No,2,Más de 30 horas,147,30%
+M,Entre 4 millones y menos de 5.5 millones,No,Estrato 1,No,Si,No,No,No,3 o 4,Entre 11 y 20 horas,146,30%
+M,Entre 4 millones y menos de 5.5 millones,No,Estrato 1,No,No,No,No,No,2,Menos de 10 horas,143,30%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,No,No,No,No,Si,5 o 6,Entre 11 y 20 horas,138,30%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 1,No,Si,No,No,No,5 o 6,Menos de 10 horas,135,30%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,Si,No,No,No,No,3 o 4,Entre 21 y 30 horas,128,30%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,No,Si,No,No,No,1,Más de 30 horas,124,30%
+M,Entre 4 millones y menos de 5.5 millones,Si,Estrato 1,Si,No,No,No,Si,3 o 4,Entre 11 y 20 horas,123,30%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,No,No,No,No,Si,5 o 6,Entre 11 y 20 horas,120,30%
+F,Menos de 500 mil,Si,Estrato 1,No,Si,No,No,No,3 o 4,Entre 11 y 20 horas,115,30%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,Si,Si,No,No,5 o 6,Más de 30 horas,108,30%
+M,Menos de 500 mil,No,Estrato 1,No,No,No,No,Si,3 o 4,Más de 30 horas,107,30%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,No,Si,No,No,No,1,Más de 30 horas,106,30%
+F,Más de 7 millones,No,Estrato 1,Si,Si,No,No,Si,5 o 6,Más de 30 horas,106,30%
+M,Entre 4 millones y menos de 5.5 millones,Si,Estrato 3,Si,Si,Si,No,No,3 o 4,Más de 30 horas,46,30%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,Si,No,No,Si,3 o 4,Más de 30 horas,40,30%
+M,Entre 4 millones y menos de 5.5 millones,Si,Estrato 1,Si,Si,Si,No,No,5 o 6,Entre 11 y 20 horas,37,30%
+M,Menos de 500 mil,Si,Estrato 3,Si,Si,No,No,No,3 o 4,Más de 30 horas,35,30%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,Si,No,No,Si,3 o 4,Más de 30 horas,23,30%
+M,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,Si,No,No,No,5 o 6,Menos de 10 horas,17,30%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 1,Si,Si,Si,No,No,5 o 6,Entre 11 y 20 horas,7,30%
+F,Menos de 500 mil,Si,Estrato 1,Si,No,Si,No,No,3 o 4,Entre 21 y 30 horas,5,30%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,No,Si,No,No,No,1,Más de 30 horas,169,30%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,No,Si,No,No,No,5 o 6,Entre 11 y 20 horas,165,30%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,No,No,Si,No,No,2,Entre 21 y 30 horas,162,30%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,No,No,Si,No,No,5 o 6,Entre 21 y 30 horas,156,30%
+F,Menos de 500 mil,No,Estrato 1,No,No,No,No,No,5 o 6,Entre 11 y 20 horas,151,30%
+F,Entre 5.5 millones y menos de 7 millones,No,Estrato 1,Si,No,No,No,No,5 o 6,Menos de 10 horas,146,30%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,No,No,No,No,No,3 o 4,0,145,30%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 1,No,No,No,No,No,3 o 4,Entre 11 y 20 horas,144,30%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 1,Si,No,No,No,No,3 o 4,Más de 30 horas,144,30%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,No,Si,No,No,No,3 o 4,Más de 30 horas,141,30%
+F,Entre 5.5 millones y menos de 7 millones,Si,Estrato 1,Si,No,No,No,No,3 o 4,0,137,30%
+M,Entre 5.5 millones y menos de 7 millones,Si,Estrato 1,Si,Si,No,No,No,3 o 4,Entre 11 y 20 horas,136,30%
+M,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,Si,Si,No,No,No,2,Más de 30 horas,134,30%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 1,Si,Si,No,No,No,5 o 6,Más de 30 horas,132,30%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,No,No,Si,No,No,3 o 4,Entre 21 y 30 horas,131,30%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 1,No,Si,Si,No,No,3 o 4,Entre 21 y 30 horas,130,30%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 1,No,No,Si,No,No,3 o 4,Más de 30 horas,122,30%
+M,Menos de 500 mil,No,Estrato 2,Si,No,No,No,No,5 o 6,Más de 30 horas,121,30%
+M,Entre 2.5 millones y menos de 4 millones,Si,Estrato 1,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,117,30%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,No,No,Si,No,No,3 o 4,Más de 30 horas,116,30%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,110,30%
+M,Entre 5.5 millones y menos de 7 millones,No,Estrato 1,Si,No,No,No,No,3 o 4,Entre 11 y 20 horas,108,30%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 1,Si,Si,No,No,No,5 o 6,Más de 30 horas,103,30%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 2,Si,No,No,No,No,3 o 4,Más de 30 horas,99,30%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,78,30%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,No,Si,No,No,No,3 o 4,Entre 21 y 30 horas,73,30%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,Si,Si,No,No,5 o 6,Más de 30 horas,57,30%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 3,Si,Si,No,No,No,3 o 4,Más de 30 horas,50,30%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,Si,No,No,No,5 o 6,Entre 11 y 20 horas,48,30%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,Si,Si,No,No,No,5 o 6,Más de 30 horas,24,30%
+F,Más de 7 millones,Si,Estrato 4,Si,Si,Si,No,No,3 o 4,Más de 30 horas,1,30%
+M,Más de 7 millones,Si,Estrato 4,Si,Si,No,No,No,3 o 4,Más de 30 horas,186,20%
+M,Entre 2.5 millones y menos de 4 millones,Si,Estrato 3,Si,Si,No,No,No,5 o 6,Más de 30 horas,186,20%
+M,Entre 2.5 millones y menos de 4 millones,Si,Estrato 3,Si,Si,No,No,No,5 o 6,Más de 30 horas,168,20%
+M,Entre 2.5 millones y menos de 4 millones,Si,Estrato 1,No,No,No,No,No,3 o 4,0,161,20%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,No,No,No,Si,5 o 6,Más de 30 horas,153,20%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,No,No,No,No,3 o 4,Entre 11 y 20 horas,146,20%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 1,Si,Si,No,No,No,2,Más de 30 horas,145,20%
+F,Más de 7 millones,No,Estrato 1,No,No,No,No,No,3 o 4,0,144,20%
+F,Entre 5.5 millones y menos de 7 millones,Si,Estrato 2,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,132,20%
+F,Entre 5.5 millones y menos de 7 millones,Si,Estrato 2,Si,Si,No,No,No,5 o 6,Entre 11 y 20 horas,131,20%
+M,Más de 7 millones,No,Estrato 1,No,No,No,No,Si,5 o 6,Menos de 10 horas,126,20%
+M,Entre 4 millones y menos de 5.5 millones,No,Estrato 1,No,Si,No,No,Si,5 o 6,Más de 30 horas,119,20%
+M,Entre 4 millones y menos de 5.5 millones,Si,Estrato 1,No,No,Si,No,No,3 o 4,Menos de 10 horas,118,20%
+M,Entre 4 millones y menos de 5.5 millones,No,Estrato 1,Si,Si,No,No,No,5 o 6,Más de 30 horas,118,20%
+F,Más de 7 millones,Si,Estrato 1,Si,Si,Si,No,No,3 o 4,Más de 30 horas,116,20%
+F,Más de 7 millones,Si,Estrato 3,No,No,Si,No,No,3 o 4,Menos de 10 horas,115,20%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,112,20%
+M,Entre 500 mil y menos de 1 millón,No,Estrato 2,No,Si,No,No,No,5 o 6,Más de 30 horas,104,20%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 1,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,95,20%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,No,Si,No,No,No,5 o 6,Entre 21 y 30 horas,69,20%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,No,No,Si,No,No,3 o 4,Menos de 10 horas,42,20%
+M,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,Si,Si,No,No,No,3 o 4,Entre 21 y 30 horas,22,20%
+M,Menos de 500 mil,Si,Estrato 1,No,No,Si,No,Si,3 o 4,Más de 30 horas,22,20%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,No,No,No,No,Si,3 o 4,Menos de 10 horas,14,20%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,No,Si,No,No,Si,5 o 6,Más de 30 horas,7,20%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 1,No,No,Si,No,No,5 o 6,Menos de 10 horas,5,20%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,No,Si,No,No,No,3 o 4,Entre 21 y 30 horas,163,20%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 1,Si,No,No,No,Si,3 o 4,Más de 30 horas,143,20%
+M,Entre 2.5 millones y menos de 4 millones,Si,Estrato 1,Si,No,Si,No,No,3 o 4,Más de 30 horas,136,20%
+M,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,No,No,No,No,No,3 o 4,0,110,20%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,No,No,No,No,No,3 o 4,Entre 11 y 20 horas,97,20%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 1,Si,Si,No,No,No,5 o 6,Entre 11 y 20 horas,39,20%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 1,No,Si,No,No,No,5 o 6,Entre 11 y 20 horas,7,20%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 1,No,Si,No,No,No,3 o 4,Más de 30 horas,6,20%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,No,No,No,No,5 o 6,Entre 21 y 30 horas,159,20%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,No,No,No,No,No,3 o 4,Más de 30 horas,150,20%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,Si,No,No,No,No,3 o 4,Más de 30 horas,150,20%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,No,No,No,No,No,5 o 6,Entre 11 y 20 horas,149,20%
+F,Entre 5.5 millones y menos de 7 millones,Si,Estrato 2,Si,No,No,No,Si,3 o 4,Más de 30 horas,144,20%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 2,No,No,No,No,No,3 o 4,Más de 30 horas,140,20%
+F,Entre 5.5 millones y menos de 7 millones,Si,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,133,20%
+F,Menos de 500 mil,No,Estrato 1,No,No,No,No,No,3 o 4,Más de 30 horas,132,20%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,No,Si,No,No,No,5 o 6,Más de 30 horas,130,20%
+F,Más de 7 millones,No,Estrato 1,No,No,No,No,No,5 o 6,0,127,20%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,No,No,No,No,No,3 o 4,Entre 21 y 30 horas,113,20%
+F,Más de 7 millones,Si,Estrato 1,Si,Si,Si,No,No,5 o 6,Más de 30 horas,106,20%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,59,20%
+F,Entre 4 millones y menos de 5.5 millones,No,Estrato 2,No,Si,No,No,No,3 o 4,Más de 30 horas,50,20%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,No,Si,No,No,No,5 o 6,Entre 21 y 30 horas,43,20%
+F,Entre 5.5 millones y menos de 7 millones,No,Estrato 2,Si,Si,No,No,No,5 o 6,Más de 30 horas,37,20%
+M,Más de 7 millones,Si,Estrato 1,No,No,Si,No,Si,5 o 6,Menos de 10 horas,15,20%
+M,No pagó matrícula,No,Estrato 2,No,No,No,No,No,3 o 4,Más de 30 horas,11,20%
+M,Entre 5.5 millones y menos de 7 millones,No,Estrato 1,No,Si,No,No,No,3 o 4,Más de 30 horas,148,20%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 1,No,No,No,No,No,5 o 6,Entre 11 y 20 horas,132,20%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 1,No,No,No,No,Si,3 o 4,Entre 21 y 30 horas,132,20%
+F,Entre 500 mil y menos de 1 millón,No,Estrato 1,No,No,No,No,No,5 o 6,Entre 21 y 30 horas,130,20%
+F,Entre 500 mil y menos de 1 millón,Si,Estrato 1,No,No,No,No,No,3 o 4,Entre 11 y 20 horas,126,20%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,No,No,No,No,No,3 o 4,Entre 11 y 20 horas,124,20%
+M,Más de 7 millones,Si,Estrato 2,Si,No,No,No,No,5 o 6,Menos de 10 horas,118,20%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 2,No,No,No,No,No,3 o 4,Más de 30 horas,113,20%
+M,Más de 7 millones,Si,Estrato 3,Si,Si,No,No,No,3 o 4,Más de 30 horas,88,20%
+M,Menos de 500 mil,No,Estrato 1,No,No,No,No,No,3 o 4,Más de 30 horas,85,20%
+F,Más de 7 millones,Si,Estrato 3,Si,Si,No,No,No,3 o 4,Más de 30 horas,83,20%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,Si,No,Si,No,No,5 o 6,Más de 30 horas,77,20%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,No,No,No,No,Si,5 o 6,Más de 30 horas,63,20%
+M,Entre 4 millones y menos de 5.5 millones,Si,Estrato 2,Si,Si,No,No,No,3 o 4,Más de 30 horas,49,20%
+M,Entre 2.5 millones y menos de 4 millones,Si,Estrato 1,Si,Si,No,No,No,3 o 4,Más de 30 horas,43,20%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 1,No,No,Si,No,No,5 o 6,Entre 21 y 30 horas,8,20%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,No,No,No,No,No,5 o 6,0,1,20%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 2,No,No,No,No,No,2,Más de 30 horas,153,20%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 1,No,No,No,No,No,3 o 4,Más de 30 horas,150,20%
+M,Entre 2.5 millones y menos de 4 millones,Si,Estrato 2,No,Si,No,No,No,3 o 4,Más de 30 horas,149,20%
+F,Más de 7 millones,No,Estrato 1,No,No,No,No,No,5 o 6,Menos de 10 horas,149,20%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,No,No,No,No,No,3 o 4,Más de 30 horas,146,20%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 1,No,Si,No,No,No,3 o 4,Entre 21 y 30 horas,131,20%
+M,Más de 7 millones,No,Estrato 1,No,No,No,No,No,5 o 6,Menos de 10 horas,122,20%
+M,Entre 4 millones y menos de 5.5 millones,No,Estrato 1,Si,No,No,No,No,5 o 6,Más de 30 horas,122,20%
+M,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,No,No,No,No,No,3 o 4,Entre 11 y 20 horas,109,20%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,No,Si,No,No,No,3 o 4,Más de 30 horas,106,20%
+M,Entre 2.5 millones y menos de 4 millones,No,Estrato 1,No,No,No,No,No,2,Más de 30 horas,88,20%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,No,No,No,No,No,3 o 4,Menos de 10 horas,23,20%
+F,Entre 4 millones y menos de 5.5 millones,Si,Estrato 1,Si,No,No,No,No,5 o 6,Entre 21 y 30 horas,171,20%
+F,Entre 2.5 millones y menos de 4 millones,Si,Estrato 1,No,Si,No,No,No,3 o 4,Más de 30 horas,132,20%
+M,Entre 2.5 millones y menos de 4 millones,Si,Estrato 1,Si,No,No,No,No,3 o 4,Más de 30 horas,116,20%
+F,Más de 7 millones,No,Estrato 2,No,No,No,Si,No,5 o 6,Más de 30 horas,114,20%
+F,Más de 7 millones,No,Estrato 1,No,No,No,No,No,5 o 6,Menos de 10 horas,84,20%
+F,Entre 1 millón y menos de 2.5 millones,No,Estrato 1,No,No,No,No,No,3 o 4,Más de 30 horas,76,20%
+F,Entre 2.5 millones y menos de 4 millones,No,Estrato 2,No,No,No,No,No,5 o 6,Más de 30 horas,149,20%
+F,Más de 7 millones,Si,Estrato 1,Si,Si,No,No,No,5 o 6,Más de 30 horas,122,20%
+M,Entre 4 millones y menos de 5.5 millones,Si,Estrato 1,No,No,Si,No,No,3 o 4,Más de 30 horas,116,20%
+F,Más de 7 millones,Si,Estrato 2,No,No,Si,No,No,3 o 4,Más de 30 horas,138,20%
+F,Entre 5.5 millones y menos de 7 millones,Si,Estrato 1,Si,No,No,No,No,5 o 6,Entre 21 y 30 horas,137,20%
+F,Más de 7 millones,Si,Estrato 2,No,Si,No,No,No,5 o 6,Entre 11 y 20 horas,47,20%
+M,Más de 7 millones,Si,Estrato 1,No,Si,No,No,No,3 o 4,Más de 30 horas,136,20%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,No,No,No,No,No,3 o 4,Más de 30 horas,119,20%
+M,Entre 2.5 millones y menos de 4 millones,Si,Estrato 1,Si,No,No,No,No,5 o 6,Más de 30 horas,39,20%
+M,Entre 4 millones y menos de 5.5 millones,Si,Estrato 1,No,No,No,No,No,3 o 4,Más de 30 horas,135,10%
+F,Entre 1 millón y menos de 2.5 millones,Si,Estrato 1,No,No,No,No,No,3 o 4,Más de 30 horas,43,10%
+F,Más de 7 millones,Si,Estrato 2,No,No,No,No,No,3 o 4,Más de 30 horas,79,10%
+F,Entre 5.5 millones y menos de 7 millones,Si,Estrato 1,No,No,No,No,No,3 o 4,Más de 30 horas,76,10%
+F,Más de 7 millones,Si,Estrato 2,No,No,No,No,No,5 o 6,Más de 30 horas,145,10%
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
